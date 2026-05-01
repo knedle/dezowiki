@@ -53,3 +53,25 @@ Tarabová vyjadřuje politování nad neschopností Čechů sjednotit se v odpor
 > „Kdyby se udělalo to, že dva dny by prostě nikdo pohonné hmoty vůbec nečerpal... takže by s tím vláda sakra musela něco dělat." — Lenka Tarabová, [Cena pohonných hmot 2026-03-12](_zdroje.md#lenka-tarabová--cena-pohonných-hmot-stále-roste)
 
 **Zdroje:** [Tarabová — Cena pohonných hmot, 2026-03-12](_zdroje.md#lenka-tarabová--cena-pohonných-hmot-stále-roste)
+
+---
+
+## Rusko a energetická krize EU
+
+### Obnovení ruských dodávek jako jediné řešení
+
+Rajchl opakovaně argumentuje, že EU se odstřižením od ruského plynu a ropy sama vyřadila z výhodné energetické pozice. Rusko totiž své suroviny prodá jinam (Čína, Indie), zatímco Evropa platí vyšší ceny za alternativní zdroje. Europarlament v dubnu 2026 odložil hlasování o zákazu dovozu ruské ropy — podle Rajchla to dokazuje, že i samotná EU pochopila svou chybu. Ursula von der Leyen se mezitím omluvila za chybné opuštění jádra. Rajchl předpovídá, že za deset let přijde stejné přiznání o fosilních palivech.
+
+> „Nechci nechat tyto šílence vládnout v Evropě." — Jindřich Rajchl o vedení EU, [Energetická krize a Rusko 2026-03-28](_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
+
+**Zdroje:** [Rajchl — Energetická krize a Rusko, 2026-03-28](_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
+
+---
+
+### Válka s Íránem může poslat ropu na 300 USD/barel
+
+Boldy předpovídá, že válka s Íránem (kterou sionisté záměrně iniciují pro „příchod mesiáše") vyžene cenu ropy na 300 USD za barel. To by znamenalo ceny pohonných hmot v ČR 70–150 Kč/litr a automobily by se staly luxusním zbožím. Přicházející ekonomická krize bude podle Boldyho horší než v roce 1929.
+
+> „Tahleta válka může vystřelit cenu ropy až na 300 dolarů za barel. Co by to znamenalo? Benzín a nafta by se vyšplhala od 70 do 150 korun za litr, takže by se staly naftové i benzínové auta luxusem." — Boldy, [Mesiáš, Írán a ropa 2026-03-15](_zdroje.md#konspirátor-boldy--mesiáš-írán-a-ropa)
+
+**Zdroje:** [Boldy — Mesiáš, Írán a ropa, 2026-03-15](_zdroje.md#konspirátor-boldy--mesiáš-írán-a-ropa)

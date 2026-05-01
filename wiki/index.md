@@ -9,7 +9,7 @@ Obsah je organizován **tematicky** — každá stránka pokrývá jedno téma n
 - [Jindřich Rajchl](https://www.facebook.com/jindrich.rajchl) — předseda strany PRO, právník
 - [Lenka Tarabová](https://www.facebook.com/lenka.tarabova) — aktivistka, komentátorka
 - [Konspirátor Boldy / KonspyChannel](https://www.facebook.com/KonspyChannel) — konspiračně-okultistický komentátor
-- [Československo TV2](https://www.facebook.com/CeskoslovenskoTV2) — alternativní médium
+- [Pavel Zítko / Československo TV2](https://www.facebook.com/CeskoslovenskoTV2) — alternativní médium
 - [Jiří Černohorský Živě](https://www.facebook.com/cernohorsky.jiri) — aktivista, komentátor
 
 ## Témata

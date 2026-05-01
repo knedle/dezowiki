@@ -81,7 +81,35 @@ Boldy tvrdí, že veřejné osobnosti — politici i celebrity — jsou nahrazov
 
 ---
 
+## Blízký východ a Írán
+
+### Válka s Íránem jako příležitost pro příchod mesiáše a islamizaci Evropy
+
+Boldy tvrdí, že sionisté prohlásili válku s Íránem za „ideální čas pro příchod mesiáše". Součástí tohoto plánu má být zničení mešit na Chrámové hoře, což by radikalizovalo islámský svět a vyvolalo konflikty v Evropě, která je podle Boldyho záměrně islamizována. Válka s Íránem by navíc vyhnala cenu ropy na 300 USD za barel, benzín a nafta by se v Česku vyšplhaly na 70–150 Kč/litr, čímž by se automobily staly luxusem. Přicházející krize bude podle Boldyho horší než v roce 1929, akciové trhy ztratí 60–80 % hodnoty.
+
+> „Elitám sionistům to hraje naprosto do karet, protože tahleta válka může vystřelit cenu ropy až na 300 dolarů za barel. Co by to znamenalo pro nás tady v Evropě? No, benzín a nafta by se vyšplhala od 70 do 150 korun za litr." — Boldy, [Mesiáš, Írán a ropa 2026-03-15](_zdroje.md#konspirátor-boldy--mesiáš-írán-a-ropa)
+
+**Zdroje:** [Boldy — Mesiáš, Írán a ropa, 2026-03-15](_zdroje.md#konspirátor-boldy--mesiáš-írán-a-ropa)
+
+---
+
 ## Historické konspirační výklady
+
+### „Česko je plán" — záměrná eroze národní identity
+
+Jiří Černohorský tvrdí, že označení „Česko" (místo Česká republika) je součástí dlouhodobého plánu elit na erodování české národní identity, restituce majetků šlechtickým rodům s nacistickou minulostí a budoucí připojení k Německu. Podrobné indicie viz [Suverenita a EU — Plán na germanizaci](suverenita-eu.md#plán-na-germanizaci--česko-je-plán).
+
+**Zdroje:** [Černohorský — Česko je plán, 2025-11-14](_zdroje.md#jiří-černohorský--česko-je-plán-14-11-2025)
+
+---
+
+### Přistání na Měsíci jako podvod — NASA Artemis jako pokračování
+
+Pavel Zítko označuje přistání na Měsíci (Apollo) za historický podvod a misi NASA Artemis za jeho pokračování. Odkazuje se na Stanleyho Kubricka, o němž tvrdí, že původní přistání natočil jako fikci, podepsal 88stránkovou dohodu o mlčenlivosti na 15 let, a po jejím vypršení zahrnul do posledního filmu (*Eyes Wide Shut*) jména aktérů — načež zemřel na infarkt, který mohl být vyvolán CIA injekční látkou způsobující srdeční selhání.
+
+**Zdroje:** [Zítko — COVID tour ohlášení, 2026-04-02](_zdroje.md#pavel-zítko--covid-tour-ohlášení-2-4)
+
+---
 
 ### Sametová revoluce jako řízený rozpad
 

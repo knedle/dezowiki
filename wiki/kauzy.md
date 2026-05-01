@@ -46,6 +46,40 @@ V krátkém videu natočeném v Bratislavě se Rajchl jednoznačně staví za Zd
 
 ---
 
+## Hrozby a dvojí metr justice
+
+### Policie neřeší výzvu k žářskému útoku na Rajchlův dům
+
+Rajchl dokumentuje případ: aktivista Vojtěch Pšenák zveřejnil na sociální síti Rajchlovu domácí adresu s textem, že tam „levičáci" najdou drony pro Izrael; člen ODS Jakub Hedia k tomu přidal komentář o „škrtnutí sirkou". Ani policie, ani ODS případ veřejně neodsoudily. Zároveň Rajchl uvádí, že jiný uživatel byl povolán k výslechu na odbor extremismu za výrok „vím, kam jít se samopalem" — na komentář u demonstrace, nikoliv za zveřejnění adresy. Rajchl to označuje za systémový dvojí metr: výhrůžky vůči opozičním politikům jsou tolerovány, výhrůžky vůči prodemokratickým aktivisté okamžitě stíhány.
+
+> „Tady nenávistný komentář na sociální síť — druhý den seděl u výslechu na odboru extremismu. A tady se neděje nic. Terorismus je terorismus, dámy a pánové." — Jindřich Rajchl, [Strašák jménem Dozimetr 2026-03-29](_zdroje.md#jindřich-rajchl--strašák-jménem-dozimetr)
+
+**Zdroje:** [Rajchl — Strašák jménem Dozimetr, 2026-03-29](_zdroje.md#jindřich-rajchl--strašák-jménem-dozimetr)
+
+---
+
+## Trestní stíhání kritiků covidu
+
+### Peková a Zítko stíháni za „šíření poplašné zprávy"
+
+Soňa Peková a Pavel Zítko jsou trestně stíháni za „šíření poplašné zprávy" v souvislosti se svými vyjádřeními o pandemii a vakcínách. Zítko a Peková to prezentují jako politické pronásledování kritiků covidových opatření a vyzývají prezidenta Petra Pavla, aby se k věci vyjádřil. Peková tvrdí, že jí nikdo z politiků — ani Petr Kotlár, ani Robert Fico, ani prezident Pavel — nepřijal k přezkoumání vzorky vakcín.
+
+**Zdroje:** [Zítko — petice za prezidentem, 2026-03-31](_zdroje.md#pavel-zítko--soběšovice-petice-za-prezidentem-31-3)
+
+---
+
+## Prezident Petr Pavel — hodnocení Jiřím Černohorským
+
+### Petr Pavel jako „velezrádce" s komunistickou minulostí
+
+Jiří Černohorský označuje Petra Pavla za „velezrádce", jehož slovo nestojí nic. Jako důkazy uvádí: Pavel sloužil komunistickému režimu v 28 letech (kdy nelze hovořit o „mladické nerozvážnosti"), lhal o vstupu do kontrarozvědky, schvaloval v roce 1968 sovětskou invazi a vyhýbá se přímé odpovědi, schůzky se Sudetoněmeckým Landsmannschaftem v Německu (jehož předseda stojí za prolomením Benešových dekretů), jednání s Lichtensteiny označenými za nacistické kolaboranty, ignorování ústavy. Senát měl podle Černohorského dávno podat ústavní žalobu.
+
+> „Za mě tenhle velezrádce, naprostej velezrádce, který nestojí za zájmy České republiky, který je schopen obcházet veškerou justici — jak justici České republiky, tak mezinárodní justici. Za mě Petr Pavel je velezrádce." — Jiří Černohorský, [Petr Pavel jako velezrádce 2026-01-17](_zdroje.md#jiří-černohorský--petr-pavel-jako-velezrádce-17-1-2026)
+
+**Zdroje:** [Černohorský — Petr Pavel jako velezrádce, 2026-01-17](_zdroje.md#jiří-černohorský--petr-pavel-jako-velezrádce-17-1-2026)
+
+---
+
 ## Kauza Bitcoin — organizovaný zločin ve státní správě
 
 ### Hodnocení bitcoinové kauzy

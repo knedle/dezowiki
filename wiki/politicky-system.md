@@ -18,6 +18,36 @@ Jiří Černohorský explicitně odmítá, že by v České republice existovala
 
 ---
 
+## Prezident a demokracie
+
+### Minář odmítl debatu — zbabělost nebo taktika
+
+Rajchl tvrdí, že Mikuláš Minář odmítl pozvání webu Novinky.cz k přímé vzájemné debatě (novinář Ivo Horvát zprostředkovával kontakt, termín byl téměř domluven). Rajchl to interpretuje jako projev zbabělosti — Minář prý ví, že by v přímé konfrontaci prohrál. Spojuje to s obecnějším vzorcem: politické neziskovky a jejich představitelé komunikují pouze s přátelskými médii a vyhýbají se přímé debatě s oponenty.
+
+> „Mikuláš Minář je srap. On se té debaty bojí. On moc dobře ví, že by shořel jako suché listí." — Jindřich Rajchl, [Minář odmítl debatu 2026-03-28](_zdroje.md#jindřich-rajchl--mikuláš-minář-odmítl-debatu)
+
+**Zdroje:** [Rajchl — Minář odmítl debatu, 2026-03-28](_zdroje.md#jindřich-rajchl--mikuláš-minář-odmítl-debatu)
+
+---
+
+### Petr Pavel chválí demonstraci Milionu chvilek — po třech letech mlčení o opoziční scéně
+
+Rajchl poukazuje na rozpor v chování prezidenta Petra Pavla: v roce 2023 prohlásil o účastnících demonstrací PRO, že s nimi „nemá cenu se bavit" a označil je za ztracené existence. Po třech letech se ovšem pozitivně vyjádřil k demonstraci Milionu chvilek, řekl, že „většina musí naslouchat menšině" a vyzývá vládu k dialogu. Rajchl to označuje za flagrantní dvojí metr.
+
+**Zdroje:** [Rajchl — Strašák jménem Dozimetr, 2026-03-29](_zdroje.md#jindřich-rajchl--strašák-jménem-dozimetr)
+
+---
+
+### Zrušení prezidentského úřadu — návrh Jiřího Černohorského
+
+Černohorský navrhuje zrušit funkci prezidenta jako zbytečnou — když je tu předseda vlády, prezident nemá smysl. Jako ilustraci uvádí, že funkce prezidenta je škodlivá: člověk s prověrkami může předávat neveřejné informace z ministerstva zahraničí mediím (viz kauza s Deníkem N) bez jakýchkoli důsledků.
+
+> „Já bych zrušil funkci prezidenta, k čemu? Funkce prezidenta je úplně k hovnu, úplně k hovnu, jestliže máte předsedu vlády." — Jiří Černohorský, [Dvojí metr Zeman vs. Pavel 2026-01-27](_zdroje.md#jiří-černohorský--dvojí-metr-zeman-vs-pavel-27-1-2026)
+
+**Zdroje:** [Černohorský — Dvojí metr Zeman vs. Pavel, 2026-01-27](_zdroje.md#jiří-černohorský--dvojí-metr-zeman-vs-pavel-27-1-2026)
+
+---
+
 ## Sociální politika — senioři
 
 ### Valorizace důchodů vs. platy politiků — dvojí metr

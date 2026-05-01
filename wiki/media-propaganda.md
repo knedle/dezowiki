@@ -48,6 +48,18 @@ Rajchl kritizuje selektivní aplikaci mediálních kampaní. Mediální útok na
 
 ---
 
+## Dvojí metr v médiích
+
+### Hrad prodal tajné informace Deníku N — média mlčí
+
+Jiří Černohorský upozorňuje na případ, kdy pracovníci Hradu (podle jeho slov s bezpečnostní prověrkou) předali neveřejné materiály z ministerstva zahraničí Deníku N. Tvrdí, že kdyby se totéž stalo za prezidenta Miloše Zemana, Česká televize by přerušila veškeré pořady a věnovala se tomu nepřetržitě (podobně jako státní televize po smrti Brežněva). Ve skutečnosti tuto kauzu mainstreamová média prakticky ignorovala. Jako důkaz, že Hrad má uzavřenou smlouvu se Seznamem Zprávy, cituje informaci, kterou zveřejnil Franta Kubásek.
+
+> „Kdyby tohle udělal Miloš Zeman, tak vám říkám, mainstream, česká televize vybuchne, vole, vybuchne. Konec s pořadama, žádný studio Kamarád, vole. A jel by tam Miloš Zeman." — Jiří Černohorský, [Dvojí metr Zeman vs. Pavel 2026-01-27](_zdroje.md#jiří-černohorský--dvojí-metr-zeman-vs-pavel-27-1-2026)
+
+**Zdroje:** [Černohorský — Dvojí metr Zeman vs. Pavel, 2026-01-27](_zdroje.md#jiří-černohorský--dvojí-metr-zeman-vs-pavel-27-1-2026)
+
+---
+
 ## Elity a plánování dezinformací skrze popkulturu
 
 ### Filmy jako záměrné odhalení plánů

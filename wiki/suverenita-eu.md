@@ -44,6 +44,20 @@ Myšlenku vystoupení z EU nezavrhuje, ale konstatuje, že strany prosazující 
 
 ---
 
+## Energetika a Rusko
+
+### Obnovení dovozu ruského plynu a ropy jako řešení energetické krize
+
+Rajchl tvrdí, že EU si sama uškodila odpojením od levných ruských zdrojů energie. Poukazuje na to, že Nizozemsko má zásobníky plynu naplněné jen ze 6 %, a Evropská komise sama odložila hlasování o zákazu dovozu ruské ropy poté, co pochopila, že se bez ní neobejde. Za řešení považuje obnovení dodávek ropy a plynu z Ruska, zrušení Green Dealu a odvolání „neschopných lídrů" EU v čele s Ursulou von der Leyen. Předpovídá, že za deset let přijde přiznání, že odklon od fosilních paliv byl chybou, která stála Evropu biliony.
+
+> „Celé tohle divadlo ohledně odstřihávání se od levných zdrojů z Ruska je prostě hloupost, je to naivita, to Rusko ty peníze bude mít — buď ten plyn a ropu prodá Číně, Indii, nebo je prodá nám." — Jindřich Rajchl, [Energetická krize a Rusko 2026-03-28](_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
+
+> „Za deset let přijde buď to Ursula nebo někdo jiný a bude říkat: odchod od fosilních paliv byla chyba, která nás stála biliony za deset let." — Jindřich Rajchl, [Energetická krize a Rusko 2026-03-28](_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
+
+**Zdroje:** [Rajchl — Energetická krize a Rusko, 2026-03-28](_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
+
+---
+
 ## Benešovy dekrety
 
 ### Sudetoněmecký Landsmannschaft — hrozba pro majetkové jistoty
@@ -53,6 +67,35 @@ U příležitosti výročí 15. března (nacistická okupace 1939) Rajchl kritiz
 > „Sudetští Němci prostě se budou snažit vždy tyto základní pilíře našeho uspořádání, majetkového právního uspořádání, kterými jsou Benešovy dekrety, prolomit, zničit, zrušit." — Jindřich Rajchl, [FARA/DSA/Dozimetr](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr)
 
 **Zdroje:** [Rajchl — FARA, DSA, Dozimetr, 2026-03-15](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr)
+
+---
+
+## Plán na germanizaci — „Česko je plán"
+
+### Přejmenování na „Česko" jako součást záměru připojit zemi k Německu
+
+Jiří Černohorský zastává přesvědčení, že označení „Česko" (místo Česká republika) není pouhá zkratka, ale součást dlouhodobého plánu na erodování české národní identity s cílem umožnit budoucí referendum o připojení k Německu. Svůj výklad dokládá souhrnem indicií:
+- Šlechtické rody (Kinský, Salm, Černín, Walderode) dostávají zpět majetek, ačkoli jsou podezřívány z kolaborace s nacisty.
+- Benešovy dekrety jsou systematicky zpochybňovány — Schwarzenberg při prezidentské debatě prohlásil, že jsou vlastně zbytečné, a v rozhovoru se vyjádřil, že by nebylo od věci, kdybychom jednou mluvili německy.
+- Ekonom Luděk Kovanda v České televizi Česko označil za „sedmnáctou spolkovou republiku" Německa.
+- Bývalý ministr kultury Daniel Herrmann (KDU-ČSL) „jen tak mimochodem" zmínil přiřazení k Německu.
+- Na mapě Google se místo „Česká republika" zobrazuje „Česko", název „Česko" se zobrazuje při vytáčení hovorů.
+- Hokejové dresy ztratily státní znak a vlajku, fotbaloví reprezentanti hrají venku ve žlutých dresech.
+- Německý překlad hymny se zobrazuje na Wikipedii automaticky vedle textu.
+
+> „Česko je plán a to už od roku 93. Vlastně už po rozpadu Československa. Po tom podvodu." — Jiří Černohorský, [Česko je plán 2025-11-14](_zdroje.md#jiří-černohorský--česko-je-plán-14-11-2025)
+
+> „Budou počítat s tím, že jednoho krásného dne nějaký kolaborantský parchan vyhlásí referendum o přiřazení České republiky jakožto Česka k Německu." — Jiří Černohorský, [Česko je plán 2025-11-14](_zdroje.md#jiří-černohorský--česko-je-plán-14-11-2025)
+
+**Zdroje:** [Černohorský — Česko je plán, 2025-11-14](_zdroje.md#jiří-černohorský--česko-je-plán-14-11-2025)
+
+---
+
+### Církevní restituce jako brána k navrácení majetků šlechtickým rodům
+
+V návaznosti na téma šlechtických restitucí Černohorský tvrdí, že církevní restituce jsou záměrně nastaveny tak, aby umožnily navrácení majetků šlechtickým rodům podezřelým z nacistické kolaborace — církevní hodnostáři prý tato majetková ujednání akceptují za finanční kompenzaci.
+
+**Zdroje:** [Černohorský — Česko je plán, 2025-11-14](_zdroje.md#jiří-černohorský--česko-je-plán-14-11-2025)
 
 ---
 
