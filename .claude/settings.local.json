@@ -11,7 +11,10 @@
       "PowerShell(gh auth *)",
       "PowerShell(winget install *)",
       "PowerShell(gh *)",
-      "PowerShell(gh repo *)"
+      "PowerShell(gh repo *)",
+      "PowerShell(gh run *)",
+      "PowerShell(gh api *)",
+      "PowerShell(mkdocs build *)"
     ]
   }
 }

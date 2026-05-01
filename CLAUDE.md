@@ -13,8 +13,8 @@ Tematická wiki názorů, postojů a tvrzení z přepisů videí a rozhovorů. V
 ## Stav projektu (pilotní fáze)
 
 - `prepisy/` — existuje, obsahuje přes 100 TXT souborů z více zdrojů
-- `wiki/` — **zatím neexistuje**, bude vytvořena zpracováním přepisů
-- `mkdocs.yml` — zatím neexistuje
+- `wiki/` — existuje, obsahuje tematické MD soubory a podadresář `osoby/`
+- `mkdocs.yml` — existuje, nakonfigurován
 
 ---
 
@@ -88,13 +88,43 @@ Stručný popis (2–4 věty vlastními slovy, ne copy-paste).
 
 ---
 
+## Stránky osob (`wiki/osoby/`)
+
+Každý mluvčí má vlastní stránku v `wiki/osoby/[jmeno].md`. Stránka obsahuje:
+- Stručný popis osoby
+- Odkaz na zpracované zdroje v `_zdroje.md`
+- Tabulku **témat** (které tematické stránky se jí týkají)
+- Tabulku **zmíněných osob** — kdo je zmiňován, s jakým vztahem
+
+### Formát tabulky zmíněných osob
+
+```markdown
+## Zmíněné osoby
+
+| Osoba | Vztah | Kontext | Datum | Zdroj |
+|-------|-------|---------|-------|-------|
+| Mikuláš Minář | ❌ negativní | Označen za jednoho z největších lhářů v ČR | 2026-03-27 | [Kettner](../_zdroje.md#...) |
+| Zdeněk Kettner | ✅ pozitivní | Obhajuje ho v kauze AI fotografie | 2026-03-27 | [Kettner](../_zdroje.md#...) |
+```
+
+**Symboly vztahu:**
+- `✅ pozitivní` — mluví o osobě pochvalně, hájí ji, spolupracuje
+- `❌ negativní` — kritizuje, útočí, zpochybňuje
+- `⚖️ rozporuplný` — smíšené nebo situačně odlišné postoje
+- `○ neutrální` — zmiňuje fakticky bez hodnocení
+
+**Pravidlo aktualizace:** Pokud se vztah v novém přepisu změní nebo doplní, přidej **nový řádek** se stejnou osobou a novým datem — nesmazávej starý. Tím vzniká časová osa vývoje vztahu.
+
+---
+
 ## Workflow při zpracování přepisu
 
 1. Přečti soubor z `prepisy/` (sekci PŘEPIS, METADATA pro atribuci)
 2. Identifikuj témata → zkontroluj existující soubory ve `wiki/`
 3. Rozšiř existující nebo vytvoř nový MD soubor
 4. Přidej záznam do `wiki/_zdroje.md`
-5. Aktualizuj `mkdocs.yml` nav sekci, pokud vznikl nový soubor
+5. Aktualizuj stránku mluvčího v `wiki/osoby/` — témata i zmíněné osoby
+6. Aktualizuj `mkdocs.yml` nav sekci, pokud vznikl nový soubor
 
 ---
 
