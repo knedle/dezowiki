@@ -12,7 +12,8 @@ Tematická wiki názorů, postojů a tvrzení z přepisů videí a rozhovorů. V
 
 ## Stav projektu (pilotní fáze)
 
-- `prepisy/` — existuje, obsahuje přes 100 TXT souborů z více zdrojů
+- `prepisy/` — soubory čekající na zpracování
+- `prepisy/done/` — přesunuté zpracované soubory (jsou v `_zdroje.md` jako `prepisy/done/…`)
 - `wiki/` — existuje, obsahuje tematické MD soubory a podadresář `osoby/`
 - `mkdocs.yml` — existuje, nakonfigurován
 
@@ -43,6 +44,8 @@ Zdroj se identifikuje z části názvu souboru mezi prvním a druhým podtržít
 Zpracovávej **maximálně 3 soubory od každého zdroje** za jedno sezení, dokud nebude finální produkt hotový.
 
 Pokud uživatel nepřiloží konkrétní seznam, vyber 3 nejstarší nezpracované soubory od každého zdroje (dle data v názvu souboru).
+
+**Kontrola před zpracováním:** Soubor je zpracovaný, pokud se nachází v `prepisy/done/` nebo je uveden v `wiki/_zdroje.md`. Vybírej výhradně soubory v `prepisy/` (nikoliv `prepisy/done/`).
 
 ---
 
@@ -80,7 +83,7 @@ Stručný popis (2–4 věty vlastními slovy, ne copy-paste).
 
 ```markdown
 ## Název videa
-- **Soubor:** `prepisy/YYYY-MM-DD_Zdroj_Název.txt`
+- **Soubor:** `prepisy/done/YYYY-MM-DD_Zdroj_Název.txt`
 - **Kanál:** ...
 - **Datum záznamu:** ...
 - **Zpracováno:** ano
@@ -119,12 +122,14 @@ Každý mluvčí má vlastní stránku v `wiki/osoby/[jmeno].md`. Stránka obsah
 
 ## Workflow při zpracování přepisu
 
-1. Přečti soubor z `prepisy/` (sekci PŘEPIS, METADATA pro atribuci)
-2. Identifikuj témata → zkontroluj existující soubory ve `wiki/`
-3. Rozšiř existující nebo vytvoř nový MD soubor
-4. Přidej záznam do `wiki/_zdroje.md`
-5. Aktualizuj stránku mluvčího v `wiki/osoby/` — témata i zmíněné osoby
-6. Aktualizuj `mkdocs.yml` nav sekci, pokud vznikl nový soubor
+1. Ověř, že soubor není v `prepisy/done/` (= již zpracován)
+2. Přečti soubor z `prepisy/` (sekci PŘEPIS, METADATA pro atribuci)
+3. Identifikuj témata → zkontroluj existující soubory ve `wiki/`
+4. Rozšiř existující nebo vytvoř nový MD soubor
+5. Přidej záznam do `wiki/_zdroje.md` (cesta: `prepisy/done/…`)
+6. Přesuň soubor do `prepisy/done/` pomocí `git mv`
+7. Aktualizuj stránku mluvčího v `wiki/osoby/` — témata i zmíněné osoby
+8. Aktualizuj `mkdocs.yml` nav sekci, pokud vznikl nový soubor
 
 ---
 
