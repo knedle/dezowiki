@@ -1,4 +1,4 @@
-# Wiki názorů a tvrzení
+# DezoWiki
 
 Tato wiki zachycuje **názory, postoje a tvrzení** z přepisů videí a rozhovorů vybraných českých a slovenských komentátorů, politiků a aktivistů.
 
