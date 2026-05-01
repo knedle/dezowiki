@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-ChildItem \"e:\\\\docker\\\\dezowiki\\\\prepisy\\\\\" | Where-Object { $_.Name -match \"Jindřich-Rajchl\" } | Sort-Object Name | Select-Object -First 3 -ExpandProperty Name)",
+      "PowerShell(Get-ChildItem \"e:\\\\docker\\\\dezowiki\\\\prepisy\\\\\" | Where-Object { $_.Name -match \"Lenka-Tarabová\" } | Sort-Object Name | Select-Object -First 3 -ExpandProperty Name)",
+      "PowerShell(Get-ChildItem \"e:\\\\docker\\\\dezowiki\\\\prepisy\\\\\" | Where-Object { $_.Name -match \"Konspirátor-Boldy\" } | Sort-Object Name | Select-Object -First 3 -ExpandProperty Name)",
+      "PowerShell(Get-ChildItem \"e:\\\\docker\\\\dezowiki\\\\prepisy\\\\\" | Where-Object { $_.Name -match \"Československo-TV2\" } | Sort-Object Name | Select-Object -First 3 -ExpandProperty Name)",
+      "PowerShell(Get-ChildItem \"e:\\\\docker\\\\dezowiki\\\\prepisy\\\\\" | Where-Object { $_.Name -match \"Černohorský\" } | Sort-Object Name | Select-Object -First 3 -ExpandProperty Name)",
+      "PowerShell(New-Item *)",
+      "PowerShell(git *)",
+      "PowerShell(gh auth *)",
+      "PowerShell(winget install *)",
+      "PowerShell(gh *)",
+      "PowerShell(gh repo *)"
+    ]
+  }
+}
