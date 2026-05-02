@@ -2,7 +2,7 @@
 
 Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na témata každodenní politiky, zdražování a kritiky vlády.
 
-**Zpracované zdroje:** [Cena pohonných hmot (12. 3. 2026)](../_zdroje.md#lenka-tarabová--cena-pohonných-hmot-stále-roste) · [ANO nechává neziskovky (23. 3. 2026)](../_zdroje.md#lenka-tarabová--ano-nechává-neziskovky) · [Vakcinační genocida (23. 3. 2026)](../_zdroje.md#lenka-tarabová--vakcinační-genocida-německý-toxikolog) · [Chvilkařská chobotnice (27. 3. 2026)](../_zdroje.md#lenka-tarabová--chvilkařská-chobotnice) · [Výzva lékařům — anglické svědectví (30. 3. 2026)](../_zdroje.md#lenka-tarabová--výzva-lékařům-anglické-svědectví) · [VZP: bonus za očkování jako diskriminace (30. 3. 2026)](../_zdroje.md#lenka-tarabová--vzp-bonus-za-očkování-jako-diskriminace)
+**Zpracované zdroje:** [Cena pohonných hmot (12. 3. 2026)](../_zdroje.md#lenka-tarabová--cena-pohonných-hmot-stále-roste) · [ANO nechává neziskovky (23. 3. 2026)](../_zdroje.md#lenka-tarabová--ano-nechává-neziskovky) · [Vakcinační genocida (23. 3. 2026)](../_zdroje.md#lenka-tarabová--vakcinační-genocida-německý-toxikolog) · [Chvilkařská chobotnice (27. 3. 2026)](../_zdroje.md#lenka-tarabová--chvilkařská-chobotnice) · [Výzva lékařům — anglické svědectví (30. 3. 2026)](../_zdroje.md#lenka-tarabová--výzva-lékařům-anglické-svědectví) · [VZP: bonus za očkování jako diskriminace (30. 3. 2026)](../_zdroje.md#lenka-tarabová--vzp-bonus-za-očkování-jako-diskriminace) · [Podvod století: virologie jako pseudověda (2. 4. 2026)](../_zdroje.md#lenka-tarabová--podvod-století-virologie-jako-pseudověda-2-4-2026)
 
 ---
 
@@ -12,7 +12,7 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 |------|----------------------|
 | [Ceny energií](../ceny-energie.md) | Zdražování nafty, nesoulad s cenou barelu, kritika vlády za nečinnost, výzva k bojkotu čerpacích stanic |
 | [FARA a neziskovky](../fara-neziskovky.md) | ANO nezjišťuje zahraniční financování neziskovek; Milion chvílek — hierarchie, skrytý účet, napojení na neziskový sektor |
-| [COVID a vakcíny](../covid-vakciny.md) | Comirnaty nebyla testována na karcinogenitu (svědectví šéftoxikologa Pfizer Europe); VZP bonus 500 Kč za očkování jako diskriminace (§ 198/2009, § 402 trestního zákoníku); svědectví amerického lékaře o absenci výuky bezpečnosti vakcín |
+| [COVID a vakcíny](../covid-vakciny.md) | Comirnaty nebyla testována na karcinogenitu (svědectví šéftoxikologa Pfizer Europe); VZP bonus 500 Kč za očkování jako diskriminace (§ 198/2009, § 402 trestního zákoníku); svědectví amerického lékaře o absenci výuky bezpečnosti vakcín; virologie jako pseudověda — viry nikdy nebyly izolovány, experimenty se španělskou chřipkou (1918) neprokázaly přenos |
 
 ---
 

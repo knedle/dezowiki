@@ -295,3 +295,43 @@
 - **Datum záznamu:** 2026-04-03
 - **Délka:** 3:28 | Zhlédnutí: 141 773
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Minář a boty z krokodýlí kůže (1. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-01_Jindřich-Rajchl_227K-views-39K-reactions-Mikuláš-Minář-na-své-vylhané.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/2418476408588600>
+- **Datum záznamu:** 2026-04-01
+- **Délka:** 0:08 | Zhlédnutí: 76 402
+- **Zpracováno:** ano
+
+## Lenka Tarabová — Podvod století: virologie jako pseudověda (2. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-02_Lenka-Tarabová_24K-views-105-reactions-PODVOD-STOLETÍ-Ve-společnosti-.txt)
+- **Kanál:** Lenka Tarabová (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=848042731641703>
+- **Datum záznamu:** 2026-04-02
+- **Délka:** 5:03
+- **Poznámka:** přepis v angličtině (sdílené zahraniční video)
+- **Zpracováno:** ano
+
+## Konspirátor Boldy — Artemis jako odvedení pozornosti (9. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-09_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
+- **Kanál:** KonspyChannel (Facebook)
+- **URL:** <https://www.facebook.com/100083247552502/videos/26624416430504360>
+- **Datum záznamu:** 2026-04-09
+- **Délka:** 4:26 | Zhlédnutí: 24 816
+- **Zpracováno:** ano
+
+## Pavel Zítko — Velký pátek: fotonizovaná voda, Rudolf Steiner, COVID tour (4. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-04_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=3101822983346989>
+- **Datum záznamu:** 2026-04-04
+- **Délka:** 1:25:57
+- **Zpracováno:** ano
+
+## Jiří Černohorský — Brno a Landsmannschaft: Fiala jako kolaborant (6. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-06_Jiří-Černohorský-Živě_Maroš-Kramár-na-Slnku-v-sieti-Dosť-bolo-Fica-Po.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook)
+- **URL:** <https://www.facebook.com/reel/1580777216322718>
+- **Datum záznamu:** 2026-04-06
+- **Zpracováno:** ano

@@ -18,6 +18,14 @@ Boldy tvrdí, že veškeré dění na Blízkém východě je součástí předem
 
 ---
 
+### Artemis jako AI podvod — Trump hrozí vymazáním civilizace (Boldy)
+
+Boldy tvrdí, že záběry mise NASA Artemis jsou AI-generované záběry ze starých archivů — mise slouží jako odvedení pozornosti veřejnosti od skutečného dění. Za skutečně závažnou ignorovanou zprávu označuje výrok Donalda Trumpa, v němž pohrozil „vymazáním celé civilizace" — média ho podle Boldyho záměrně přešla. Zpochybňuje, zda Trump přednášející v Bílém domě je skutečná osoba, nebo klon či robot. Blížící se ekonomická krize (viz níže) je dle Boldyho právě tím, co elity zakrývají mediálním spektáklem kolem vesmírných misí.
+
+**Zdroje:** [Boldy — Artemis jako odvedení pozornosti, 2026-04-09](_zdroje.md#konspirátor-boldy--artemis-jako-odvedení-pozornosti-9-4-2026)
+
+---
+
 ### Přicházející hospodářská krize — záměrné plánování
 
 Boldy předpovídá závažnou ekonomickou krizi srovnatelnou s krizí roku 1929. Cena ropy má dle jeho přesvědčení překročit 200 dolarů za barel, což se projeví zdražením pohonných hmot, potravin i veškerého zboží. Krize je dle Boldyho záměrně plánována elitami, které ji využijí k levnému výkupu majetku od obyčejných lidí. Radí nashromáždění zásob základních potravin.
@@ -25,7 +33,9 @@ Boldy předpovídá závažnou ekonomickou krizi srovnatelnou s krizí roku 1929
 > „Říkal jsem, že bude velká krize a ona, to ještě ani nezačalo, protože to, co přijde, bude takový brutální skok, že většina lidí, spousta lidí to z finančního hlediska nezvládne."
 > „A tím nechci strašit, jo. To je to samé, jak když jsem vám říkal, nakupte si potraviny, nějaké základní věci, protože bude to potřeba." — Boldy, [Facebook Live 2026-03-12](_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
 
-**Zdroje:** [Boldy — Facebook Live, 2026-03-12](_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
+V dubnu 2026 Boldy doplňuje konkrétnější časový horizont: krize přijde na přelomu roku 2026 a 2027. Aktuální pokles cen pohonných hmot označuje za „frašku" a klam — chvilkový propad má lidi uspat před příchodem skutečného cenového šoku. Svět je podle Boldyho řízen psychopaty a pedofily, kteří záměrně manipulují hospodářský cyklus.
+
+**Zdroje:** [Boldy — Facebook Live, 2026-03-12](_zdroje.md#konspirátor-boldy--facebook-live-z-prahy), [Boldy — Artemis jako odvedení pozornosti, 2026-04-09](_zdroje.md#konspirátor-boldy--artemis-jako-odvedení-pozornosti-9-4-2026)
 
 ---
 
@@ -102,6 +112,12 @@ Pavel Zítko přijal a šíří narativ hnutí QAnon o probíhající skryté vo
 > „V rámci central castingu [...] nasazeno 200 tisíc herců [...] někteří už se zhoupli ti hlavní protagonisté na Gitmo, Guantanamo a jejich role dohrávají herci, tak to všechno se dozvíte v rámci vojenského vysílání EBS ve třech osmihodinových smyčkách." — Pavel Zítko, [Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie)
 
 **Zdroje:** [Zítko — Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie)
+
+---
+
+V dubnu 2026 Zítko přidává další „důkazy" totožnosti herců za elity: Trump v záběrech z Bílého domu měří cca 170 cm, ale skutečný Trump byl vysoký 190 cm — Zítko to označuje za jednoznačný důkaz, že veřejnosti je předváděn herec nebo dvojník. Podobně Biden se na různých záběrech objevoval ve dvou odlišných výškách. EBS (Emergency Broadcast System) Zítko reinterpretuje: „sledujete reprízování událostí, které se již odehrály" — operace je podle něj ve skutečnosti dávno hotová, EBS vysílání bude zpětné zpravodajství.
+
+**Zdroje:** [Zítko — Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie), [ČsTV2 — Velký pátek: fotonizovaná voda, 2026-04-04](_zdroje.md#pavel-zítko--velký-pátek-fotonizovaná-voda-rudolf-steiner-covid-tour-4-4-2026)
 
 ---
 

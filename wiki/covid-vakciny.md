@@ -113,6 +113,36 @@ Lenka Tarabová sdílí výzvu k lékařům doprovozenou anglickým svědectvím
 
 ---
 
+## Odmítání virologie jako vědy
+
+### Virologie jako pseudověda — viry nikdy nebyly izolovány (Tarabová)
+
+Lenka Tarabová sdílí video anglicky mluvícího hosta, který zastává radikální pozici: virologie jako obor je vědecky neopodstatněná. Viry podle tohoto výkladu nikdy nebyly izolovány z čistých vzorků — izolace probíhala vždy ze směsí tkání, takže výsledek nelze přisoudit konkrétnímu patogenu. Virové genomy jsou konstruovány in silico (počítačem), nikoli sekvenováním fyzicky izolovaného viru. Protilátky z testů jsou nespecifické a mohou reagovat s mnoha substancemi. Jako klíčový historický protiargument uvádí experimenty z roku 1918 prováděné americkým námořnictvem: 100 dobrovolníků bylo vystaveno sekretům nemocných se španělskou chřipkou — žádný z nich neonemocněl, čímž Kochovy postuláty nebyly splněny.
+
+⚡ **Konflikt:** Tato tvrzení jsou v přímém rozporu s vědeckým konsensem. SARS-CoV-2 i mnohé jiné viry byly izolovány, kultivovány a jejich genomy sekvenováním ověřeny nezávislými laboratořemi po celém světě.
+
+**Zdroje:** [Tarabová — Podvod století: virologie jako pseudověda, 2026-04-02](_zdroje.md#lenka-tarabová--podvod-století-virologie-jako-pseudověda-2-4-2026)
+
+---
+
+### Rudolf Steiner (1925): vakcíny odeberou lidem duši — mRNA jako biologická zbraň (Zítko)
+
+Zítko cituje předpověď Rudolfa Steinera z roku 1925, podle níž materialistická medicína jednoho dne vytvoří látku, která lidem odebere schopnost duchovního prožívání (tzv. odebrání duše). Zítko to interpretuje jako naplněnou předpověď mRNA vakcín. Zároveň cituje amerického profesora Francise Boyla, autora Zákona o biologických zbraních USA, který označil mRNA vakcíny za „biologické zbraně hromadného ničení". Zítko přidává, že dětem jsou podávány hexavakcíny, které označuje za kombinaci slučitelnou s touto kategorií.
+
+**Zdroje:** [ČsTV2 — Velký pátek: fotonizovaná voda, 2026-04-04](_zdroje.md#pavel-zítko--velký-pátek-fotonizovaná-voda-rudolf-steiner-covid-tour-4-4-2026)
+
+---
+
+### Propad porodnosti o třetinu — data z ÚZIS (Zítko)
+
+Pavel Zítko odkazuje na analýzu statistika Romana Kovaříka z dat ÚZIS (Ústav zdravotnických informací a statistiky ČR): porodnost v ČR klesla z přibližně 112 000 porodů ročně na přibližně 77 000 — tj. o třetinu. Kovařík dle Zítka prokázal, že u vakcinovaných žen docházelo k poklesu plodnosti přímo v měsících odpovídajících jednotlivým dávkám vakcíny. Zítko z toho vyvozuje přímou kauzální spojitost mezi mRNA vakcínami a snížením porodnosti.
+
+⚡ **Konflikt:** Demografové a reprodukční epidemiologové nepřiznávají vakcinaci jako příčinu poklesu porodnosti; pokles sledují napříč neočkovanými i očkovanými populacemi a přisuzují jej ekonomickým a sociálním faktorům.
+
+**Zdroje:** [ČsTV2 — Velký pátek: fotonizovaná voda, 2026-04-04](_zdroje.md#pavel-zítko--velký-pátek-fotonizovaná-voda-rudolf-steiner-covid-tour-4-4-2026)
+
+---
+
 ## Petice za odpovědnost — akce Peková
 
 ### Sbírání podpisů pro prezidenta Pavla

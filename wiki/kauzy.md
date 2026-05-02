@@ -121,3 +121,11 @@ Jiří Černohorský odhaluje (s odkazem na informace od Petry Redové), že spo
 > „Tohle jsou vlasti zrádci, jo, prostě jsou to zrádci České republiky a já jsem jednoznačně pro obnovení trestu smrti za vlastizradu a velezradu. [...] Protože to by vysel už aj pávek, tedy Petr Pavel." — Jiří Černohorský, [Návrat z bandovolené 2026-04-02](_zdroje.md#jiří-černohorský--návrat-z-bandovolené-2-4-2026)
 
 **Zdroje:** [Černohorský — Návrat z bandovolené, 2026-04-02](_zdroje.md#jiří-černohorský--návrat-z-bandovolené-2-4-2026)
+
+---
+
+### Posselt v Pohořelicích — veřejné projevy za zrušení dekretů
+
+Černohorský uvádí, že Bernd Posselt na akcích financovaných přes Meeting Brno v Pohořelicích veřejně vyzýval ke zrušení Benešových dekretů a k „historickému smíření" spojenému s přerozdělením majetku. Tato protibenešovská rétorika je dle Černohorského financována z veřejných českých prostředků. Viz také [Suverenita a EU — Posselt v Pohořelicích](suverenita-eu.md#posselt-v-pohořelicích--veřejné-projevy-za-zrušení-dekretů).
+
+**Zdroje:** [Černohorský — Brno a Landsmannschaft, 2026-04-06](_zdroje.md#jiří-černohorský--brno-a-landsmannschaft-fiala-jako-kolaborant-6-4-2026)

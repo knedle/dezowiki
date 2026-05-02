@@ -92,6 +92,22 @@ U příležitosti výročí 15. března (nacistická okupace 1939) Rajchl kritiz
 
 ---
 
+### Fiala v projektu „Pan Evropa" — spojení s Posseltovou agendou od mládí
+
+Jiří Černohorský tvrdí, že Petr Fiala není spojen s Landsmannschaftem a Bernd Posselt náhodně ani jen jako premiér — jde podle něj o dlouhodobé propojení. Posselt byl dle Černohorského součástí projektu „Pan Evropa" již v době, kdy se do tohoto projektu zapojil mladý Fiala; Havel a Schwarzenberg prý v 80. letech cestovali do Německa s výslovným záměrem připravit prolomení Benešových dekretů. Černohorský to označuje za důkaz, že dnešní politické kroky jsou výsledkem desetiletí plánování.
+
+**Zdroje:** [Černohorský — Brno a Landsmannschaft, 2026-04-06](_zdroje.md#jiří-černohorský--brno-a-landsmannschaft-fiala-jako-kolaborant-6-4-2026)
+
+---
+
+### Posselt v Pohořelicích — veřejné projevy za zrušení dekretů
+
+Černohorský zmiňuje konkrétní řeči Bernda Posselta v Pohořelicích (v rámci akcí financovaných z veřejných prostředků přes Meeting Brno), v nichž Posselt veřejně volá po zrušení Benešových dekretů a poukazuje na nutnost „historického smíření" s přerozdělením majetku. Pokusy občanů zjistit detaily přes zákon o svobodném přístupu k informacím narazily na finanční bariéry (tisíce Kč za pětileté výpisy, přes 100 tisíc za desetileté záznamy). Viz také [Kauzy — Meeting Brno](kauzy.md#meeting-brno--15-milionů-na-sudetoněmecké-akce).
+
+**Zdroje:** [Černohorský — Brno a Landsmannschaft, 2026-04-06](_zdroje.md#jiří-černohorský--brno-a-landsmannschaft-fiala-jako-kolaborant-6-4-2026)
+
+---
+
 ## Plán na germanizaci — „Česko je plán"
 
 ### Přejmenování na „Česko" jako součást záměru připojit zemi k Německu
@@ -144,6 +160,14 @@ Jiří Černohorský prohlašuje, že masakr v Buči byl inscenací ukrajinskéh
 ⚡ **Konflikt:** Tato tvrzení jsou v přímém rozporu se závěry mezinárodních vyšetřovatelů, Mezinárodního trestního soudu i zpravodajských služeb Evropy a USA, podle nichž se masakr v Buči opravdu odehrál a odpovědnost nesou ruské ozbrojené síly.
 
 **Zdroje:** [Černohorský — Návrat z bandovolené, 2026-04-02](_zdroje.md#jiří-černohorský--návrat-z-bandovolené-2-4-2026)
+
+---
+
+### Zelenský vyhrožuje Orbánovi — EU nečinná a blokuje jeho sítě
+
+Černohorský uvádí, že Volodymyr Zelenský veřejně vyhrožoval Viktoru Orbánovi a jeho rodině — Evropská unie na to nereagovala a žádný z jejích lídrů Zelenského neodsoudil. Zároveň tvrdí, že EU zablokovala přítomnost Orbána na sociálních sítích, zatímco Zelenský si dělá, co chce. Tuto asymetrii označuje za důkaz, že EU slouží ukrajinskému a ne unijnímu zájmu.
+
+**Zdroje:** [Černohorský — Brno a Landsmannschaft, 2026-04-06](_zdroje.md#jiří-černohorský--brno-a-landsmannschaft-fiala-jako-kolaborant-6-4-2026)
 
 ---
 
