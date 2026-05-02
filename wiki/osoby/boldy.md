@@ -2,9 +2,7 @@
 
 Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube. Zaměřuje se na konspiračně-okultistický výklad světového dění. Dříve byl příznivcem hnutí QAnon.
 
-**Zpracované zdroje:** [Poděkování za 50K (3. 3. 2026)](../_zdroje.md#konspirátor-boldy--poděkování-za-50-tisíc-sledujících) · [Krvavý měsíc a Trump (5. 3. 2026)](../_zdroje.md#konspirátor-boldy--krvavý-měsíc-a-trump) · [Facebook Live z Prahy (12. 3. 2026)](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy) · [Mesiáš, Írán a ropa (15. 3. 2026)](../_zdroje.md#konspirátor-boldy--mesiáš-írán-a-ropa) · [Omluva Dominikovi — bez obsahu (16. 3. 2026)](../_zdroje.md#konspirátor-boldy--omluva-dominikovi-bez-obsahu) · [Humanoidní roboti na Ukrajině (17. 3. 2026)](../_zdroje.md#konspirátor-boldy--humanoidní-roboti-na-ukrajině) · [Pozvánka na Matyášovo video — bez obsahu (29. 3. 2026)](../_zdroje.md#konspirátor-boldy--pozvánka-na-matyášovo-video-bez-obsahu)
-
-> Poznámka: Soubory z 14. 3. (Beseda ve sklípku, 22 s) a 16. 3. 2026 (anglické video) neobsahovaly relevantní obsah. Soubory z 16. 3. (Omluva Dominikovi) a 29. 3. (Pozvánka) také bez tematického obsahu.
+**Zpracované zdroje:** [Poděkování za 50K (3. 3. 2026)](../_zdroje.md#konspirátor-boldy--poděkování-za-50-tisíc-sledujících) · [Krvavý měsíc a Trump (5. 3. 2026)](../_zdroje.md#konspirátor-boldy--krvavý-měsíc-a-trump) · [Facebook Live z Prahy (12. 3. 2026)](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy) · [Mesiáš, Írán a ropa (15. 3. 2026)](../_zdroje.md#konspirátor-boldy--mesiáš-írán-a-ropa) · [Humanoidní roboti na Ukrajině (17. 3. 2026)](../_zdroje.md#konspirátor-boldy--humanoidní-roboti-na-ukrajině)
 
 ---
 

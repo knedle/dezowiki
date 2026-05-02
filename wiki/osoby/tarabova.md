@@ -2,9 +2,7 @@
 
 Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na témata každodenní politiky, zdražování a kritiky vlády.
 
-**Zpracované zdroje:** [Cena pohonných hmot (12. 3. 2026)](../_zdroje.md#lenka-tarabová--cena-pohonných-hmot-stále-roste) · [ANO nechává neziskovky (23. 3. 2026)](../_zdroje.md#lenka-tarabová--ano-nechává-neziskovky) · [Vakcinační genocida (23. 3. 2026)](../_zdroje.md#lenka-tarabová--vakcinační-genocida-německý-toxikolog) · [Chvilkařská chobotnice (27. 3. 2026)](../_zdroje.md#lenka-tarabová--chvilkařská-chobotnice) · [Schmarcze na Primě — bez obsahu (28. 3. 2026)](../_zdroje.md#lenka-tarabová--schmarcze-na-primě-mimo-kontext) · [Výzva lékařům — anglické svědectví (30. 3. 2026)](../_zdroje.md#lenka-tarabová--výzva-lékařům-anglické-svědectví) · [VZP: bonus za očkování jako diskriminace (30. 3. 2026)](../_zdroje.md#lenka-tarabová--vzp-bonus-za-očkování-jako-diskriminace)
-
-> Poznámka: Dva nejstarší zpracované soubory (23. 2. a 3. 3. 2026) byly kratší než 10 sekund — přepisy byly prázdné nebo obsahovaly jednu větu bez kontextu. Soubor z 28. 3. (Schmarcze na Primě) bez tematického obsahu — krátký klip mimo kontext.
+**Zpracované zdroje:** [Cena pohonných hmot (12. 3. 2026)](../_zdroje.md#lenka-tarabová--cena-pohonných-hmot-stále-roste) · [ANO nechává neziskovky (23. 3. 2026)](../_zdroje.md#lenka-tarabová--ano-nechává-neziskovky) · [Vakcinační genocida (23. 3. 2026)](../_zdroje.md#lenka-tarabová--vakcinační-genocida-německý-toxikolog) · [Chvilkařská chobotnice (27. 3. 2026)](../_zdroje.md#lenka-tarabová--chvilkařská-chobotnice) · [Výzva lékařům — anglické svědectví (30. 3. 2026)](../_zdroje.md#lenka-tarabová--výzva-lékařům-anglické-svědectví) · [VZP: bonus za očkování jako diskriminace (30. 3. 2026)](../_zdroje.md#lenka-tarabová--vzp-bonus-za-očkování-jako-diskriminace)
 
 ---
 

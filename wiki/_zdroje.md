@@ -17,22 +17,6 @@
 - **Délka:** 2:55 | Zhlédnutí: 63 471
 - **Zpracováno:** ano
 
-## Lenka Tarabová — Důležitá beseda (prázdný přepis)
-- **Soubor:** [přepis](prepisy/done/2026-02-23_Lenka-Tarabová_84K-views-230-reactions-POZOR-POZOR-DŮLEŽITÁ-BESEDA-Le.txt)
-- **Kanál:** Lenka Tarabová (Facebook)
-- **URL:** <https://m.facebook.com/watch/?v=1658580271799129>
-- **Datum záznamu:** 2026-02-23
-- **Délka:** 26 s — přepis prázdný, žádný extrahovatelný obsah
-- **Zpracováno:** ano (prázdné)
-
-## Lenka Tarabová — Jsou toho plné sociální sítě (prázdný přepis)
-- **Soubor:** [přepis](prepisy/done/2026-03-03_Lenka-Tarabová_74K-views-41K-reactions-JSOU-TOHO-PLNÉ-SOCIÁLNÍ-SÍTĚ-I.txt)
-- **Kanál:** Lenka Tarabová (Facebook)
-- **URL:** <https://m.facebook.com/watch/?v=1493727112224004>
-- **Datum záznamu:** 2026-03-03
-- **Délka:** 9 s — přepis obsahuje jednu větu bez kontextu
-- **Zpracováno:** ano (téměř prázdné)
-
 ## Lenka Tarabová — Cena pohonných hmot stále roste
 - **Soubor:** [přepis](prepisy/done/2026-03-12_Lenka-Tarabová_29K-views-848-reactions-CENA-POHONNÝCH-HMOT-STÁLE-ROST.txt)
 - **Kanál:** Lenka Tarabová (Facebook)
@@ -153,26 +137,12 @@
 - **Délka:** 7:41 | Zhlédnutí: 1 850
 - **Zpracováno:** ano
 
-## Konspirátor Boldy — Beseda ve sklípku (prázdný přepis)
-- **Soubor:** [přepis](prepisy/done/2026-03-14_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
-- **Kanál:** KonspyChannel (Videoportál)
-- **Datum záznamu:** 2026-03-14
-- **Délka:** 22 s — prázdný přepis (organizační sdělení)
-- **Zpracováno:** ano (prázdné)
-
 ## Konspirátor Boldy — Mesiáš, Írán a ropa
 - **Soubor:** [přepis](prepisy/done/2026-03-15_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
 - **Kanál:** KonspyChannel (Videoportál)
 - **Datum záznamu:** 2026-03-15
 - **Délka:** 2:14 | Zhlédnutí: 30 888
 - **Zpracováno:** ano
-
-## Konspirátor Boldy — Obři neexistují (prázdný přepis)
-- **Soubor:** [přepis](prepisy/done/2026-03-16_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
-- **Kanál:** KonspyChannel (Videoportál)
-- **Datum záznamu:** 2026-03-16
-- **Délka:** 51 s — anglické video bez relevantního obsahu
-- **Zpracováno:** ano (bez relevantního obsahu)
 
 ## Pavel Zítko — Soběšovice, petice za prezidentem (31. 3.)
 - **Soubor:** [přepis](prepisy/done/2026-03-31_Československo-TV2_Videoportál.txt)
@@ -246,14 +216,6 @@
 - **Délka:** 5:14 | Zhlédnutí: 104 125
 - **Zpracováno:** ano
 
-## Lenka Tarabová — Schmarcze na Primě (mimo kontext)
-- **Soubor:** [přepis](prepisy/done/2026-03-26_Lenka-Tarabová_54K-views-268-reactions-SCHMARCZE-SI-NA-PRIMĚ-VYDRŽUJÍ.txt)
-- **Kanál:** Lenka Tarabová (Facebook)
-- **URL:** <https://m.facebook.com/watch/?v=1423514419575383>
-- **Datum záznamu:** 2026-03-26
-- **Délka:** 0:36 — přepis bez výroku Tarabové, bezprostřední kontext chybí
-- **Zpracováno:** ano (bez použitelného obsahu)
-
 ## Lenka Tarabová — Výzva lékařům (anglické svědectví)
 - **Soubor:** [přepis](prepisy/done/2026-03-30_Lenka-Tarabová_11K-views-562-reactions-VÝZVA-LÉKAŘŮM-SAHNĚTE-SI-DO-SV.txt)
 - **Kanál:** Lenka Tarabová (Facebook)
@@ -270,14 +232,6 @@
 - **Délka:** 0:20
 - **Zpracováno:** ano
 
-## Konspirátor Boldy — Omluva Dominikovi (bez obsahu)
-- **Soubor:** [přepis](prepisy/done/2026-03-16_Konspirátor-Boldy-KonspyChannel_Facebook-Live.txt)
-- **Kanál:** KonspyChannel (Facebook Live)
-- **URL:** <https://www.facebook.com/100083247552502/videos/1481689873561404>
-- **Datum záznamu:** 2026-03-16
-- **Délka:** 1:20 — osobní omluva, žádný tematický obsah
-- **Zpracováno:** ano (bez obsahu)
-
 ## Konspirátor Boldy — Humanoidní roboti na Ukrajině
 - **Soubor:** [přepis](prepisy/done/2026-03-17_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
 - **Kanál:** KonspyChannel (Videoportál)
@@ -285,14 +239,6 @@
 - **Datum záznamu:** 2026-03-17
 - **Délka:** 1:41 | Zhlédnutí: 13 101
 - **Zpracováno:** ano
-
-## Konspirátor Boldy — Pozvánka na Matyášovo video (bez obsahu)
-- **Soubor:** [přepis](prepisy/done/2026-03-29_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
-- **Kanál:** KonspyChannel (Videoportál)
-- **URL:** <https://www.facebook.com/100083247552502/videos/1146481847556214>
-- **Datum záznamu:** 2026-03-29
-- **Délka:** 1:08 — propagace videa přítele, žádný tematický obsah
-- **Zpracováno:** ano (bez obsahu)
 
 ## Pavel Zítko — Soběšovice, Peková Q&A část 2 (1. 4.)
 - **Soubor:** [přepis](prepisy/done/2026-04-01_Československo-TV2_Videoportál_1.txt)
