@@ -93,6 +93,36 @@ Boldy tvrdí, že sionisté prohlásili válku s Íránem za „ideální čas p
 
 ---
 
+## QAnon: globální vojenská operace a záchrana dětí
+
+### Klony, herci a Guantanamo — EBS narativ
+
+Pavel Zítko přijal a šíří narativ hnutí QAnon o probíhající skryté vojenské operaci: klíčové osoby světového établissementu (včetně Charlese III, jehož označuje za „herce s volnem") byly odvezeny na Guantanamo. Na veřejnosti je zastupují herci, dvojníci, hologramy nebo CGI — celkem prý 200 000 nasazených. Informace o operaci bude zveřejněna prostřednictvím EBS (Emergency Broadcast System) ve třech osmihodinových smyčkách; Zítko věří, že tato chvíle nastane v řádu týdnů.
+
+> „V rámci central castingu [...] nasazeno 200 tisíc herců [...] někteří už se zhoupli ti hlavní protagonisté na Gitmo, Guantanamo a jejich role dohrávají herci, tak to všechno se dozvíte v rámci vojenského vysílání EBS ve třech osmihodinových smyčkách." — Pavel Zítko, [Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie)
+
+**Zdroje:** [Zítko — Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie)
+
+---
+
+### Save the Children: adrenochrom a záchrana dětí z tunelů
+
+Zítko šíří QAnon narativ o záchranné operaci „Save the Children": děti jsou prý vyprošťovány z podzemních tunelů, kde vládnoucí elity provozovaly výrobu a distribuci adrenochromu. Záchrana těchto dětí je „prioritou číslo jedna" probíhající globální vojenské operace. Zítko sám tvrdí, že byl přítomen „zabodávání" dětí ve věku 5–12 let v pražském nákupním centru Kotva v prosinci 2021.
+
+> „Zločiny na dětech, výroba a distribuce adrenochromu a jediná cesta je armáda a globální [vojenská operace]." — Pavel Zítko, [Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie)
+
+**Zdroje:** [Zítko — Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie)
+
+---
+
+### Quantum Financial System a MedBeds
+
+Zítko věří v brzké zavedení Quantum Financial System (QFS), který ukončí „rothschildovské otroctví" privátních bank; jedna karta bude sloužit jako platební i zdravotní průkaz. MedBeds — léčebná lůžka využívající teraherzové frekvence — nahradí chemickou medicínu. Pořadí léčby: nejprve zachráněné děti z tunelů, pak váleční veteráni.
+
+**Zdroje:** [Zítko — Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie)
+
+---
+
 ## Historické konspirační výklady
 
 ### „Česko je plán" — záměrná eroze národní identity
@@ -108,6 +138,14 @@ Jiří Černohorský tvrdí, že označení „Česko" (místo Česká republika
 Pavel Zítko označuje přistání na Měsíci (Apollo) za historický podvod a misi NASA Artemis za jeho pokračování. Odkazuje se na Stanleyho Kubricka, o němž tvrdí, že původní přistání natočil jako fikci, podepsal 88stránkovou dohodu o mlčenlivosti na 15 let, a po jejím vypršení zahrnul do posledního filmu (*Eyes Wide Shut*) jména aktérů — načež zemřel na infarkt, který mohl být vyvolán CIA injekční látkou způsobující srdeční selhání.
 
 **Zdroje:** [Zítko — COVID tour ohlášení, 2026-04-02](_zdroje.md#pavel-zítko--covid-tour-ohlášení-2-4)
+
+---
+
+### Plochá Země
+
+Zítko zastává teorii ploché Země: Země je topografická rovina ohraničená ledovou stěnou (Antarktida), oceány mají vodorovnou hladinu a tzv. Gleasonova mapa je správnou reprezentací světa — stejné zobrazení prý nese logo OSN. Jako „důkazy" uvádí nehybnost Polárky (na rotující kouli by se pohybovala) a funkčnost slunečních hodin (na rotující kouli by nefungovaly).
+
+**Zdroje:** [Zítko — Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie)
 
 ---
 

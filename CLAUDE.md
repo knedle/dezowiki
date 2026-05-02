@@ -12,14 +12,16 @@ Tematická wiki názorů, postojů a tvrzení z přepisů videí a rozhovorů. V
 
 ## Stav projektu (pilotní fáze)
 
-- `prepisy/` — soubory čekající na zpracování
-- `prepisy/done/` — přesunuté zpracované soubory (jsou v `_zdroje.md` jako `prepisy/done/…`)
+- `wiki/prepisy/` — soubory čekající na zpracování
+- `wiki/prepisy/done/` — přesunuté zpracované soubory (jsou v `_zdroje.md` jako `prepisy/done/…`)
 - `wiki/` — existuje, obsahuje tematické MD soubory a podadresář `osoby/`
 - `mkdocs.yml` — existuje, nakonfigurován
 
+> `prepisy/` je uvnitř `wiki/` (docs_dir), aby MkDocs servoval `.txt` přepisy jako přímé prokliky ze `_zdroje.md`.
+
 ---
 
-## Formát souborů v `prepisy/`
+## Formát souborů v `wiki/prepisy/`
 
 **Název souboru:** `YYYY-MM-DD_Jméno-Zdroje_Název-videa[_N].txt`
 
@@ -28,7 +30,7 @@ Tematická wiki názorů, postojů a tvrzení z přepisů videí a rozhovorů. V
 2. `VÝKON` — technické info o přepisu (ignoruj)
 3. `PŘEPIS` — samotný text s časovými značkami `[MM:SS]`
 
-**Zdroje aktuálně v `prepisy/`:**
+**Zdroje aktuálně v `wiki/prepisy/`:**
 - `Jindřich-Rajchl`
 - `Lenka-Tarabová`
 - `Konspirátor-Boldy-KonspyChannel`
@@ -45,7 +47,7 @@ Zpracovávej **maximálně 3 soubory od každého zdroje** za jedno sezení, dok
 
 Pokud uživatel nepřiloží konkrétní seznam, vyber 3 nejstarší nezpracované soubory od každého zdroje (dle data v názvu souboru).
 
-**Kontrola před zpracováním:** Soubor je zpracovaný, pokud se nachází v `prepisy/done/` nebo je uveden v `wiki/_zdroje.md`. Vybírej výhradně soubory v `prepisy/` (nikoliv `prepisy/done/`).
+**Kontrola před zpracováním:** Soubor je zpracovaný, pokud se nachází v `wiki/prepisy/done/` nebo je uveden v `wiki/_zdroje.md`. Vybírej výhradně soubory v `wiki/prepisy/` (nikoliv `wiki/prepisy/done/`).
 
 ---
 
@@ -83,8 +85,9 @@ Stručný popis (2–4 věty vlastními slovy, ne copy-paste).
 
 ```markdown
 ## Název videa
-- **Soubor:** `prepisy/done/YYYY-MM-DD_Zdroj_Název.txt`
+- **Soubor:** [přepis](prepisy/done/YYYY-MM-DD_Zdroj_Název.txt)
 - **Kanál:** ...
+- **URL:** <https://...>
 - **Datum záznamu:** ...
 - **Zpracováno:** ano
 ```
@@ -122,12 +125,12 @@ Každý mluvčí má vlastní stránku v `wiki/osoby/[jmeno].md`. Stránka obsah
 
 ## Workflow při zpracování přepisu
 
-1. Ověř, že soubor není v `prepisy/done/` (= již zpracován)
-2. Přečti soubor z `prepisy/` (sekci PŘEPIS, METADATA pro atribuci)
+1. Ověř, že soubor není v `wiki/prepisy/done/` (= již zpracován)
+2. Přečti soubor z `wiki/prepisy/` (sekci PŘEPIS, METADATA pro atribuci)
 3. Identifikuj témata → zkontroluj existující soubory ve `wiki/`
 4. Rozšiř existující nebo vytvoř nový MD soubor
-5. Přidej záznam do `wiki/_zdroje.md` (cesta: `prepisy/done/…`)
-6. Přesuň soubor do `prepisy/done/` pomocí `git mv`
+5. Přidej záznam do `wiki/_zdroje.md` — soubor jako `[přepis](prepisy/done/název.txt)`, URL jako `<https://...>`
+6. Přesuň soubor do `wiki/prepisy/done/` pomocí PowerShell `Move-Item`
 7. Aktualizuj stránku mluvčího v `wiki/osoby/` — témata i zmíněné osoby
 8. Aktualizuj `mkdocs.yml` nav sekci, pokud vznikl nový soubor
 

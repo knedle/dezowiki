@@ -58,6 +58,28 @@ Rajchl tvrdí, že EU si sama uškodila odpojením od levných ruských zdrojů 
 
 ---
 
+## Evropský parlament a V4 strategie
+
+### Evropský parlament jako divadlo — skutečná moc je v Komisi
+
+V pořadu K věci s Lucií Čermákovou Rajchl odmítl, že by Evropský parlament měl smysl v zastávání národních zájmů. Všechna rozhodnutí jsou podle něj předem dohodnutá ve prospěch Evropské komise a Ursuly von der Leyen — EP jen vytváří zdání demokratické legitimity. Pokud Komisi přesto neodvolali, přestože si to zasloužila, je to důkaz, že EP je bezmocný. Skutečná strategie změny proto musí jít přes Radu EU a přes koordinaci zemí, nikoli přes parlamentní frakce.
+
+> „Evropský parlament je hra na demokracii. Evropský parlament je naprosto nedůležitý orgán. Ten v podstatě jenom jaksi vytváří dojem, že tam rozhodují nějací zástupci volení lidem." — Jindřich Rajchl, [EP jako divadlo 2026-03-31](_zdroje.md#jindřich-rajchl--evropský-parlament-jako-divadlo-pořad-k-věci)
+
+**Zdroje:** [Rajchl — EP jako divadlo, 2026-03-31](_zdroje.md#jindřich-rajchl--evropský-parlament-jako-divadlo-pořad-k-věci)
+
+---
+
+### V4 strategie: Slovensko, Maďarsko a případně Polsko jako protiváha
+
+Za skutečnou cestu ke změně Rajchl považuje koalici V4 — Česko, Slovensko, Maďarsko a (do budoucna) Polsko. Skupině zemí pak může být blokována imigrační politika (migrační pakt), emisní povolenky i green deal tlakem přes Radu EU. Odmítá nálepku „izolovanosti" Fica a Orbána — tito lídři dle Rajchla hájí národní zájmy svých zemí, nikoliv vyhovují bruselskému konsenzu.
+
+> „Orbán vydírá Evropskou unii nebo Fico vydírá Evropskou unii? Ne, oni hájí svoje národní zájmy a je velmi dobře, nebo bude velmi dobře, když se k ním připojíme a budeme ty národní zájmy naše hájit." — Jindřich Rajchl, [EP jako divadlo 2026-03-31](_zdroje.md#jindřich-rajchl--evropský-parlament-jako-divadlo-pořad-k-věci)
+
+**Zdroje:** [Rajchl — EP jako divadlo, 2026-03-31](_zdroje.md#jindřich-rajchl--evropský-parlament-jako-divadlo-pořad-k-věci)
+
+---
+
 ## Benešovy dekrety
 
 ### Sudetoněmecký Landsmannschaft — hrozba pro majetkové jistoty
@@ -110,6 +132,28 @@ Jiří Černohorský viní ze vzniku války na Ukrajině západ, nikoliv Rusko. 
 ⚡ **Konflikt:** Toto hodnocení je v přímém rozporu s pozicí ČR, EU a NATO, které za agresi označují Rusko.
 
 **Zdroje:** [Černohorský — TikTok živě, 2025-06-08](_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025)
+
+---
+
+### Buča jako inscenace — Boris Johnson a sabotáž mírových rozhovorů
+
+Jiří Černohorský prohlašuje, že masakr v Buči byl inscenací ukrajinského praporu Azov. Jako důkazy uvádí: 30. března starosta Buče slavnostně vítal, že ruská vojska odešla, aniž zmínil jakékoli mrtvé na ulicích; 31. března o nich nemluvil ani přítomný politiker; teprve 3.–4. dubna „přijeli novináři a Azov a najednou tam byly mrtvoly s bílými páskami". Ruská armáda podle něj oblast opustila dobrovolně v rámci předběžné dohody o příměří — přičemž dojednat toto příměří přijel zničit Boris Johnson tím, že Zelenského přesvědčil, aby Rusko nevyhrůžalo, a místo toho ho přesvědčil, že západ válku pro Kyjev vyhraje.
+
+> „Tady tohle prostě, to, co oni si vymysleli, tu buči — to je jejich práce, protože oni potřebovali nějak zase očernit Rusko, aby Ukrajina neměla žádný důvod s Rusama jednat o míru." — Jiří Černohorský, [Návrat z bandovolené 2026-04-02](_zdroje.md#jiří-černohorský--návrat-z-bandovolené-2-4-2026)
+
+⚡ **Konflikt:** Tato tvrzení jsou v přímém rozporu se závěry mezinárodních vyšetřovatelů, Mezinárodního trestního soudu i zpravodajských služeb Evropy a USA, podle nichž se masakr v Buči opravdu odehrál a odpovědnost nesou ruské ozbrojené síly.
+
+**Zdroje:** [Černohorský — Návrat z bandovolené, 2026-04-02](_zdroje.md#jiří-černohorský--návrat-z-bandovolené-2-4-2026)
+
+---
+
+## Izrael a Palestina
+
+### Hamas vznikl díky Izraeli — historická odpovědnost za Gaza
+
+Černohorský tvrdí, že Hamas byl původně podporován Izraelem jako protipól k Jásiru Arafatovi a PLO — Izrael chtěl rozštěpit palestinské vedení, ale výsledek se vymkl kontrole. Z toho vyvozuje, že Israel nese přímou odpovědnost za vznik organizace, kterou nyní označuje za teroristickou. Systematické vytlačování Palestinců z domovů od roku 1948 přirovnává k situaci, kdy by z jejich domovů vyhnali je samotné. Netanyahua označuje za válečného zločince, který by měl být souzen. Jako pozitivní jev hodnotí, že dvě třetiny delegátů OSN demonstrativně opustilo sál při jeho projevu.
+
+**Zdroje:** [Černohorský — Návrat z bandovolené, 2026-04-02](_zdroje.md#jiří-černohorský--návrat-z-bandovolené-2-4-2026)
 
 ---
 

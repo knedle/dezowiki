@@ -1,223 +1,351 @@
-# Zdroje
+﻿# Zdroje
 
 ## Jindřich Rajchl — FARA, DSA, Dozimetr
-- **Soubor:** `prepisy/done/2026-03-15_Jindřich-Rajchl_FARA-DSA-Dozimetr.txt`
+- **Soubor:** [přepis](prepisy/done/2026-03-15_Jindřich-Rajchl_FARA-DSA-Dozimetr.txt)
 - **Kanál:** Jindřich Rajchl (Facebook Live)
-- **URL:** https://www.facebook.com/100063460865205/videos/2526883867730940
+- **URL:** <https://www.facebook.com/100063460865205/videos/2526883867730940>
 - **Datum záznamu:** 2026-03-15
 - **Délka:** 59:24 | Zhlédnutí: ~199 800
 - **Poznámka:** Existuje druhý přepis téhož videa (`..._1.txt`) — obsah totožný, obě verze sloučeny.
 - **Zpracováno:** ano
 
 ## Jindřich Rajchl — Jednoznačně stojím za Zdeňkem Kettnerem
-- **Soubor:** `prepisy/done/2026-03-27_Jindřich-Rajchl_116K-views-11K-reactions-Jednoznačně-stojím-za-Zdeňke.txt`
+- **Soubor:** [přepis](prepisy/done/2026-03-27_Jindřich-Rajchl_116K-views-11K-reactions-Jednoznačně-stojím-za-Zdeňke.txt)
 - **Kanál:** Jindřich Rajchl (Facebook)
-- **URL:** https://www.facebook.com/100063460865205/videos/2124138328380650
+- **URL:** <https://www.facebook.com/100063460865205/videos/2124138328380650>
 - **Datum záznamu:** 2026-03-27
 - **Délka:** 2:55 | Zhlédnutí: 63 471
 - **Zpracováno:** ano
 
 ## Lenka Tarabová — Důležitá beseda (prázdný přepis)
-- **Soubor:** `prepisy/done/2026-02-23_Lenka-Tarabová_84K-views-230-reactions-POZOR-POZOR-DŮLEŽITÁ-BESEDA-Le.txt`
+- **Soubor:** [přepis](prepisy/done/2026-02-23_Lenka-Tarabová_84K-views-230-reactions-POZOR-POZOR-DŮLEŽITÁ-BESEDA-Le.txt)
 - **Kanál:** Lenka Tarabová (Facebook)
-- **URL:** https://m.facebook.com/watch/?v=1658580271799129
+- **URL:** <https://m.facebook.com/watch/?v=1658580271799129>
 - **Datum záznamu:** 2026-02-23
 - **Délka:** 26 s — přepis prázdný, žádný extrahovatelný obsah
 - **Zpracováno:** ano (prázdné)
 
 ## Lenka Tarabová — Jsou toho plné sociální sítě (prázdný přepis)
-- **Soubor:** `prepisy/done/2026-03-03_Lenka-Tarabová_74K-views-41K-reactions-JSOU-TOHO-PLNÉ-SOCIÁLNÍ-SÍTĚ-I.txt`
+- **Soubor:** [přepis](prepisy/done/2026-03-03_Lenka-Tarabová_74K-views-41K-reactions-JSOU-TOHO-PLNÉ-SOCIÁLNÍ-SÍTĚ-I.txt)
 - **Kanál:** Lenka Tarabová (Facebook)
-- **URL:** https://m.facebook.com/watch/?v=1493727112224004
+- **URL:** <https://m.facebook.com/watch/?v=1493727112224004>
 - **Datum záznamu:** 2026-03-03
 - **Délka:** 9 s — přepis obsahuje jednu větu bez kontextu
 - **Zpracováno:** ano (téměř prázdné)
 
 ## Lenka Tarabová — Cena pohonných hmot stále roste
-- **Soubor:** `prepisy/done/2026-03-12_Lenka-Tarabová_29K-views-848-reactions-CENA-POHONNÝCH-HMOT-STÁLE-ROST.txt`
+- **Soubor:** [přepis](prepisy/done/2026-03-12_Lenka-Tarabová_29K-views-848-reactions-CENA-POHONNÝCH-HMOT-STÁLE-ROST.txt)
 - **Kanál:** Lenka Tarabová (Facebook)
-- **URL:** https://m.facebook.com/watch/?v=1449809536805738
+- **URL:** <https://m.facebook.com/watch/?v=1449809536805738>
 - **Datum záznamu:** 2026-03-12
 - **Délka:** 4:03
 - **Zpracováno:** ano
 
 ## Konspirátor Boldy — Poděkování za 50 tisíc sledujících
-- **Soubor:** `prepisy/done/2026-03-03_Konspirátor-Boldy-KonspyChannel_Videoportál.txt`
+- **Soubor:** [přepis](prepisy/done/2026-03-03_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
 - **Kanál:** KonspyChannel (Videoportál)
 - **Datum záznamu:** 2026-03-03
 - **Délka:** 49 s — organizační sdělení, minimální obsah
 - **Zpracováno:** ano
 
 ## Konspirátor Boldy — Krvavý měsíc a Trump
-- **Soubor:** `prepisy/done/2026-03-05_Konspirátor-Boldy-KonspyChannel_Videoportál.txt`
+- **Soubor:** [přepis](prepisy/done/2026-03-05_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
 - **Kanál:** KonspyChannel (Videoportál)
 - **Datum záznamu:** 2026-03-05
 - **Délka:** 1:57
 - **Zpracováno:** ano
 
 ## Konspirátor Boldy — Facebook Live z Prahy
-- **Soubor:** `prepisy/done/2026-03-12_Konspirátor-Boldy-KonspyChannel_Facebook-Live.txt`
+- **Soubor:** [přepis](prepisy/done/2026-03-12_Konspirátor-Boldy-KonspyChannel_Facebook-Live.txt)
 - **Kanál:** KonspyChannel (Facebook Live)
 - **Datum záznamu:** 2026-03-12
 - **Délka:** 32:24
 - **Zpracováno:** ano
 
 ## Pavel Zítko — Soběšovice, pozvánka (27. 3.)
-- **Soubor:** `prepisy/done/2026-03-27_Československo-TV2_Videoportál.txt`
+- **Soubor:** [přepis](prepisy/done/2026-03-27_Československo-TV2_Videoportál.txt)
 - **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
-- **URL:** https://m.facebook.com/watch/?v=789843423778912
+- **URL:** <https://m.facebook.com/watch/?v=789843423778912>
 - **Datum záznamu:** 2026-03-27
 - **Zpracováno:** ano
 
 ## Pavel Zítko — Soběšovice, pozvánka (28. 3.)
-- **Soubor:** `prepisy/done/2026-03-28_Československo-TV2_Videoportál.txt`
+- **Soubor:** [přepis](prepisy/done/2026-03-28_Československo-TV2_Videoportál.txt)
 - **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
-- **URL:** https://m.facebook.com/watch/?v=2011499149741166
+- **URL:** <https://m.facebook.com/watch/?v=2011499149741166>
 - **Datum záznamu:** 2026-03-28
 - **Zpracováno:** ano
 
 ## Pavel Zítko — Soběšovice, přenos (29. 3.)
-- **Soubor:** `prepisy/done/2026-03-29_Československo-TV2_Videoportál.txt`
+- **Soubor:** [přepis](prepisy/done/2026-03-29_Československo-TV2_Videoportál.txt)
 - **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
-- **URL:** https://m.facebook.com/watch/?v=1428508325427621
+- **URL:** <https://m.facebook.com/watch/?v=1428508325427621>
 - **Datum záznamu:** 2026-03-29
 - **Zpracováno:** ano
 
 ## Jiří Černohorský — TikTok, živě (8. 6. 2025)
-- **Soubor:** `prepisy/done/2025-06-08_Jiří-Černohorský-Živě_včera-na-Tikyťoku-opět-nekorektně.txt`
+- **Soubor:** [přepis](prepisy/done/2025-06-08_Jiří-Černohorský-Živě_včera-na-Tikyťoku-opět-nekorektně.txt)
 - **Kanál:** Jiří Černohorský Živě (TikTok / Telegram)
 - **Datum záznamu:** 2025-06-08
 - **Délka:** 2:18:50
 - **Zpracováno:** ano
 
 ## Jiří Černohorský — Vstupte do politiky (9. 6. 2025)
-- **Soubor:** `prepisy/done/2025-06-09_Jiří-Černohorský-Živě_video-zveřejněno-na-TikTok-1882023-Su-fakt-dobr.txt`
+- **Soubor:** [přepis](prepisy/done/2025-06-09_Jiří-Černohorský-Živě_video-zveřejněno-na-TikTok-1882023-Su-fakt-dobr.txt)
 - **Kanál:** Jiří Černohorský Živě (TikTok)
 - **Datum záznamu:** 2025-06-09
 - **Délka:** 5:49
 - **Zpracováno:** ano
 
 ## Jiří Černohorský — Volby a demokracie (15. 6. 2025)
-- **Soubor:** `prepisy/done/2025-06-15_Jiří-Černohorský-Živě_Video-689701677237663.txt`
+- **Soubor:** [přepis](prepisy/done/2025-06-15_Jiří-Černohorský-Živě_Video-689701677237663.txt)
 - **Kanál:** Jiří Černohorský Živě (Facebook)
 - **Datum záznamu:** 2025-06-15
 - **Délka:** 21:09
 - **Zpracováno:** ano
 
 ## Jindřich Rajchl — Mikuláš Minář odmítl debatu
-- **Soubor:** `prepisy/done/2026-03-28_Jindřich-Rajchl_254K-views-26K-reactions-Mikuláš-Minář-odmítl-pozvánk.txt`
+- **Soubor:** [přepis](prepisy/done/2026-03-28_Jindřich-Rajchl_254K-views-26K-reactions-Mikuláš-Minář-odmítl-pozvánk.txt)
 - **Kanál:** Jindřich Rajchl (Facebook)
-- **URL:** https://www.facebook.com/100063460865205/videos/2194014721369246
+- **URL:** <https://www.facebook.com/100063460865205/videos/2194014721369246>
 - **Datum záznamu:** 2026-03-28
 - **Délka:** 2:28 | Zhlédnutí: 147 409
 - **Zpracováno:** ano
 
 ## Jindřich Rajchl — Energetická krize a Rusko (360°)
-- **Soubor:** `prepisy/done/2026-03-28_Jindřich-Rajchl_304K-views-17K-reactions-Krátký-úryvek-ze-čtvrteční-3.txt`
+- **Soubor:** [přepis](prepisy/done/2026-03-28_Jindřich-Rajchl_304K-views-17K-reactions-Krátký-úryvek-ze-čtvrteční-3.txt)
 - **Kanál:** Jindřich Rajchl (Facebook)
-- **URL:** https://www.facebook.com/100063460865205/videos/4319115638302796
+- **URL:** <https://www.facebook.com/100063460865205/videos/4319115638302796>
 - **Datum záznamu:** 2026-03-28
 - **Délka:** 1:50 | Zhlédnutí: 173 004
 - **Zpracováno:** ano
 
 ## Jindřich Rajchl — Strašák jménem Dozimetr
-- **Soubor:** `prepisy/done/2026-03-29_Jindřich-Rajchl_Strašák-jménem-Dozimetr.txt`
+- **Soubor:** [přepis](prepisy/done/2026-03-29_Jindřich-Rajchl_Strašák-jménem-Dozimetr.txt)
 - **Kanál:** Jindřich Rajchl (Facebook)
-- **URL:** https://www.facebook.com/100063460865205/videos/2248479815957748
+- **URL:** <https://www.facebook.com/100063460865205/videos/2248479815957748>
 - **Datum záznamu:** 2026-03-29
 - **Délka:** 61:11 | Zhlédnutí: 151 875
 - **Zpracováno:** ano
 
 ## Lenka Tarabová — ANO nechává neziskovky
-- **Soubor:** `prepisy/done/2026-03-23_Lenka-Tarabová_17K-views-568-reactions-ANO-NECHÁVÁ-NEZISKOVKY-LIKVIDO.txt`
+- **Soubor:** [přepis](prepisy/done/2026-03-23_Lenka-Tarabová_17K-views-568-reactions-ANO-NECHÁVÁ-NEZISKOVKY-LIKVIDO.txt)
 - **Kanál:** Lenka Tarabová (Facebook)
-- **URL:** https://m.facebook.com/watch/?v=1101433892167671
+- **URL:** <https://m.facebook.com/watch/?v=1101433892167671>
 - **Datum záznamu:** 2026-03-23
 - **Délka:** 1:06 | Zhlédnutí: 9 593
 - **Zpracováno:** ano
 
 ## Lenka Tarabová — Vakcinační genocida (německý toxikolog)
-- **Soubor:** `prepisy/done/2026-03-23_Lenka-Tarabová_7K-views-369-reactions-ZATÍMCO-UŽ-I-V-SOUSEDNÍM-NĚMECK.txt`
+- **Soubor:** [přepis](prepisy/done/2026-03-23_Lenka-Tarabová_7K-views-369-reactions-ZATÍMCO-UŽ-I-V-SOUSEDNÍM-NĚMECK.txt)
 - **Kanál:** Lenka Tarabová (Facebook)
-- **URL:** https://m.facebook.com/watch/?v=26125976707057501
+- **URL:** <https://m.facebook.com/watch/?v=26125976707057501>
 - **Datum záznamu:** 2026-03-23
 - **Délka:** 4:55 | Zhlédnutí: 3 472
 - **Poznámka:** Přepis v němčině — svědectví bývalého šéftoxikologa Pfizer Europe v parlamentním výboru.
 - **Zpracováno:** ano
 
 ## Lenka Tarabová — Chvilkařská chobotnice
-- **Soubor:** `prepisy/done/2026-03-27_Lenka-Tarabová_43K-views-142-reactions-CHVILKAŘSKÁ-CHOBOTNICE-Text-ve.txt`
+- **Soubor:** [přepis](prepisy/done/2026-03-27_Lenka-Tarabová_43K-views-142-reactions-CHVILKAŘSKÁ-CHOBOTNICE-Text-ve.txt)
 - **Kanál:** Lenka Tarabová (Facebook)
-- **URL:** https://m.facebook.com/watch/?v=1526175172556566
+- **URL:** <https://m.facebook.com/watch/?v=1526175172556566>
 - **Datum záznamu:** 2026-03-27
 - **Délka:** 7:41 | Zhlédnutí: 1 850
 - **Zpracováno:** ano
 
 ## Konspirátor Boldy — Beseda ve sklípku (prázdný přepis)
-- **Soubor:** `prepisy/done/2026-03-14_Konspirátor-Boldy-KonspyChannel_Videoportál.txt`
+- **Soubor:** [přepis](prepisy/done/2026-03-14_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
 - **Kanál:** KonspyChannel (Videoportál)
 - **Datum záznamu:** 2026-03-14
 - **Délka:** 22 s — prázdný přepis (organizační sdělení)
 - **Zpracováno:** ano (prázdné)
 
 ## Konspirátor Boldy — Mesiáš, Írán a ropa
-- **Soubor:** `prepisy/done/2026-03-15_Konspirátor-Boldy-KonspyChannel_Videoportál.txt`
+- **Soubor:** [přepis](prepisy/done/2026-03-15_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
 - **Kanál:** KonspyChannel (Videoportál)
 - **Datum záznamu:** 2026-03-15
 - **Délka:** 2:14 | Zhlédnutí: 30 888
 - **Zpracováno:** ano
 
 ## Konspirátor Boldy — Obři neexistují (prázdný přepis)
-- **Soubor:** `prepisy/done/2026-03-16_Konspirátor-Boldy-KonspyChannel_Videoportál.txt`
+- **Soubor:** [přepis](prepisy/done/2026-03-16_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
 - **Kanál:** KonspyChannel (Videoportál)
 - **Datum záznamu:** 2026-03-16
 - **Délka:** 51 s — anglické video bez relevantního obsahu
 - **Zpracováno:** ano (bez relevantního obsahu)
 
 ## Pavel Zítko — Soběšovice, petice za prezidentem (31. 3.)
-- **Soubor:** `prepisy/done/2026-03-31_Československo-TV2_Videoportál.txt`
+- **Soubor:** [přepis](prepisy/done/2026-03-31_Československo-TV2_Videoportál.txt)
 - **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
-- **URL:** https://m.facebook.com/watch/?v=1439745260607882
+- **URL:** <https://m.facebook.com/watch/?v=1439745260607882>
 - **Datum záznamu:** 2026-03-31
 - **Délka:** 4:56
 - **Zpracováno:** ano
 
 ## Pavel Zítko — Soběšovice, Q&A část 3 (1. 4.)
-- **Soubor:** `prepisy/done/2026-04-01_Československo-TV2_Videoportál.txt`
+- **Soubor:** [přepis](prepisy/done/2026-04-01_Československo-TV2_Videoportál.txt)
 - **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
-- **URL:** https://m.facebook.com/watch/?v=1959460814939504
+- **URL:** <https://m.facebook.com/watch/?v=1959460814939504>
 - **Datum záznamu:** 2026-04-01
 - **Délka:** 1:29:12
 - **Zpracováno:** ano
 
 ## Pavel Zítko — COVID tour ohlášení (2. 4.)
-- **Soubor:** `prepisy/done/2026-04-02_Československo-TV2_Videoportál.txt`
+- **Soubor:** [přepis](prepisy/done/2026-04-02_Československo-TV2_Videoportál.txt)
 - **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
-- **URL:** https://m.facebook.com/watch/?v=1461328375632195
+- **URL:** <https://m.facebook.com/watch/?v=1461328375632195>
 - **Datum záznamu:** 2026-04-02
 - **Délka:** 1:38:02
 - **Zpracováno:** ano
 
 ## Jiří Černohorský — Česko je plán (14. 11. 2025)
-- **Soubor:** `prepisy/done/2025-11-14_Jiří-Černohorský-Živě_5-let-zpu011bt-u010cESKO-ud83eudd2cud83eudd2cud.txt`
+- **Soubor:** [přepis](prepisy/done/2025-11-14_Jiří-Černohorský-Živě_5-let-zpu011bt-u010cESKO-ud83eudd2cud83eudd2cud.txt)
 - **Kanál:** Jiří Černohorský Živě (Facebook)
-- **URL:** https://www.facebook.com/reel/3272354729596181
+- **URL:** <https://www.facebook.com/reel/3272354729596181>
 - **Datum záznamu:** 2025-11-14
 - **Délka:** 22:28
 - **Zpracováno:** ano
 
 ## Jiří Černohorský — Petr Pavel jako velezrádce (17. 1. 2026)
-- **Soubor:** `prepisy/done/2026-01-17_Jiří-Černohorský-Živě_Video-879774821301397.txt`
+- **Soubor:** [přepis](prepisy/done/2026-01-17_Jiří-Černohorský-Živě_Video-879774821301397.txt)
 - **Kanál:** Jiří Černohorský Živě (Facebook)
-- **URL:** https://www.facebook.com/reel/879774821301397
+- **URL:** <https://www.facebook.com/reel/879774821301397>
 - **Datum záznamu:** 2026-01-17
 - **Délka:** 9:38
 - **Zpracováno:** ano
 
 ## Jiří Černohorský — Dvojí metr: Zeman vs. Pavel (27. 1. 2026)
-- **Soubor:** `prepisy/done/2026-01-27_Jiří-Černohorský-Živě_Video-871875478951370.txt`
+- **Soubor:** [přepis](prepisy/done/2026-01-27_Jiří-Černohorský-Živě_Video-871875478951370.txt)
 - **Kanál:** Jiří Černohorský Živě (Facebook)
-- **URL:** https://www.facebook.com/reel/871875478951370
+- **URL:** <https://www.facebook.com/reel/871875478951370>
 - **Datum záznamu:** 2026-01-27
 - **Délka:** 5:49
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Zákon FARA: autorství a srovnání se zahraničím
+- **Soubor:** [přepis](prepisy/done/2026-03-29_Jindřich-Rajchl_104K-views-65K-reactions-Ostatně-soudím-že-vláda-poli.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/950181897490138>
+- **Datum záznamu:** 2026-03-29
+- **Délka:** 2:21 | Zhlédnutí: 58 282
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Evropský parlament jako divadlo (pořad K věci)
+- **Soubor:** [přepis](prepisy/done/2026-03-31_Jindřich-Rajchl_194K-views-12K-reactions-Dnešní-debata-v-pořadu-K-věc.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1291382429598472>
+- **Datum záznamu:** 2026-03-31
+- **Délka:** 2:00 | Zhlédnutí: 107 019
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — DVTV, Forum24, Reflex a Respekt jsou žumpa
+- **Soubor:** [přepis](prepisy/done/2026-04-01_Jindřich-Rajchl_194K-views-18K-reactions-DVTV-Forum24-Reflex-Respekt-.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1444040710846331>
+- **Datum záznamu:** 2026-04-01
+- **Délka:** 5:14 | Zhlédnutí: 104 125
+- **Zpracováno:** ano
+
+## Lenka Tarabová — Schmarcze na Primě (mimo kontext)
+- **Soubor:** [přepis](prepisy/done/2026-03-26_Lenka-Tarabová_54K-views-268-reactions-SCHMARCZE-SI-NA-PRIMĚ-VYDRŽUJÍ.txt)
+- **Kanál:** Lenka Tarabová (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1423514419575383>
+- **Datum záznamu:** 2026-03-26
+- **Délka:** 0:36 — přepis bez výroku Tarabové, bezprostřední kontext chybí
+- **Zpracováno:** ano (bez použitelného obsahu)
+
+## Lenka Tarabová — Výzva lékařům (anglické svědectví)
+- **Soubor:** [přepis](prepisy/done/2026-03-30_Lenka-Tarabová_11K-views-562-reactions-VÝZVA-LÉKAŘŮM-SAHNĚTE-SI-DO-SV.txt)
+- **Kanál:** Lenka Tarabová (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1677950340320152>
+- **Datum záznamu:** 2026-03-30
+- **Délka:** 4:01 — anglicky; svědectví amerického lékaře o absenci výuky bezpečnosti vakcín
+- **Zpracováno:** ano
+
+## Lenka Tarabová — VZP: bonus za očkování jako diskriminace
+- **Soubor:** [přepis](prepisy/done/2026-03-30_Lenka-Tarabová_19K-views-448-reactions-ZVÝHODNĚNÍ-OČKOVANÝCH-NEBO-DIS.txt)
+- **Kanál:** Lenka Tarabová (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=2374183996395307>
+- **Datum záznamu:** 2026-03-30
+- **Délka:** 0:20
+- **Zpracováno:** ano
+
+## Konspirátor Boldy — Omluva Dominikovi (bez obsahu)
+- **Soubor:** [přepis](prepisy/done/2026-03-16_Konspirátor-Boldy-KonspyChannel_Facebook-Live.txt)
+- **Kanál:** KonspyChannel (Facebook Live)
+- **URL:** <https://www.facebook.com/100083247552502/videos/1481689873561404>
+- **Datum záznamu:** 2026-03-16
+- **Délka:** 1:20 — osobní omluva, žádný tematický obsah
+- **Zpracováno:** ano (bez obsahu)
+
+## Konspirátor Boldy — Humanoidní roboti na Ukrajině
+- **Soubor:** [přepis](prepisy/done/2026-03-17_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
+- **Kanál:** KonspyChannel (Videoportál)
+- **URL:** <https://www.facebook.com/100083247552502/videos/1432110248710662>
+- **Datum záznamu:** 2026-03-17
+- **Délka:** 1:41 | Zhlédnutí: 13 101
+- **Zpracováno:** ano
+
+## Konspirátor Boldy — Pozvánka na Matyášovo video (bez obsahu)
+- **Soubor:** [přepis](prepisy/done/2026-03-29_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
+- **Kanál:** KonspyChannel (Videoportál)
+- **URL:** <https://www.facebook.com/100083247552502/videos/1146481847556214>
+- **Datum záznamu:** 2026-03-29
+- **Délka:** 1:08 — propagace videa přítele, žádný tematický obsah
+- **Zpracováno:** ano (bez obsahu)
+
+## Pavel Zítko — Soběšovice, Peková Q&A část 2 (1. 4.)
+- **Soubor:** [přepis](prepisy/done/2026-04-01_Československo-TV2_Videoportál_1.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=803512212338482>
+- **Datum záznamu:** 2026-04-01
+- **Délka:** 1:41:22 — 28. 3. 2026 Soběšovice, MUDr. Peková Q&A, 2. část
+- **Zpracováno:** ano
+
+## Pavel Zítko — Soběšovice, Peková přednáška část 1 (1. 4.)
+- **Soubor:** [přepis](prepisy/done/2026-04-01_Československo-TV2_Videoportál_2.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=926248036971693>
+- **Datum záznamu:** 2026-04-01
+- **Délka:** 1:40:28 — 28. 3. 2026 Soběšovice, MUDr. Peková přednáška, 1. část
+- **Zpracováno:** ano
+
+## Pavel Zítko — Večerník 2. dubna (COVID tour, konspirační teorie)
+- **Soubor:** [přepis](prepisy/done/2026-04-03_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=27234976989437347>
+- **Datum záznamu:** 2026-04-03
+- **Délka:** 49:57
+- **Zpracováno:** ano
+
+## Jiří Černohorský — Hrad a Seznam Zprávy (27. 1. 2026, var. 2)
+- **Soubor:** [přepis](prepisy/done/2026-01-27_Jiří-Černohorský-Živě_Video-910489681943867.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook)
+- **URL:** <https://www.facebook.com/reel/910489681943867>
+- **Datum záznamu:** 2026-01-27
+- **Délka:** 5:49
+- **Poznámka:** Druhý reel z téhož dne — rozšiřuje téma Hrad/Deník N o smlouvu se Seznamem.
+- **Zpracováno:** ano
+
+## Jiří Černohorský — Petr Pavel a agent Sovjak (22. 2. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-02-22_Jiří-Černohorský-Živě_Magyar.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook)
+- **URL:** <https://www.facebook.com/reel/1438325174502454>
+- **Datum záznamu:** 2026-02-22
+- **Délka:** 2:35
+- **Zpracováno:** ano
+
+## Jiří Černohorský — Návrat z bandovolené (2. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-02_Jiří-Černohorský-Živě_zdravím-po-měsíční-Bandovolené-přátelé-Jiří-Nez.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook/Rumble)
+- **URL:** <https://www.facebook.com/reel/3184732835030146>
+- **Datum záznamu:** 2026-04-02
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Zahraniční pomoc: kurníky v Salvadoru (3. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-03_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/924949043632983>
+- **Datum záznamu:** 2026-04-03
+- **Délka:** 3:28 | Zhlédnutí: 141 773
 - **Zpracováno:** ano

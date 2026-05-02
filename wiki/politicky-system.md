@@ -84,6 +84,36 @@ Rajchl poukazuje na rozpor v chování prezidenta Petra Pavla: v roce 2023 prohl
 
 ---
 
+## Evropský parlament a demokratický deficit
+
+### EP jako divadlo — předem dohodnuté hlasování
+
+Jindřich Rajchl na základě zkušenosti z práce v Evropském parlamentu tvrdí, že EP je pouhé divadlo: veškerá rozhodnutí jsou dojednána předem mezi Komisí a skupinovými leadery, samotná plenární hlasování jsou jen formální schválení. Rajchl popisuje, jak po příchodu do EP zjistil, že jako nový poslanec nezískal žádný funkcionářský post, protože tato místa jsou obsazována starými stranami. Viz také [Suverenita a EU — EP jako divadlo](suverenita-eu.md#evropský-parlament-a-v4-strategie).
+
+**Zdroje:** [Rajchl — Evropský parlament jako divadlo, 2026-03-31](_zdroje.md#jindřich-rajchl--evropský-parlament-jako-divadlo-pořad-k-věci)
+
+---
+
+### Letná 2026: NGO-řízená demontáž voleb
+
+Jiří Černohorský interpretuje demonstraci Milionu chvilek na Letné 2026 nikoliv jako spontánní občanský protest, ale jako organizovanou politickou kampaň financovanou z NGO sektoru. Poukazuje na to, že výroba takové akce (velké plátno, kilometry kabelů, ozvučení) stojí v řádu desítek milionů — a lidé jako Mikuláš Minář jsou de facto „nastrčenými loutkami" neziskovek. Demonstrace je vzkaz Babišovi, jehož vítězství existenčně ohrožuje tyto organizace. Viz také [FARA a neziskovky — Letná 2026](fara-neziskovky.md#milion-chvilek--struktura-a-financování).
+
+**Zdroje:** [Černohorský — Návrat z bandovolené, 2026-04-02](_zdroje.md#jiří-černohorský--návrat-z-bandovolené-2-4-2026)
+
+---
+
+## Zahraniční politika
+
+### Česká rozvojová pomoc: kurníky v Salvadoru a chilli v Zambii
+
+Jindřich Rajchl informuje o zasedání zahraničního výboru sněmovny (duben 2026), kde ministr Macinka prezentoval seznam projektů financovaných z českých daní za vlád Petra Fialy a ministra zahraničí Lipavského: posílení kapacit srbských médií pro Green Deal, produkce chilli v Zambii, rodinné kurníky v Salvadoru, včelařství v Hondurasu, chov drůbeže v Ugandě, lisování oleje v Ghaně. Rajchl označuje toto hospodaření s veřejnými penězi za „diletantství". Lipavský se podle jeho slov k výčtu přihlásil a prohlásil, že je „na to hrdý".
+
+> „Posílání kapacit srbských nezávislých médií v informování o výzvách zelené transformace. [...] Produkce chilly v Zambii. Rodinné kurníky v Salvádoru. [...] A k tomu samozřejmě přehlídka politických neziskovek progresivistického směru, které tunelují peníze od rána do večera." — Jindřich Rajchl, [Videoportál 2026-04-03](_zdroje.md#jindřich-rajchl--zahraniční-pomoc-kurníky-v-salvadoru-3-4-2026)
+
+**Zdroje:** [Rajchl — Videoportál 2026-04-03](_zdroje.md#jindřich-rajchl--zahraniční-pomoc-kurníky-v-salvadoru-3-4-2026)
+
+---
+
 ## Politická kultura
 
 ### Princip reciprocity a odmítání podřízenosti

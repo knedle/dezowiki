@@ -89,3 +89,35 @@ Jiří Černohorský hodnotí kauzu kolem konfiskovaných bitcoinů (odhadované
 > „Tadle kauza... tohle není kauza. To je organizovaný zločin. To je organizovaný zločin na Darknetu." — Jiří Černohorský, [TikTok živě 2025-06-08](_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025)
 
 **Zdroje:** [Černohorský — TikTok živě, 2025-06-08](_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025)
+
+---
+
+### Ministerstvo spravedlnosti nečinné — šestikrokový návod k usvědčení (Zítko)
+
+Pavel Zítko od března 2026 opakovaně veřejně prezentuje to, co označuje za šestikrokový návod k usvědčení všech účastníků organizovaného zločinu kolem Jiříkovského bitcoinů. Trestní oznámení podával i na Nejvyšší státní zastupitelství. Přesto ani Tejcovo ministerstvo spravedlnosti (100+ dní ve funkci), ani vrchní státní zastupitelství v Olomouci, ani útvary NCOZ a NCTEKK nezačaly prošetřovat pohyby na blockchainu. Zítko identifikuje klíčové spoluúčastníky: Karim Tyc (brněnský podnikatel), soudní znalec Jiří Berger a notář Lubomír Míka; celkovou hodnotu bitcoinů ze dvou darknetových tržišť (Nucleus Market + SHIB Marketplace) odhaduje na přes 100 miliard Kč. Varuje, že pokud česká justice nezasáhne, případ bude muset prošetřit FBI.
+
+> „Ode mě v těch vysíláních v březnu dostali asi šestistupňovej návod, jak usvědčit všechny účastníky tohoto zločinného spolčení, včetně důkazů, ale zatím se teda nic neděje." — Pavel Zítko, [Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie)
+
+**Zdroje:** [Zítko — Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie)
+
+---
+
+## Letná 2026 — demonstrace jako politický nástroj neziskovek
+
+### Financování Mináře a Šimon Pánek z Člověka v tísni
+
+Jiří Černohorský odmítá výklad demonstrace Milionu chvilek na Letné (2026) jako spontánního občanského protestu. Odhaduje výrobní náklady (pronájem velkoplošné obrazovky, kilometry kabelů) na 10 milionů Kč — sumu, kterou Minář nemohl pokrýt sám. Za nejpravděpodobnějšího sponzora označuje Šimona Pánka z Člověka v tísni. Celou akci interpretuje jako politický vzkaz Andreji Babišovi, jehož vítězství ve volbách existenčně ohrožuje NGO ekosystém. Viz také [FARA a neziskovky — Letná 2026](fara-neziskovky.md#milion-chvilek--struktura-a-financování).
+
+**Zdroje:** [Černohorský — Návrat z bandovolené, 2026-04-02](_zdroje.md#jiří-černohorský--návrat-z-bandovolené-2-4-2026)
+
+---
+
+## Meeting Brno — 15 milionů na sudetoněmecké akce
+
+### Černohorský volá po trestu smrti za vlastizradu
+
+Jiří Černohorský odhaluje (s odkazem na informace od Petry Redové), že spolek Meeting Brno čerpal přes 15 milionů korun z veřejných zdrojů za deset let pořádání setkání se Sudetoněmeckým Landsmannschaftem. Žádosti o svobodný přístup k informacím narážely na finanční bariéry (stovky Kč za 5letá data, přes 100 tisíc Kč za 10leté hospodaření). Při komentáři tohoto případu Černohorský veřejně volá po obnovení trestu smrti za vlastizradu a velezradu — a dodává, že „by vysel aj Petr Pavel".
+
+> „Tohle jsou vlasti zrádci, jo, prostě jsou to zrádci České republiky a já jsem jednoznačně pro obnovení trestu smrti za vlastizradu a velezradu. [...] Protože to by vysel už aj pávek, tedy Petr Pavel." — Jiří Černohorský, [Návrat z bandovolené 2026-04-02](_zdroje.md#jiří-černohorský--návrat-z-bandovolené-2-4-2026)
+
+**Zdroje:** [Černohorský — Návrat z bandovolené, 2026-04-02](_zdroje.md#jiří-černohorský--návrat-z-bandovolené-2-4-2026)

@@ -2,9 +2,9 @@
 
 Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na témata každodenní politiky, zdražování a kritiky vlády.
 
-**Zpracované zdroje:** [Cena pohonných hmot (12. 3. 2026)](../_zdroje.md#lenka-tarabová--cena-pohonných-hmot-stále-roste) · [ANO nechává neziskovky (23. 3. 2026)](../_zdroje.md#lenka-tarabová--ano-nechává-neziskovky) · [Vakcinační genocida (23. 3. 2026)](../_zdroje.md#lenka-tarabová--vakcinační-genocida-německý-toxikolog) · [Chvilkařská chobotnice (27. 3. 2026)](../_zdroje.md#lenka-tarabová--chvilkařská-chobotnice)
+**Zpracované zdroje:** [Cena pohonných hmot (12. 3. 2026)](../_zdroje.md#lenka-tarabová--cena-pohonných-hmot-stále-roste) · [ANO nechává neziskovky (23. 3. 2026)](../_zdroje.md#lenka-tarabová--ano-nechává-neziskovky) · [Vakcinační genocida (23. 3. 2026)](../_zdroje.md#lenka-tarabová--vakcinační-genocida-německý-toxikolog) · [Chvilkařská chobotnice (27. 3. 2026)](../_zdroje.md#lenka-tarabová--chvilkařská-chobotnice) · [Schmarcze na Primě — bez obsahu (28. 3. 2026)](../_zdroje.md#lenka-tarabová--schmarcze-na-primě-mimo-kontext) · [Výzva lékařům — anglické svědectví (30. 3. 2026)](../_zdroje.md#lenka-tarabová--výzva-lékařům-anglické-svědectví) · [VZP: bonus za očkování jako diskriminace (30. 3. 2026)](../_zdroje.md#lenka-tarabová--vzp-bonus-za-očkování-jako-diskriminace)
 
-> Poznámka: Dva nejstarší zpracované soubory (23. 2. a 3. 3. 2026) byly kratší než 10 sekund — přepisy byly prázdné nebo obsahovaly jednu větu bez kontextu.
+> Poznámka: Dva nejstarší zpracované soubory (23. 2. a 3. 3. 2026) byly kratší než 10 sekund — přepisy byly prázdné nebo obsahovaly jednu větu bez kontextu. Soubor z 28. 3. (Schmarcze na Primě) bez tematického obsahu — krátký klip mimo kontext.
 
 ---
 
@@ -14,7 +14,7 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 |------|----------------------|
 | [Ceny energií](../ceny-energie.md) | Zdražování nafty, nesoulad s cenou barelu, kritika vlády za nečinnost, výzva k bojkotu čerpacích stanic |
 | [FARA a neziskovky](../fara-neziskovky.md) | ANO nezjišťuje zahraniční financování neziskovek; Milion chvílek — hierarchie, skrytý účet, napojení na neziskový sektor |
-| [COVID a vakcíny](../covid-vakciny.md) | Comirnaty nebyla testována na karcinogenitu (svědectví šéftoxikologa Pfizer Europe) |
+| [COVID a vakcíny](../covid-vakciny.md) | Comirnaty nebyla testována na karcinogenitu (svědectví šéftoxikologa Pfizer Europe); VZP bonus 500 Kč za očkování jako diskriminace (§ 198/2009, § 402 trestního zákoníku); svědectví amerického lékaře o absenci výuky bezpečnosti vakcín |
 
 ---
 

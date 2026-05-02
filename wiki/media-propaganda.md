@@ -60,6 +60,38 @@ Jiří Černohorský upozorňuje na případ, kdy pracovníci Hradu (podle jeho 
 
 ---
 
+## Mainstream jako politický aktivismus
+
+### DVTV, Forum24, Reflex a Respekt — „žumpa"
+
+Po telefonátu od Daniely Drtinové (DVTV) Rajchl veřejně prohlásil, že jsou naprostá žumpa neschopná objektivní žurnalistiky — a přidal Forum24, Reflex a Respekt. Jako klíčový důkaz uvádí, jaká označení používají pro něj: „Putinův mazlíček", „kremelský kolaborant", „Putinův poskok". Pokud jiní mohou takto útočit bez omezení, odmítá být jednostranně v defenzivním postavení. Drtinové vytkl, že zavolala bez předchozí zprávy a bez upozornění na nahrávání — u slušného novináře naprostý standard.
+
+> „Paní Drtinová, vás? Nebo pana Veselovského? No tak. Já prostě jenom nemám důvod a nejmenší chuť zvyšovat vám čísla, protože vám o nic jiného nejde." — Jindřich Rajchl, [DVTV jsou žumpa 2026-04-01](_zdroje.md#jindřich-rajchl--dvtv-forum24-reflex-a-respekt-jsou-žumpa)
+
+> „Slušný novinář paní Trtinová nejdřív napíše třeba SMS-ku nebo zprávu, že by rád natočil rozhovor. Ale především slušný novinář upozorní na začátku toho rozhovoru svého partnera, že si hovor nahrává. Ani to jste neudělala." — Jindřich Rajchl, [DVTV jsou žumpa 2026-04-01](_zdroje.md#jindřich-rajchl--dvtv-forum24-reflex-a-respekt-jsou-žumpa)
+
+**Zdroje:** [Rajchl — DVTV jsou žumpa, 2026-04-01](_zdroje.md#jindřich-rajchl--dvtv-forum24-reflex-a-respekt-jsou-žumpa)
+
+---
+
+### Česká televize: 8 miliard bez kontroly — zrušit nebo sdílet
+
+Jiří Černohorský zpochybňuje samotný model veřejnoprávního financování ČT. Koncesonářské poplatky 8 miliard korun ročně jdou výhradně České televizi bez jakékoli veřejné kontroly toho, kam peníze skutečně míří. Navrhuje dvě alternativy: buď zcela zrušit koncesionářské poplatky a nechat ČT živit se z trhu jako komerční stanice, nebo poplatky rozdělit mezi všechna televizní a rádiová vysílání s celostátní licencí. Jako příklad špatného hospodaření uvádí Václava Moravce, jehož odchod z ČT nepovažuje za finanční újmu — Moravec si prý snadno vydělá 300 000 Kč měsíčně jinde.
+
+> „Z jakého důvodu by tohle mělo... nejsme v tom podnikatelském prostředí? Jestliže tady se musí uživit Nova, Prima a já nevím co, tak ať se taky postará sama o sebe Česká televize. Hotovo." — Jiří Černohorský, [Návrat z bandovolené 2026-04-02](_zdroje.md#jiří-černohorský--návrat-z-bandovolené-2-4-2026)
+
+**Zdroje:** [Černohorský — Návrat z bandovolené, 2026-04-02](_zdroje.md#jiří-černohorský--návrat-z-bandovolené-2-4-2026)
+
+---
+
+### Jakub Janda a Štít demokracie — nový parazitický projekt
+
+Černohorský označuje Jakuba Jandu (Evropské hodnoty) a Romana Mácu za autory nového projektu „Štít demokracie" a obě osoby označuje za nebezpečné aktivisty s prsty všude v anti-dezinformační průmyslové oblasti. Oba spolky označuje za parazitické organizace financované z veřejných zdrojů.
+
+**Zdroje:** [Černohorský — Návrat z bandovolené, 2026-04-02](_zdroje.md#jiří-černohorský--návrat-z-bandovolené-2-4-2026)
+
+---
+
 ## Elity a plánování dezinformací skrze popkulturu
 
 ### Filmy jako záměrné odhalení plánů

@@ -81,6 +81,38 @@ Konspirátor Boldy tvrdí, že od roku 2024 probíhají v USA a následně v Evr
 
 ---
 
+### Pfizer: 1223 mrtvých za 3 měsíce testování — a CDC potvrdil záporný přínos
+
+Na Q&A v Soběšovicích Pavel Zítko a Soňa Peková prezentují data z vlastních přepisů a soudních dokumentů: v klinické studii Pfizeru (přibližně 40 000 účastníků, 1. 12. 2020 – 28. 2. 2021) zemřelo 1223 osob. Dokumenty z žaloby vynucené americkým soudem, které Pfizer chtěl utajit na 75 let, pak Pfizer označil jako záměrné tajení. Druhým klíčovým zdrojem je dokument CDC stažený z vlády USA dne 28. 8. 2021: uvádí, že jen v USA (4 % světové populace) zemřelo po vakcíně 150 000 lidí a vakcína COVID-19 má „čistě negativní přínos" — tzn. po ní umírá 25–30× více lidí, než na samotné onemocnění. Peková ho četla veřejně u budovy lékařské komory, přestože policie přítomnost zpochybňovala.
+
+> „Ze vzorku 42 nebo 45 000 lidí — 1223 zabitých za tři měsíce. Když pak čtvrtníček hřímal v reklamě hrazené z veřejných peněz, že to funguje... bylo vidět, že to funguje — směrem k redukci počtu obyvatel a ke sterilizaci lidí." — Pavel Zítko, [Soběšovice Q&A 2026-04-01](_zdroje.md#pavel-zítko--soběšovice-peková-qa-část-2-1-4)
+
+⚡ **Konflikt:** Referenční regulační orgány (FDA, EMA, CDC) nezveřejnily žádná data potvrzující tyto počty; tvrzení o záměrném utajování a masové smrtnosti vakcín jsou v rozporu s vědeckým konsensem.
+
+**Zdroje:** [Zítko — Soběšovice Q&A, 2026-04-01](_zdroje.md#pavel-zítko--soběšovice-peková-qa-část-2-1-4), [Zítko — Soběšovice přednáška, 2026-04-01](_zdroje.md#pavel-zítko--soběšovice-peková-přednáška-část-1-1-4)
+
+---
+
+### Remdesivir a ventilátory: skutečná příčina covidových úmrtí
+
+Pavel Zítko tvrdí, že jeho matka zemřela 20. října 2020 v přímém důsledku protokolu remdesivir+ventilátor — preparát označovaný jako lék prý způsobil selhání jater a ledvin. Obecněji tvrdí, že 95 % hospitalizovaných na JIP bylo intubováno, přičemž 8 z 10 pak zemřelo — nikoliv na virus, ale vlivem ventilátoru. Remdesivir přirovnává k preparátu testovanému při epidemii eboly v Africe, kde byl zastaven pro 53% smrtnost. Tento výsledek se podle Zítka zopakoval i při covidu a vytvářel statistické „covidové oběti".
+
+> „SARS-CoV-2, který nikdy nebyl izolován, ho prostě zabít nemohl. Cestu k úmrtí vedl přes remdesivir, přes ventilátor, který byl nastaven nevhodně." — Pavel Zítko, [Soběšovice přednáška 2026-04-01](_zdroje.md#pavel-zítko--soběšovice-peková-přednáška-část-1-1-4)
+
+⚡ **Konflikt:** Remdesivir je WHO a FDA schválenou léčbou těžkého průběhu COVID-19; klinické studie neprokázaly nadměrnou smrtnost v porovnání s kontrolními skupinami.
+
+**Zdroje:** [Zítko — Soběšovice přednáška, 2026-04-01](_zdroje.md#pavel-zítko--soběšovice-peková-přednáška-část-1-1-4)
+
+---
+
+### Lékaři neví nic o bezpečnosti vakcín — svědectví amerického lékaře
+
+Lenka Tarabová sdílí výzvu k lékařům doprovozenou anglickým svědectvím amerického lékaře (profesora Case Western Reserve University). Ten pod přísahou uvádí, že výuka na lékařských školách vůbec neobsahuje informace o složení vakcín, bezpečnostních záznamech, informovaném souhlasu ani o Programu náhrad za vakcinační škody — lékaři se jen učí memorovat vakcinační schéma. Dále uvádí finanční pobídky pro lékaře za splnění vakcinačních plánů, vyhazování pacientů z ordinací za pochybnosti o vakcínách a absenci informovaného souhlasu v jeho vlastní praxi.
+
+**Zdroje:** [Tarabová — Výzva lékařům, 2026-03-30](_zdroje.md#lenka-tarabová--výzva-lékařům-anglické-svědectví)
+
+---
+
 ## Petice za odpovědnost — akce Peková
 
 ### Sbírání podpisů pro prezidenta Pavla
@@ -93,6 +125,16 @@ Soňa Peková (virolog, soudní znalkyně) a Pavel Zítko organizují akci: fyzi
 
 ---
 
+## VZP: bonus za očkování jako diskriminace
+
+### Příspěvek 500 Kč od VZP jako podpora vakcinace
+
+Lenka Tarabová sdílí oznámení VZP, že pojistěnci, kteří se nechají očkovat proti chřipce, obdrží bonus 500 Kč na dentální hygienu, sport nebo rehabilitaci. Tarabová to komentuje jako protiprávní diskriminaci, odkazuje na antidiskriminační zákon č. 198/2009 Sb. (§ 1 o přístupu ke zdravotní péči, §2 o přímé diskriminaci) a na § 402 trestního zákoníku (apartheid a diskriminace skupiny lidí). Zpochybňuje, kdo odpovídá za VZP po jmenování nového ředitele Ivana Duškova (od 24. 2. 2026).
+
+**Zdroje:** [Tarabová — VZP diskriminace, 2026-03-30](_zdroje.md#lenka-tarabová--vzp-bonus-za-očkování-jako-diskriminace)
+
+---
+
 ## Pokusy o vyšetřování
 
 ### Vzorky vakcín bez zájmu úřadů — Soňa Peková
@@ -102,6 +144,14 @@ Virolog a soudní znalkyně Soňa Peková (vystupující na akci Pavel Zítko) p
 > „Tady není vůbec žádná snaha o odhalování zločinu za covidu-19 a každý, kdo se o to snaží, tak má být nakonec vlastně uvařen." — Soňa Peková, citována Pavel Zítko, [Soběšovice 2026-03-29](_zdroje.md#pavel-zítko--soběšovice-přenos-29-3)
 
 **Zdroje:** [ČsTV2 — Soběšovice přenos, 2026-03-29](_zdroje.md#pavel-zítko--soběšovice-přenos-29-3)
+
+---
+
+### Rajchl slíbil pomoc s prezidentským dopisem — a nesplnil
+
+Peková na akci v Soběšovicích uvádí, že se spoléhala na Jindřicha Rajchla, který na semináři o COVID-19 ve sněmovně (26. 1. 2026) veřejně prohlásil, že se celou svojí osobností za petici k prezidentovi postaví. Peková proto nikoho jiného neoslovila. Rajchl nakonec nepomohl, proto petici organizuje sama po své ose. Při hledání mezinárodní podpory kontaktovala i Alaina Berseta (generální sekretář Rady Evropy, bývalý švýcarský ministr zdraví, „sám těžký covidián"), Barackou Obamovu nadaci a ruskou ambasádu — vše bez praktického výsledku. Jako filosofický postoj uvádí: „Tuto hru v tuto chvíli není možné objektivně vyhrát, ale není možné ji nehrát."
+
+**Zdroje:** [Zítko — Soběšovice Q&A, 2026-04-01](_zdroje.md#pavel-zítko--soběšovice-peková-qa-část-2-1-4)
 
 ---
 
