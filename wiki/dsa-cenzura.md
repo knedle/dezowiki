@@ -28,6 +28,16 @@ Rajchl jako nejzávažnější prvek DSA označuje institut „trusted flaggers"
 
 ---
 
+### DSA použit k ovlivnění voleb v 8 zemích EU
+
+Rajchl v bratislavském projevu (4. 4. 2026) cituje zprávu US House Judiciary Committee (výbor pro spravedlnost amerického Kongresu), dle níž byl DSA použit k ovlivnění voleb v 8 zemích EU. Na Slovensku byly dle tohoto výkladu cenzurovány konzervativní příspěvky — konkrétně tvrzení, že existují pouze dvě pohlaví, nebo že manželství je svazkem jednoho muže a jedné ženy. Rajchl rovněž poukazuje na Velkou Británii, kde tvrdí, že počet trestně stíhaných za svobodu slova je nyní vyšší než v Číně nebo Rusku.
+
+> „Právě proto musí EU vymýšlet akty jako je DSA. Nařízení, jehož cílem není nic jiného, než umlčet hlasy, které protestují proti současnému směřování bruselské politiky." — Jindřich Rajchl, [Bratislavský projev 2026-04-04](_zdroje.md#jindřich-rajchl--projev-z-bratislavy-eu-v4-a-suverenita-4-4-2026)
+
+**Zdroje:** [Rajchl — Bratislavský projev, 2026-04-04](_zdroje.md#jindřich-rajchl--projev-z-bratislavy-eu-v4-a-suverenita-4-4-2026)
+
+---
+
 ## Blokování na sociálních sítích
 
 ### Facebook jako soukromá firma nad ústavou

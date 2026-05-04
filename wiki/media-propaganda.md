@@ -62,6 +62,24 @@ Jiří Černohorský upozorňuje na případ, kdy pracovníci Hradu (podle jeho 
 
 ## Mainstream jako politický aktivismus
 
+### Nora Friedrichová (DVTV) — Rajchlova výzva opakování odmítnuta
+
+V živém vysílání 5. 4. 2026 Rajchl popisuje, jak Nora Friedrichová opakovaně volala a psala. Rajchl odepsal: „odmítám se s nikým, jako jste vy, bavit" — a zdůvodnil to vzájemným vědomím minulosti (narážka na kauzy kolem DVTV). Friedrichová mu poté napsala s novou otázkou, Rajchl odepsal: „Vy asi nerozumíte ani psanému textu." Rajchl v živém vysílání vyhlásil: DVTV, Forum24, Deník N, Reflex a Respekt — v životě rozhovor nedá. Macinkovo barování Deníku N z tiskové konference označuje za správné.
+
+> „Já jim jenom nebudu zvyšovat v žádném případě sledovanost. A oni zase napsali, že stejně mají zájem o ten rozhovor. To víte, že máte, protože by to byl nejsledovanější rozhovor ve vaší historii a ještě byste si na tom vydělali peníze. Ale já si počkám, až klidně zkrachujete." — Jindřich Rajchl, [Facebook Live 2026-04-05](_zdroje.md#jindřich-rajchl--facebook-live-5-dubna-energetika-orbán-minář-5-4-2026)
+
+**Zdroje:** [Rajchl — Facebook Live 5. dubna, 2026-04-05](_zdroje.md#jindřich-rajchl--facebook-live-5-dubna-energetika-orbán-minář-5-4-2026)
+
+---
+
+### Článek o „121letých sponzorech" PRO — Rajchl: typografická chyba, záměrná lež
+
+Rajchl v živém vysílání 5. 4. 2026 reaguje na titulkový článek iDnes/e-dnes o tom, že PRO má tři sponzory ve věku 121 let. Vysvětluje: u jednoho dárce 1300 Kč se při zadávání přehodily číslice 5 a 0 — z 1950 vzniklo 1905. Chybu ohlásili a závazně slíbili opravit do termínu odevzdání výroční zprávy (1. dubna). Přesto titulka zůstala. Rajchl to označuje za záměrné překroucení chyby v evidenci stovek dárců ve prospěch senzace — a poukazuje, že stejný iDnes neuvedl, že Adam Coubal (Porsche případ) byl sponzorem Petra Pavla.
+
+**Zdroje:** [Rajchl — Facebook Live 5. dubna, 2026-04-05](_zdroje.md#jindřich-rajchl--facebook-live-5-dubna-energetika-orbán-minář-5-4-2026)
+
+---
+
 ### DVTV, Forum24, Reflex a Respekt — „žumpa"
 
 Po telefonátu od Daniely Drtinové (DVTV) Rajchl veřejně prohlásil, že jsou naprostá žumpa neschopná objektivní žurnalistiky — a přidal Forum24, Reflex a Respekt. Jako klíčový důkaz uvádí, jaká označení používají pro něj: „Putinův mazlíček", „kremelský kolaborant", „Putinův poskok". Pokud jiní mohou takto útočit bez omezení, odmítá být jednostranně v defenzivním postavení. Drtinové vytkl, že zavolala bez předchozí zprávy a bez upozornění na nahrávání — u slušného novináře naprostý standard.

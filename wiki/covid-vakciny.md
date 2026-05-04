@@ -137,9 +137,11 @@ Zítko cituje předpověď Rudolfa Steinera z roku 1925, podle níž materialist
 
 Pavel Zítko odkazuje na analýzu statistika Romana Kovaříka z dat ÚZIS (Ústav zdravotnických informací a statistiky ČR): porodnost v ČR klesla z přibližně 112 000 porodů ročně na přibližně 77 000 — tj. o třetinu. Kovařík dle Zítka prokázal, že u vakcinovaných žen docházelo k poklesu plodnosti přímo v měsících odpovídajících jednotlivým dávkám vakcíny. Zítko z toho vyvozuje přímou kauzální spojitost mezi mRNA vakcínami a snížením porodnosti.
 
+Ve večerníku 7. dubna 2026 Zítko tato čísla upřesňuje: za čtyři roky se narodilo o 35 000 dětí méně (propad o 30 %), přičemž Kovařík analýzu prováděl na vzorku 1,3 milionu žen ve věku 18–39 let. Zítko to popisuje jako „demografickou katastrofu" a přirovnává k situaci, jako by přestalo existovat celé okresní město. Zároveň opakuje, že Kovařík prokázal, že za propadem stojí výhradně vakcinované ženy, nikoliv celá populace.
+
 ⚡ **Konflikt:** Demografové a reprodukční epidemiologové nepřiznávají vakcinaci jako příčinu poklesu porodnosti; pokles sledují napříč neočkovanými i očkovanými populacemi a přisuzují jej ekonomickým a sociálním faktorům.
 
-**Zdroje:** [ČsTV2 — Velký pátek: fotonizovaná voda, 2026-04-04](_zdroje.md#pavel-zítko--velký-pátek-fotonizovaná-voda-rudolf-steiner-covid-tour-4-4-2026)
+**Zdroje:** [ČsTV2 — Velký pátek: fotonizovaná voda, 2026-04-04](_zdroje.md#pavel-zítko--velký-pátek-fotonizovaná-voda-rudolf-steiner-covid-tour-4-4-2026), [ČsTV2 — Večerník 7. dubna, 2026-04-08](_zdroje.md#pavel-zítko--večerník-7-dubna-danykolár-a-úzis-8-4-2026)
 
 ---
 
@@ -209,3 +211,71 @@ Mluvčí Pavel Zítko popisuje covidovou éru jako období, v němž byly klíč
 — Pavel Zítko, [Soběšovice 2026-03-27](_zdroje.md#pavel-zítko--soběšovice-pozvánka-27-3)
 
 **Zdroje:** [ČsTV2 — Soběšovice, 2026-03-27](_zdroje.md#pavel-zítko--soběšovice-pozvánka-27-3)
+
+---
+
+### Rozšířený výčet paradoxů covidismu (Zítko, duben 2026)
+
+Ve warm-up vysílání (9. 4. 2026) Zítko výčet paradoxů covidismu dále rozvádí: „Certifikovaný jed byl tzv. zdravý produkt. Necertifikovaný zdravý produkt byl jed." „Inzerce přírodního produktu byla klamání veřejnosti." „Předepisování jedů s razítkem MUDr. se nazývalo lékařství." „Akademický titul byl odbornost. Zločinec byl odborník." „Virus byla náboženská ideologie." „Očkovaný byl nadčlověk, neočkovaný podčlověk." Zítko uzavírá: soudy rozhodovaly podle toho, co bylo v televizi — „ostatně takhle soudí naše korporátní soudy dodneška."
+
+**Zdroje:** [Zítko — Zahřívací kolo COVID-19, 2026-04-10](_zdroje.md#pavel-zítko--zahřívací-kolo-covid-19-chemoterapie-5g-tribunál-10-4-2026)
+
+---
+
+## Protokol covidových úmrtí — Peterson Pierre
+
+### Pěti-krokový protokol: jak byli pacienti zabíjeni v nemocnicích
+
+Pavel Zítko podrobně popisuje výklad lékaře Petersona Pierra (označovaného jako „černošský lékař ze Spojených států"): pacienti přijatí s banálními příčinami (bolest břicha, zlomená noha) procházeli při covidu pěti kroky vedoucími ke smrti.
+
+1. **COVID+ test** — přijati jako covid-negativní, po týdnu testováni jako COVID-19 pozitivní.
+2. **Midazolam** — v nízké koncentraci omezil kapacitu plic na 70 % výkonu.
+3. **Remdesivir** — hepatotoxický preparát (v Africe zastaven pro 53% smrtnost při ebole), způsoboval selhání jater a ledvin.
+4. **Ventilátor (intubace)** — 8 z 10 pacientů na ventilátoru zemřelo; ve Wuhanu 95 %, v Anglii a Německu (dle Dr. Güntera Franka) 80 %.
+5. **Statistická COVID oběť** — tento sled generoval covidové statistiky.
+
+Zítko uvádí, že jeho matka zemřela v říjnu 2020 přesně podle tohoto protokolu.
+
+> „8 z 10 lidí umíralo. Ve Wuhanu to bylo dokonce 95 %, v Anglii, v Německu, doktor Günter Frank — zločin v režii státu — to bylo 80 % lidí umíralo na intubaci." — Pavel Zítko, [Zahřívací kolo COVID-19, 2026-04-10](_zdroje.md#pavel-zítko--zahřívací-kolo-covid-19-chemoterapie-5g-tribunál-10-4-2026)
+
+⚡ **Konflikt:** Mortalita na umělé plicní ventilaci závisela na závažnosti stavu pacientů; tvrzení o záměrném protokolu zabíjení je v rozporu s klinickými záznamy.
+
+**Zdroje:** [Zítko — Zahřívací kolo COVID-19, 2026-04-10](_zdroje.md#pavel-zítko--zahřívací-kolo-covid-19-chemoterapie-5g-tribunál-10-4-2026)
+
+---
+
+## 5G sítě a COVID
+
+### 5G antény jako nosič COVID-19 — Wuhan a Bergamo jako důkaz
+
+Zítko přehrává video, na němž je na štítku 5G stožáru prý čitelný nápis „Covid-19". Z toho vyvozuje záměrné propojení 5G sítí a pandemie. Jako „důkazy" uvádí:
+
+- Wuhan byl vybaven 10 000 anténami 5G před vypuknutím epidemie.
+- Bergamo (první velké evropské ohnisko) mělo hustou síť 5G a zároveň probíhala masivní podzimní očkovací kampaň proti chřipce.
+- Španělská chřipka (1918) mohla být způsobena elektromagnetickými vlnami — 5G je prý analogickým faktorem dnes.
+
+Zítko doplňuje, že „COVID-19 si v roce 2015 a 2017 nechal patentovat určitý pan Rothschild" — tedy roky před tím, než „kretén netopýr" na wuhanském tržišti nákazu prý spustil.
+
+⚡ **Konflikt:** Tvrzení o 5G jako přenosovém vektoru choroby a o patentech Rothschildů na COVID-19 jsou v rozporu s virologickým výzkumem i patentovými záznamy.
+
+**Zdroje:** [Zítko — Zahřívací kolo COVID-19, 2026-04-10](_zdroje.md#pavel-zítko--zahřívací-kolo-covid-19-chemoterapie-5g-tribunál-10-4-2026)
+
+---
+
+## Šarže vakcín
+
+### Šarže označené „E" jako extrémně smrtelné
+
+Zítko tvrdí, že koncentrace škodlivých složek v COVID vakcínách se mezi šaržemi lišila až stonásobně. Šarže označené písmenem „E" podle něj znamenají „extrémně smrtelné" — syndromy náhlého úmrtí kojenců (SIDS) i dospělých (SADS) jsou svázány zejména s těmito šaržemi.
+
+**Zdroje:** [Zítko — Zahřívací kolo COVID-19, 2026-04-10](_zdroje.md#pavel-zítko--zahřívací-kolo-covid-19-chemoterapie-5g-tribunál-10-4-2026)
+
+---
+
+## Volání po tribunálu
+
+### Tečka za covidem: tribunál pro odpovědné
+
+Pavel Zítko formuluje podmínku, za níž se kauza covidu uzavře: „Tečka za covidem bude, až všichni odpovědní budou stát před tribunálem a budou čelit spravedlivému trestu." Cituje německého lékaře Güntera Franka. COVID tour je přímou cestou k naplnění tohoto cíle — sbírání podpisů, osvěta a tlak na politiky.
+
+**Zdroje:** [Zítko — Zahřívací kolo COVID-19, 2026-04-10](_zdroje.md#pavel-zítko--zahřívací-kolo-covid-19-chemoterapie-5g-tribunál-10-4-2026), [Zítko — petice za prezidentem, 2026-03-31](_zdroje.md#pavel-zítko--soběšovice-petice-za-prezidentem-31-3)

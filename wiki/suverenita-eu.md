@@ -28,19 +28,45 @@ Rajchl hodnotí ekonomickou integraci ČR do EU po roce 1989 kriticky. Česká r
 
 ---
 
+### EU jako nové Rakousko-Uhersko — suverenita skrze legislativu, hranice a měnu
+
+V projevu na konferenci V4 v Bratislavě (4. 4. 2026) Rajchl srovnal EU s Rakousko-Uherskem: tehdy ani nyní nebylo možné skutečně utvářet vlastní legislativu. Definuje tři pilíře suverenity, které EU postupně oklešťuje:
+
+1. **Legislativa** — 70 % zákonů jsou transpozice EU norem; „Jsme ještě suverénní, když si utváříme legislativu, kde 70 % jsou jen transpozice?"
+2. **Hranice** — migrační pakt by je smazal definitivně; Němci otvřeli brány a jejich sociálně-inženýrský projekt selhal, protože migranti nepřišli pracovat; ČR nesmí platit za jejich chybu.
+3. **Měna** — euro = předání měnové politiky ECB do Frankfurtu; jako řídit auto, ale bez přístupu k řadicí páce.
+
+EU navíc vydírá vlastními penězi: státy pošlou daně do Bruselu a EU je „milostivě vrátí", pokud přijmou její legislativu. Odmítnutí veta Rajchl označuje za „hřebíček do rakve suverenity".
+
+> „Je to jejich problém. Když Angela Merkelová říkala wir schaffen das, nikdo se nás neptal na náš názor. Proto také nemáme odpovědnost tuto chybu v tuto chvíli řešit." — Jindřich Rajchl, [Bratislavský projev 2026-04-04](_zdroje.md#jindřich-rajchl--projev-z-bratislavy-eu-v4-a-suverenita-4-4-2026)
+
+> „Suverenita má svou cenu. Nestojí nám za to tuto cenu zaplatit, abychom získali zpátky suverenitu, prosperitu, bezpečnost a svobodu?" — Jindřich Rajchl, [Bratislavský projev 2026-04-04](_zdroje.md#jindřich-rajchl--projev-z-bratislavy-eu-v4-a-suverenita-4-4-2026)
+
+**Zdroje:** [Rajchl — Bratislavský projev, 2026-04-04](_zdroje.md#jindřich-rajchl--projev-z-bratislavy-eu-v4-a-suverenita-4-4-2026)
+
+---
+
 ## EU a Green Deal
 
 ### EU jako „bruselský eurofašismus"
 
 Rajchl označuje současnou podobu EU za „bruselský eurofašismus", jehož podstatou je kontrola myšlení a ostrakizace těch, kdo nesdílejí dominantní ideologii. Green Deal považuje za destruktivní pro českou ekonomiku. Jako příklad uvádí propuštění 50 000 zaměstnanců Volkswagenu do roku 2030 v důsledku přechodu na elektromobilitu.
 
-Myšlenku vystoupení z EU nezavrhuje, ale konstatuje, že strany prosazující referendum o odchodu (SPD, Trikolóra, Svobodní) získaly v posledních volbách dohromady jen 12 % — reálnou cestou je proto snaha nevýhodné předpisy co nejvíce okleštit zevnitř.
+Myšlenku vystoupení z EU nezavrhuje, ale konstatuje, že strany prosazující referendum o odchodu (SPD, Trikolóra, Svobodní) získaly v posledních volbách dohromady jen 12 % — reálnou cestou je proto snaha nevýhodné předpisy co nejvíce okleštit zevnitř. V bratislavském projevu (4. 4. 2026) jde dál: EU se podle něj rozpadne, a V4 musí být na tento okamžik připravena.
 
 > „Fašismus bohužel nezemřel a ty tendence ovládat myšlení lidí jsou tady stále." — Jindřich Rajchl, [FARA/DSA/Dozimetr](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr)
 
-> „Souhlasím, jediná cesta je vystoupení z EU [...], ale strany a hnutí, které vám nabídly jen možnost referenda, dostaly minimum hlasů — sečteme je a zjistíme, že to je dvanáct procent." — Jindřich Rajchl, [FARA/DSA/Dozimetr](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr)
+**Zdroje:** [Rajchl — FARA, DSA, Dozimetr, 2026-03-15](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr), [Rajchl — Bratislavský projev, 2026-04-04](_zdroje.md#jindřich-rajchl--projev-z-bratislavy-eu-v4-a-suverenita-4-4-2026)
 
-**Zdroje:** [Rajchl — FARA, DSA, Dozimetr, 2026-03-15](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr)
+---
+
+### Green Deal jako nástroj přesunu peněz ke spekulantům
+
+Rajchl v Bratislavě rozebírá mechanismus emisních povolenek: byly záměrně koncipovány jako cenné papíry (nikoliv jako daň s nastavitelnou sazbou), čímž umožňují vstup spekulativního kapitálu. Výsledek: německé penzijní a investiční fondy, jež nakoupily povolenky za 10 EUR, je dnes prodávají za 70 EUR. Z obchodu největší část neprofituje žádný klimatický fond, ale finanční spekulanti.
+
+> „Ja se prostě dál okrádat tímto laciným způsobem nechci. Kdyby někdo skutečně chtěl investovat do přírody, nikdy by nekoncipoval ty povolenky jako cenné papíry." — Jindřich Rajchl, [Bratislavský projev 2026-04-04](_zdroje.md#jindřich-rajchl--projev-z-bratislavy-eu-v4-a-suverenita-4-4-2026)
+
+**Zdroje:** [Rajchl — Bratislavský projev, 2026-04-04](_zdroje.md#jindřich-rajchl--projev-z-bratislavy-eu-v4-a-suverenita-4-4-2026)
 
 ---
 
@@ -55,6 +81,18 @@ Rajchl tvrdí, že EU si sama uškodila odpojením od levných ruských zdrojů 
 > „Za deset let přijde buď to Ursula nebo někdo jiný a bude říkat: odchod od fosilních paliv byla chyba, která nás stála biliony za deset let." — Jindřich Rajchl, [Energetická krize a Rusko 2026-03-28](_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
 
 **Zdroje:** [Rajchl — Energetická krize a Rusko, 2026-03-28](_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
+
+---
+
+### Íránská krize a Hormuzský průliv — nutnost jednat nyní s Ruskem
+
+V nedělním živém vysílání 5. 4. 2026 Rajchl varuje před důsledky konfliktu v Íránu pro Evropu: uzavření Hormuzského průlivu by způsobilo výpadek dodávek ropy a plynu, který Evropa bez vlastních zdrojů není schopna kompenzovat. Holandské zásobníky jsou prý prázdné. Cena pohonných hmot v Rusku je 15–16 Kč/litr (vč. 20% DPH), zatímco v ČR 50 Kč/litr — rozdíl přičítá zbytečným mezičlánkům (ropa z Ruska přes Indii a Čínu zpět do EU).
+
+Jako řešení navrhuje okamžité obnovení dovozu ruské ropy a plynu ropovody Družba a existujícími plynovody — ČR by navíc mohla vydělat stovky miliard z tranzitu a přeprodeje. Cituje Fialu, který odpojení zdůvodnil „vydírací hrozbou Ruska" — Rajchl poukazuje, že před 2022 Rusko kohoutky nikdy nezavřelo; dvě energetické krize nastaly až po odpojení. Odmítá tezi, že nákup ruské energie prodlouží válku — válka dopadne stejně bez ohledu na to.
+
+> „Kdo nás vydírá? Kdo je nespolehlivým partnerem? Rusko to asi není. Od roku 2022, kdy jste se s veškerou pompou a slávou odstřihli od té ruské ropy a ruského plynu, tak už to bylo dvakrát — 2022 a teď znovu 2026." — Jindřich Rajchl, [Facebook Live 2026-04-05](_zdroje.md#jindřich-rajchl--facebook-live-5-dubna-energetika-orbán-minář-5-4-2026)
+
+**Zdroje:** [Rajchl — Facebook Live 5. dubna, 2026-04-05](_zdroje.md#jindřich-rajchl--facebook-live-5-dubna-energetika-orbán-minář-5-4-2026)
 
 ---
 
@@ -74,9 +112,21 @@ V pořadu K věci s Lucií Čermákovou Rajchl odmítl, že by Evropský parlame
 
 Za skutečnou cestu ke změně Rajchl považuje koalici V4 — Česko, Slovensko, Maďarsko a (do budoucna) Polsko. Skupině zemí pak může být blokována imigrační politika (migrační pakt), emisní povolenky i green deal tlakem přes Radu EU. Odmítá nálepku „izolovanosti" Fica a Orbána — tito lídři dle Rajchla hájí národní zájmy svých zemí, nikoliv vyhovují bruselskému konsenzu.
 
+V Bratislavě (4. 4. 2026) Rajchl citoval Orbána ze setkání v Budapešti: V4 má „3,5 prutu" ze 4 — Maďarsko, Slovensko, ČR a polský prezident Nawrocki; čeká se na druhou polovinu Polska. Rajchl přirovnává V4 ke svazku proutů (jedno zlomíš, tři jsou obtížné, čtyři nelze). V4 by měla být mostem mezi Washingtonem, Pekingem i Moskvou, nikoliv satelitem jednoho pólu. Cituje JFK (1963): mír nezajistí zbraně, ale schopnost mluvit — proto jsou peníze pro lidi, ne do „nepotřebného železa".
+
 > „Orbán vydírá Evropskou unii nebo Fico vydírá Evropskou unii? Ne, oni hájí svoje národní zájmy a je velmi dobře, nebo bude velmi dobře, když se k ním připojíme a budeme ty národní zájmy naše hájit." — Jindřich Rajchl, [EP jako divadlo 2026-03-31](_zdroje.md#jindřich-rajchl--evropský-parlament-jako-divadlo-pořad-k-věci)
 
-**Zdroje:** [Rajchl — EP jako divadlo, 2026-03-31](_zdroje.md#jindřich-rajchl--evropský-parlament-jako-divadlo-pořad-k-věci)
+**Zdroje:** [Rajchl — EP jako divadlo, 2026-03-31](_zdroje.md#jindřich-rajchl--evropský-parlament-jako-divadlo-pořad-k-věci), [Rajchl — Bratislavský projev, 2026-04-04](_zdroje.md#jindřich-rajchl--projev-z-bratislavy-eu-v4-a-suverenita-4-4-2026)
+
+---
+
+### Masová migrace jako bezpečnostní selhání druhé generace
+
+Rajchl v Bratislavě uvádí Southport (Velká Británie) jako konkrétní varování V4: Axel Rudakubana — potomek migrantů z Rwandy — vběhl do taneční třídy 24 dívek ve věku 6–11 let a začal je bodat; tři zabity, ostatní s traumatem na celý život. Britská média ho označila za „rodilého Welshmana" a fakt jeho migrantského původu potlačovala. Rajchl z toho vyvozuje: muslimští migranti ani ve druhé generaci nepřejímají hodnoty hostitelské společnosti, a migrační pakt by tuto situaci přinesl i do V4.
+
+> „V Hamburgu a ve Frankfurtu se za rok stane stejný počet násilných trestných činů jako v celém Polsku. Proč? Protože Němci naprosto zásadně pochybili, když otevřeli brány masové migraci." — Jindřich Rajchl, [Bratislavský projev 2026-04-04](_zdroje.md#jindřich-rajchl--projev-z-bratislavy-eu-v4-a-suverenita-4-4-2026)
+
+**Zdroje:** [Rajchl — Bratislavský projev, 2026-04-04](_zdroje.md#jindřich-rajchl--projev-z-bratislavy-eu-v4-a-suverenita-4-4-2026)
 
 ---
 
@@ -97,6 +147,22 @@ U příležitosti výročí 15. března (nacistická okupace 1939) Rajchl kritiz
 Jiří Černohorský tvrdí, že Petr Fiala není spojen s Landsmannschaftem a Bernd Posselt náhodně ani jen jako premiér — jde podle něj o dlouhodobé propojení. Posselt byl dle Černohorského součástí projektu „Pan Evropa" již v době, kdy se do tohoto projektu zapojil mladý Fiala; Havel a Schwarzenberg prý v 80. letech cestovali do Německa s výslovným záměrem připravit prolomení Benešových dekretů. Černohorský to označuje za důkaz, že dnešní politické kroky jsou výsledkem desetiletí plánování.
 
 **Zdroje:** [Černohorský — Brno a Landsmannschaft, 2026-04-06](_zdroje.md#jiří-černohorský--brno-a-landsmannschaft-fiala-jako-kolaborant-6-4-2026)
+
+---
+
+### Brněnské zastupitelstvo: hlasování o sudetoněmeckém sjezdu (Tarabová)
+
+Lenka Tarabová se osobně zúčastnila jednání brněnského zastupitelstva (14. 4. 2026), kde bylo projednáváno schválení konání sudetoněmeckého sjezdu Landsmannschaftu v Brně (22.–24. 5. 2026). Popis průběhu:
+
+- Návrh usnesení vystoupení proti sjezdu a rozvázání smlouvy s Meeting Brno (organizátorem) byl okamžitě zamítnut — pro bylo pouze 9–12 zastupitelů z 55, zbytek nehlasoval (Tarabová to označuje za „srabáctví" a alibismus).
+- Veřejnost (cca 120 odpůrců) nesměla promluvit před hlasováním.
+- Meeting Brno obdržel od magistrátu několik milionů Kč a navíc peníze z Německa.
+- Primátorka Vaňková obhajovala sjezd a smíření — svou historickou argumentaci opírá o „romány z 2. světové války."
+- SPD zastupitelé předložili návrhy občanů — vše smeteno ze stolu.
+
+Tarabová uzavírá: „Němci nám dluží biliony v rámci válečných reparací. A tohleto by měl stát řešit. A ne jim tady dělat sjezdy a meetingy."
+
+**Zdroje:** [Tarabová — Brněnské zastupitelstvo, 2026-04-14](_zdroje.md#lenka-tarabová--brněnské-zastupitelstvo-a-sudetoněmecký-sjezd-14-4-2026)
 
 ---
 

@@ -335,3 +335,103 @@
 - **URL:** <https://www.facebook.com/reel/1580777216322718>
 - **Datum záznamu:** 2026-04-06
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Minářova omluva a výmluvy (2. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-02_Jindřich-Rajchl_126K-views-14K-reactions-Matýsek-se-posral-Tedy-pardo.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1425104745495960>
+- **Datum záznamu:** 2026-04-02
+- **Délka:** 2:31 | Zhlédnutí: 72 875
+- **Zpracováno:** ano
+
+## Lenka Tarabová — Bagatelizace násilí na dětech (4. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-04_Lenka-Tarabová_Videoportál.txt)
+- **Kanál:** Lenka Tarabová (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=2030176660895241>
+- **Datum záznamu:** 2026-04-04
+- **Délka:** 0:29 | Zhlédnutí: 1 118
+- **Poznámka:** Pozvánka na shromáždění Bagatelizace násilí zabijí (30. 5. 2026); krátký postoj k bagatelizaci ohrožení dětí systémem.
+- **Zpracováno:** ano
+
+## Konspirátor Boldy — Požár ubytovny v Praze (14. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-14_Konspirátor-Boldy-KonspyChannel_Facebook-Live.txt)
+- **Kanál:** KonspyChannel (Facebook)
+- **URL:** <https://www.facebook.com/100083247552502/videos/936992232283666>
+- **Datum záznamu:** 2026-04-14
+- **Délka:** 7:14
+- **Poznámka:** Situační live záznam požáru ubytovny BEX v Praze, kde byl Boldy ubytován. Žádný politický nebo konspirátorský obsah.
+- **Zpracováno:** ano
+
+## Pavel Zítko — Večerník 7. dubna: Danykolár a ÚZIS (8. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-08_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1750085986365975>
+- **Datum záznamu:** 2026-04-08
+- **Délka:** 1:25:17
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Projev z Bratislavy: EU, V4 a suverenita (4. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-04_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/967607279236351>
+- **Datum záznamu:** 2026-04-04
+- **Délka:** 22:11 | Zhlédnutí: 53 310
+- **Poznámka:** Projev z konference V4 v Bratislavě — EU jako nové Rakousko-Uhersko, Green Deal, migrace (Southport), DSA a cenzura, V4 jako most.
+- **Zpracováno:** ano
+
+## Lenka Tarabová — Sdílení videa o nedostatku ropy (7. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-07_Lenka-Tarabová_Videoportál.txt)
+- **Kanál:** Lenka Tarabová (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1643781140084284>
+- **Datum záznamu:** 2026-04-07
+- **Délka:** 0:28 | Zhlédnutí: 4 935
+- **Poznámka:** Sdílení videa slovenského politika o ropě a cyklizmu jako příkladu "stupidity" (přepis v slovenštině, minimální vlastní obsah Tarabové).
+- **Zpracováno:** ano
+
+## Konspirátor Boldy — Požár ubytovny, stručný report (14. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-14_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
+- **Kanál:** KonspyChannel (Facebook)
+- **URL:** <https://www.facebook.com/100083247552502/videos/4265714297010927>
+- **Datum záznamu:** 2026-04-14
+- **Délka:** 1:13 | Zhlédnutí: 10 867
+- **Poznámka:** Stručný situační report z požáru ubytovny v Praze (doplněk k delšímu live). Žádný politický obsah.
+- **Zpracováno:** ano
+
+## Pavel Zítko — Večerník 8. dubna: Havel a rozdělení Československa (9. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-09_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=879141971797830>
+- **Datum záznamu:** 2026-04-09
+- **Délka:** 56:18
+- **Zpracováno:** ano
+
+## Jiří Černohorský — Queer gender zákonem zakázat (10. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-10_Jiří-Černohorský-Živě_Queer-svinstvo-LGBT-ZÁKONEM-ZAKÁZAThttpsrumblec_3.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook/Rumble)
+- **URL:** <https://www.facebook.com/reel/2160065298114113>
+- **Datum záznamu:** 2026-04-10
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Facebook Live 5. dubna: energetika, Orbán, Minář (5. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-05_Jindřich-Rajchl_Facebook-Live.txt)
+- **Kanál:** Jindřich Rajchl (Facebook Live)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1467742258431875>
+- **Datum záznamu:** 2026-04-05
+- **Délka:** 1:06:14
+- **Zpracováno:** ano
+
+## Pavel Zítko — Zahřívací kolo COVID-19: chemoterapie, 5G, tribunál (10. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-10_Československo-TV2_Videoportál_1.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=26301772162858141>
+- **Datum záznamu:** 2026-04-10
+- **Délka:** 31:13 — zahřívací kolo před večerním vysíláním na Svobodný vysílač Plzeň; Zítko sám o COVID tour, chemoterapii, COVID protokolu, 5G a anténách
+- **Zpracováno:** ano
+
+## Lenka Tarabová — Brněnské zastupitelstvo a sudetoněmecký sjezd (14. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-14_Lenka-Tarabová_Videoportál.txt)
+- **Kanál:** Lenka Tarabová (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=824353136807333>
+- **Datum záznamu:** 2026-04-14
+- **Délka:** 10:01 | Zhlédnutí: 27 926
+- **Zpracováno:** ano
