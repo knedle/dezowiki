@@ -539,3 +539,21 @@
 - **Datum záznamu:** 2026-04-26
 - **Délka:** cca 30+ min (metadata vadná) | Zhlédnutí: 1 064
 - **Zpracováno:** ano
+
+## Pavel Zítko — Máte slovo: kampaň za účast, Moravcův plat (15. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-15_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook Live)
+- **URL:** <https://m.facebook.com/watch/?v=1490976562671247>
+- **Datum záznamu:** 2026-04-15
+- **Délka:** 1:27:59 | Zhlédnutí: 609
+- **Poznámka:** Kampaň za pozvání Zítka do pořadu Máte slovo (16. 4.); ředitelův e-mail; odmítnutí dramaturga Smrže; Václav Moravec — soudní rozhodnutí: 141 000 Kč/hod, 12 hod/měs = ~1,7M Kč/měs; COVID tour, Peková.
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Budapest, Fidesz volební noc (12. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-12_Jindřich-Rajchl_Facebook-Live.txt)
+- **Kanál:** Jindřich Rajchl (Facebook Live)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1486978029633198>
+- **Datum záznamu:** 2026-04-12
+- **Délka:** 13:00 | Zhlédnutí: neznámo
+- **Poznámka:** Live z volebního štábu Fidesz v Budapešti; Peter Magyar a Benešovy dekrety, EU vydírání Maďarska (21K migrantů nebo 10B Kč), Hormuzský průliv uzavřen, V4 strategie, Ceny Anděl.
+- **Zpracováno:** ano

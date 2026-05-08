@@ -22,6 +22,14 @@ Nejlepší řešení: ČT se musí uživit sama ze sledovanosti. Pokud chtějí 
 
 ---
 
+### Ceny Anděl: vulgární výstupy vůči politikům — argument pro zrušení ČT poplatků
+
+Rajchl v živém vysílání z Budapešti (12. 4. 2026) zmiňuje galavečer Cen Anděl, kde účinkující adresovali přítomným politikům vulgární a hanlivé vzkazy. Tuto událost využívá jako argument pro zrušení povinných televizních poplatků: veřejnoprávní média podobné výstupy nekritizují ani nekorigují, a tím de facto legitimizují útoky na politické představitele, za jejichž přenos občané platí z vlastní kapsy.
+
+**Zdroje:** [Rajchl — Budapest, Fidesz volební noc, 2026-04-12](_zdroje.md#jindřich-rajchl--budapest-fidesz-volební-noc-12-4-2026)
+
+---
+
 ### AI deepfake jako nástroj politické satiry i manipulace — Rajchlovo varování
 
 Rajchl v krátkém videu (10. 4. 2026) zveřejnil AI-generované video kde hovoří jako Petr Pavel — vč. satirického obsahu o Pavlově komunistické minulosti. Na konci sám odhalí, že šlo o AI: „To, co jste viděli, byla samozřejmě umělá inteligence. Bylo to skoro k nerozeznání ode mne." Účelem je demonstrovat, jak snadno lze technologií AI vytvořit věrohodné video kohokoli říkajícího cokoli, a varovat před nebezpečím manipulace.
@@ -128,9 +136,11 @@ Po telefonátu od Daniely Drtinové (DVTV) Rajchl veřejně prohlásil, že jsou
 
 Jiří Černohorský zpochybňuje samotný model veřejnoprávního financování ČT. Koncesonářské poplatky 8 miliard korun ročně jdou výhradně České televizi bez jakékoli veřejné kontroly toho, kam peníze skutečně míří. Navrhuje dvě alternativy: buď zcela zrušit koncesionářské poplatky a nechat ČT živit se z trhu jako komerční stanice, nebo poplatky rozdělit mezi všechna televizní a rádiová vysílání s celostátní licencí. Jako příklad špatného hospodaření uvádí Václava Moravce, jehož odchod z ČT nepovažuje za finanční újmu — Moravec si prý snadno vydělá 300 000 Kč měsíčně jinde.
 
+Zítko doplňuje konkrétní číslo z veřejně dostupného soudního rozhodnutí: Václav Moravec pobíral v ČT 141 000 Kč za hodinu; při třech hodinách vysílání týdně (12 hodin měsíčně) to vychází přibližně na 1,7 milionu Kč měsíčně — a to z peněz koncesionářů.
+
 > „Z jakého důvodu by tohle mělo... nejsme v tom podnikatelském prostředí? Jestliže tady se musí uživit Nova, Prima a já nevím co, tak ať se taky postará sama o sebe Česká televize. Hotovo." — Jiří Černohorský, [Návrat z bandovolené 2026-04-02](_zdroje.md#jiří-černohorský--návrat-z-bandovolené-2-4-2026)
 
-**Zdroje:** [Černohorský — Návrat z bandovolené, 2026-04-02](_zdroje.md#jiří-černohorský--návrat-z-bandovolené-2-4-2026)
+**Zdroje:** [Černohorský — Návrat z bandovolené, 2026-04-02](_zdroje.md#jiří-černohorský--návrat-z-bandovolené-2-4-2026), [Zítko — Máte slovo: kampaň, 2026-04-15](_zdroje.md#pavel-zítko--máte-slovo-kampaň-za-účast-moravcův-plat-15-4-2026)
 
 ---
 

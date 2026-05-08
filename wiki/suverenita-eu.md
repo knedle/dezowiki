@@ -108,9 +108,11 @@ V nedělním živém vysílání 5. 4. 2026 Rajchl varuje před důsledky konfli
 
 Jako řešení navrhuje okamžité obnovení dovozu ruské ropy a plynu ropovody Družba a existujícími plynovody — ČR by navíc mohla vydělat stovky miliard z tranzitu a přeprodeje. Cituje Fialu, který odpojení zdůvodnil „vydírací hrozbou Ruska" — Rajchl poukazuje, že před 2022 Rusko kohoutky nikdy nezavřelo; dvě energetické krize nastaly až po odpojení. Odmítá tezi, že nákup ruské energie prodlouží válku — válka dopadne stejně bez ohledu na to.
 
+V navazujícím vysílání z Budapešti (12. 4. 2026) Rajchl situaci upřesňuje: Hormuzský průliv byl fakticky uzavřen — Írán požaduje mýto za průjezd tankerů. Rajchl označuje tuto situaci za „placení mýta teroristickému režimu za vlastní ropu" a jako přímý argument pro okamžité obnovení dovozu z Ruska.
+
 > „Kdo nás vydírá? Kdo je nespolehlivým partnerem? Rusko to asi není. Od roku 2022, kdy jste se s veškerou pompou a slávou odstřihli od té ruské ropy a ruského plynu, tak už to bylo dvakrát — 2022 a teď znovu 2026." — Jindřich Rajchl, [Facebook Live 2026-04-05](_zdroje.md#jindřich-rajchl--facebook-live-5-dubna-energetika-orbán-minář-5-4-2026)
 
-**Zdroje:** [Rajchl — Facebook Live 5. dubna, 2026-04-05](_zdroje.md#jindřich-rajchl--facebook-live-5-dubna-energetika-orbán-minář-5-4-2026)
+**Zdroje:** [Rajchl — Facebook Live 5. dubna, 2026-04-05](_zdroje.md#jindřich-rajchl--facebook-live-5-dubna-energetika-orbán-minář-5-4-2026), [Rajchl — Budapest, Fidesz volební noc, 2026-04-12](_zdroje.md#jindřich-rajchl--budapest-fidesz-volební-noc-12-4-2026)
 
 ---
 
@@ -134,7 +136,17 @@ V Bratislavě (4. 4. 2026) Rajchl citoval Orbána ze setkání v Budapešti: V4 
 
 > „Orbán vydírá Evropskou unii nebo Fico vydírá Evropskou unii? Ne, oni hájí svoje národní zájmy a je velmi dobře, nebo bude velmi dobře, když se k ním připojíme a budeme ty národní zájmy naše hájit." — Jindřich Rajchl, [EP jako divadlo 2026-03-31](_zdroje.md#jindřich-rajchl--evropský-parlament-jako-divadlo-pořad-k-věci)
 
-**Zdroje:** [Rajchl — EP jako divadlo, 2026-03-31](_zdroje.md#jindřich-rajchl--evropský-parlament-jako-divadlo-pořad-k-věci), [Rajchl — Bratislavský projev, 2026-04-04](_zdroje.md#jindřich-rajchl--projev-z-bratislavy-eu-v4-a-suverenita-4-4-2026)
+Ve vysílání přímo z volebního štábu Fidesz v Budapešti (12. 4. 2026) Rajchl komentuje volební výsledky: Fidesz zvítězil navzdory silnému mediálnímu odporu ze strany EU i zahraničního kapitálu. Osobní přítomnost označuje za projev přímé solidarity s konzervativním blokem V4. Čeká se na polské parlamentní volby: pokud zvítězí PiS s Konfederací, V4 bude opět „4 pruty" — a blok získá dostatečnou váhu v Radě EU k zablokování migračního paktu i Green Dealu.
+
+**Zdroje:** [Rajchl — EP jako divadlo, 2026-03-31](_zdroje.md#jindřich-rajchl--evropský-parlament-jako-divadlo-pořad-k-věci), [Rajchl — Bratislavský projev, 2026-04-04](_zdroje.md#jindřich-rajchl--projev-z-bratislavy-eu-v4-a-suverenita-4-4-2026), [Rajchl — Budapest, Fidesz volební noc, 2026-04-12](_zdroje.md#jindřich-rajchl--budapest-fidesz-volební-noc-12-4-2026)
+
+---
+
+### EU vydírá Maďarsko: přijmout 21 000 migrantů, nebo zaplatit 10 miliard Kč
+
+Rajchl v živém vysílání z Budapešti (12. 4. 2026) popisuje konkrétní příklad bruselského vydírání: EU dala Maďarsku ultimátum — buď přijme přibližně 21 000 muslimů v rámci migračního paktu, nebo zaplatí pokutu ve výši přibližně 10 miliard Kč. Rajchl to uvádí jako přímý důkaz, proč je zásadní, aby V4 zůstalo jednotné a nepodlehlo bruselskému tlaku — bez Orbána a Maďarska by ČR neměla spojence, kteří takový příkaz odmítají.
+
+**Zdroje:** [Rajchl — Budapest, Fidesz volební noc, 2026-04-12](_zdroje.md#jindřich-rajchl--budapest-fidesz-volební-noc-12-4-2026)
 
 ---
 
@@ -197,6 +209,14 @@ Tarabová v nedělním vysílání z 26. dubna 2026 informuje o nové eskalaci: 
 Černohorský zmiňuje konkrétní řeči Bernda Posselta v Pohořelicích (v rámci akcí financovaných z veřejných prostředků přes Meeting Brno), v nichž Posselt veřejně volá po zrušení Benešových dekretů a poukazuje na nutnost „historického smíření" s přerozdělením majetku. Pokusy občanů zjistit detaily přes zákon o svobodném přístupu k informacím narazily na finanční bariéry (tisíce Kč za pětileté výpisy, přes 100 tisíc za desetileté záznamy). Viz také [Kauzy — Meeting Brno](kauzy.md#meeting-brno--15-milionů-na-sudetoněmecké-akce).
 
 **Zdroje:** [Černohorský — Brno a Landsmannschaft, 2026-04-06](_zdroje.md#jiří-černohorský--brno-a-landsmannschaft-fiala-jako-kolaborant-6-4-2026)
+
+---
+
+### Peter Magyar a Benešovy dekrety — jediný vrcholový euroatlantický politik otevřeně je zpochybňující
+
+Rajchl v živém vysílání z Budapešti (Fidesz volební noc, 12. 4. 2026) upozorňuje, že Peter Magyar — šéf maďarské opoziční strany TISZA, favorit EU a bruselských médií — je ze současných vrcholových politiků v Evropě „jediný člověk, který takto jednoznačně a otevřeně spochybňuje Benešovy dekrety." Rajchl to označuje za obzvláště varovné: Magyara aktivně podporují česká média i koaliční politici, přestože si jeho pozici k dekretům buď nevšimli, nebo ji záměrně přehlíží.
+
+**Zdroje:** [Rajchl — Budapest, Fidesz volební noc, 2026-04-12](_zdroje.md#jindřich-rajchl--budapest-fidesz-volební-noc-12-4-2026)
 
 ---
 
