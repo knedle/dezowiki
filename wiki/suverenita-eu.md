@@ -18,6 +18,16 @@ Jindřich Rajchl zastává názor, že obrana a měna jsou základními pilíři
 
 ---
 
+### Kolaborant = kdo chce euro a zrušení veta, ne kdo jedná s Ruskem
+
+Rajchl v krátkém videu z 11. dubna 2026 přeformuloval pojem „kolaborace" v reakci na diskusi o Maďarsku: za kolaboranta neoznačuje toho, kdo obchoduje s Ruskem nebo hájí maďarské právo veta, ale toho, kdo chce nutit ČR přijmout euro a zrušit právo veta v EU. Tím přímo napadá oponenty označující ekonomické kontakty s Ruskem za kolaboraci. Jako „neférové zasahování" označuje aktivity EU prostřednictvím paktu DSA a tajných služeb ve volbách v Maďarsku — oproti tomu otevřenou americkou podporu konzervativní vlády považuje za standardní politiku; o tomto rozdílu mluvil i JD Vance.
+
+> „Na rozdíl od vás, který byste nám chtěl nutit euro a zrušit právo VETA, to je vlastní zrada, to je kolaborace." — Jindřich Rajchl, [Kolaborant: euro a veto (11. 4. 2026)](_zdroje.md#jindřich-rajchl--kolaborant-euro-a-veto-11-4-2026)
+
+**Zdroje:** [Rajchl — Kolaborant: euro a veto, 2026-04-11](_zdroje.md#jindřich-rajchl--kolaborant-euro-a-veto-11-4-2026)
+
+---
+
 ### ČR jako „montovna Evropy"
 
 Rajchl hodnotí ekonomickou integraci ČR do EU po roce 1989 kriticky. Česká republika se podle něj stala „skladovnou a montovnou Evropy" — krátkodobé zbohatnutí (auta, spotřební elektronika) bylo vyměněno za trvalou ztrátu těžkého průmyslu, cukrovarů a potravinářství. To považuje za strategickou chybu s dlouhodobými negativními důsledky.

@@ -515,3 +515,19 @@
 - **Datum záznamu:** 2026-04-13 (vysílání), zveřejněno 2026-04-14
 - **Délka:** 33:05 | Zhlédnutí: 401
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Kolaborant: euro a veto (11. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-11_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/2514595832330408>
+- **Datum záznamu:** 2026-04-11
+- **Délka:** 0:51 | Zhlédnutí: 107 121
+- **Zpracováno:** ano
+
+## Pavel Zítko — Mobilizace diváků pro Máte slovo (14. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-14_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1741344483503825>
+- **Datum záznamu:** 2026-04-14
+- **Délka:** 55:10 | Zhlédnutí: 462
+- **Zpracováno:** ano
