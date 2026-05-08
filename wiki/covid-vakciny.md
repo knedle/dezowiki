@@ -279,3 +279,42 @@ Zítko tvrdí, že koncentrace škodlivých složek v COVID vakcínách se mezi 
 Pavel Zítko formuluje podmínku, za níž se kauza covidu uzavře: „Tečka za covidem bude, až všichni odpovědní budou stát před tribunálem a budou čelit spravedlivému trestu." Cituje německého lékaře Güntera Franka. COVID tour je přímou cestou k naplnění tohoto cíle — sbírání podpisů, osvěta a tlak na politiky.
 
 **Zdroje:** [Zítko — Zahřívací kolo COVID-19, 2026-04-10](_zdroje.md#pavel-zítko--zahřívací-kolo-covid-19-chemoterapie-5g-tribunál-10-4-2026), [Zítko — petice za prezidentem, 2026-03-31](_zdroje.md#pavel-zítko--soběšovice-petice-za-prezidentem-31-3)
+
+---
+
+## Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)
+
+### Vakcíny a agresivní recidivy nádorů — PubMed studie (leden 2026)
+
+Soňa Peková v pořadu Svobodný vysílač (9. 4. 2026) odkazuje na studii publikovanou na PubMedu v lednu 2026, která dle ní jasně spojuje vakcíny Pfizer a Moderna s nárůstem agresivních, rychle probíhajících nádorů. Pacienti, kteří byli v remisi (bezpříznakové fázi), zaznamenali po vakcinaci prudké recidivy — nádory se vracely s větší intenzitou a metastatickým šířením, léčbu komplikovaly nebo znemožňovaly.
+
+Studie se dostala do rukou prof. Jana Žaloudíka (40 let ředitel Masarykova onkologického ústavu v Brně). Žaloudík napsal dopis ministrovi zdravotnictví Adamu Vojtěchovi s výzvou ke zvážení dalšího používání mRNA vakcín. Dopis postoupila ředitelka SÚKL dr. Macková, která Žaloudíkovi na šesti stranách vysvětlila, co je mRNA — Peková to označuje za výsměch odborníkovi jeho kalibru.
+
+⚡ **Konflikt:** Regulační orgány EU (EMA, SÚKL) a vědecký konsensus schválené mRNA vakcíny označují za bezpečné; žádná recenzovaná studie nepotvrdila kauzální spojitost s nárůstem onkologických recidiv.
+
+**Zdroje:** [Zítko/Peková — Svobodný vysílač CS, 2026-04-09](_zdroje.md#pavel-zítko--svobodný-vysílač-cs-peková-covid-tour-9-4-2026)
+
+---
+
+### Jmenovitá petice: seznam odsouzených za „šíření poplašné zprávy"
+
+Peková přečetla plný text otevřeného dopisu adresovaného prezidentu Petru Pavlovi. Dopis jmenovitě uvádí odsouzené:
+
+- **Pavel Zítko** — 3 roky nepodmíněně
+- **Jana Petrková** — 2 roky podmíněně (zkušební doba 3 roky)
+- **Lubomír Volný** — 2 roky podmíněně
+- **MUDr. Iveta Křížová** — 2 roky podmíněně (zkušební doba 2 roky)
+
+Dopis žádá prezidenta o využití ústavních pravomocí (čl. 62G a 63.1K) k odpuštění nebo zmírnění trestů s odvoláním na princip *in dubio pro reo* — dosud neexistuje odborný konsenzus v otázkách, za jejichž veřejné vyjádření byli stíháni.
+
+**Zdroje:** [Zítko/Peková — Svobodný vysílač CS, 2026-04-09](_zdroje.md#pavel-zítko--svobodný-vysílač-cs-peková-covid-tour-9-4-2026)
+
+---
+
+### Soud v Amsterdamu: Gates, Bourla a Rutte jako obžalovaní
+
+Pavel Zítko oznámil, že v Amsterdamu proběhlo soudní jednání, kde jsou obžalovaní Bill Gates, Albert Bourla (CEO Pfizer) a Mark Rutte. Pokračování je naplánováno na 22. října 2026.
+
+⚡ **Poznámka:** Existenci takového veřejného trestního řízení nelze ověřit z veřejně dostupných zdrojů; tvrzení je zachyceno výhradně jako výrok Zítka.
+
+**Zdroje:** [Zítko/Peková — Svobodný vysílač CS, 2026-04-09](_zdroje.md#pavel-zítko--svobodný-vysílač-cs-peková-covid-tour-9-4-2026)

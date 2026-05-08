@@ -6,6 +6,22 @@ Témata: kritika mainstreamových médií, mechanismy manipulace, selektivní ml
 
 ## Česká televize a mainstreamová média
 
+### ČT a ČRo by měly být zrušeny — Tarabová (duben 2026)
+
+Lenka Tarabová (18. 4. 2026) vydala monolog ke zrušení koncesionářských poplatků. Oceňuje záměr vlády financovat ČT od 1. 1. 2027 ze státního rozpočtu (prý běžné v 19 zemích EU), ale sama by šla dál: ČT i ČRo by jako veřejnoprávní instituce zrušila úplně, protože dlouhodobě neplní zákon o nestrannosti.
+
+Jako konkrétní příklady strannosti uvádí: v době covidu ČT věnovala 20 z 30 minut večerního zpravodajství covidovému strašení, obsadila pořady výhradně jedním typem odborníků, propagovala roušky, klapot z balkónů a vakcinaci. Poté při válce na Ukrajině šlo zpravodajství opět jen jedním směrem — bez diskutujících z druhé strany. V nedávné diskuzi byl Ladislav Jakl sám proti pěti diskutujícím a moderátorce.
+
+Ty, kdo ČT nyní brání, označuje za „pořád ty stejné lidi" — obhájce covidismu, lockdownů, QR kódů, vakcinace, vlajek Ukrajiny, genderu/LGBT agendy, Green Dealu a větrných elektráren. Jejich argumenty jsou podle ní pouhé papouškování.
+
+Nejlepší řešení: ČT se musí uživit sama ze sledovanosti. Pokud chtějí její přívrženci stanici zachránit, mohou sbírat miliony od příznivců — stejně jako se vybraly miliony pro Raketu Dana.
+
+> „Za mě tak by se měla zrušit Česká televize a Český rozhlas jako veřejnoprávní instituce. Úplně, protože dlouhodobě nesplňují zákon, který jim nařizuje, aby byly nestrané." — Lenka Tarabová, [ČT a ČRo: zrušit, 2026-04-18](_zdroje.md#lenka-tarabová--čt-a-čro-zrušit-18-4-2026)
+
+**Zdroje:** [Tarabová — ČT a ČRo: zrušit, 2026-04-18](_zdroje.md#lenka-tarabová--čt-a-čro-zrušit-18-4-2026)
+
+---
+
 ### ČT jako jednostranná propaganda
 
 Konspirátor Boldy označuje Českou televizi za „brutální jednostrannou propagandu" a TV Nova za ještě extrémnější případ. Mainstreamová média jsou podle něj nástrojem manipulace mas — uplatňují princip, že opakovaně sdělená nepravda se stává pravdou. Lidé, kteří konzumují výhradně mainstreamová média, pak alternativní informace automaticky odmítají.

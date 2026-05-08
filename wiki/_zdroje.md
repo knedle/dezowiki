@@ -435,3 +435,27 @@
 - **Datum záznamu:** 2026-04-14
 - **Délka:** 10:01 | Zhlédnutí: 27 926
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Ruská ropa za přímou cenu (Prima, 8. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-08_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook / sdílení rozhovoru Prima TV)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1970191710251050>
+- **Datum záznamu:** 2026-04-08
+- **Délka:** 1:52 | Zhlédnutí: 79 018
+- **Zpracováno:** ano
+
+## Lenka Tarabová — ČT a ČRo: zrušit (18. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-18_Lenka-Tarabová_Videoportál.txt)
+- **Kanál:** Lenka Tarabová (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1492133925799481>
+- **Datum záznamu:** 2026-04-18
+- **Délka:** 7:08 | Zhlédnutí: 15 866
+- **Zpracováno:** ano
+
+## Pavel Zítko — Svobodný vysílač CS: Peková, COVID tour (9. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-10_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko — Studio Plzeň (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1740020584043904>
+- **Datum záznamu:** 2026-04-09
+- **Délka:** 2:00:50 — pořad Svobodný vysílač CS; hosté Soňa Peková a Pavel Zítko, téma COVID-19 — 6 let poté, petice za prezidentem
+- **Zpracováno:** ano

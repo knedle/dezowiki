@@ -68,6 +68,18 @@ Rajchl opakovaně argumentuje, že EU se odstřižením od ruského plynu a ropy
 
 ---
 
+### Přímý nákup ruské ropy — cesta do Moskvy jako jediné řešení (Rajchl, duben 2026)
+
+Rajchl v rozhovoru na Primě (8. 4. 2026) opakoval svoji pozici: cesta do Moskvy na vyjednání obnovení dodávek ropy a plynu je jediné racionální řešení pro dlouhodobou energetickou stabilitu ČR. Ocenil belgického premiéra Barta De Wevera, který otevřeně vyzval k normalizaci vztahů s Ruskem a návratu k levným surovinám. Upozornil, že cena benzínu přímo v Rusku se pohybuje kolem 16–17 Kč/litr a při přímém přístupu k ruské ropě by cena v ČR mohla reálně klesnout na 30 Kč/litr.
+
+Rajchl kritizoval dopad sankcí: protiruské sankce nefungují — ruské příjmy z ropy od jejich zavedení stouply. ČR přitom ruskou ropu nadále kupuje, jen přes řetězec překupníků, z čehož nejvíce těží Čína. Argumentoval, že ČR si může jednostranně vyjednat výjimku ze sankcí, stejně jako to učinil prezident Trump.
+
+> „Ne, jestli to Rusko prodá nebo neprodá, ale jestli to prodá nám nebo někomu jinému. Teď na tom profituje Čína, vydělává na tom miliardy dolarů a my se tady prostě tváříme, že tu ropu nedostáváme. Stejně ji dostáváme, stejně ji tady kupujeme, akorát přes řetězec překupníků." — Jindřich Rajchl, [Ruská ropa za přímou cenu — Prima 8. 4. 2026](_zdroje.md#jindřich-rajchl--ruská-ropa-za-přímou-cenu-prima-8-4-2026)
+
+**Zdroje:** [Rajchl — Ruská ropa za přímou cenu, 2026-04-08](_zdroje.md#jindřich-rajchl--ruská-ropa-za-přímou-cenu-prima-8-4-2026)
+
+---
+
 ### Válka s Íránem může poslat ropu na 300 USD/barel
 
 Boldy předpovídá, že válka s Íránem (kterou sionisté záměrně iniciují pro „příchod mesiáše") vyžene cenu ropy na 300 USD za barel. To by znamenalo ceny pohonných hmot v ČR 70–150 Kč/litr a automobily by se staly luxusním zbožím. Přicházející ekonomická krize bude podle Boldyho horší než v roce 1929.
