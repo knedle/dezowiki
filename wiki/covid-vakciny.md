@@ -321,6 +321,14 @@ Pavel Zítko oznámil, že v Amsterdamu proběhlo soudní jednání, kde jsou ob
 
 ---
 
+### Politici dostali placebo — vakcínové šarže byly záměrně odlišné
+
+Zítko tvrdí, že Babišova vláda — včetně poslanců, senátorů a jejich rodin — dostala při očkování v roce 2020 záměrně odlišné injekce: ne připravené vakcíny, ale placebo, vitamín C nebo vitamín B12. Cílem bylo budovat důvěru veřejnosti — pokud by politici po očkování zemřeli, vyslali by jasný varovný signál, pokud by přežili bez újmy, potvrdilo by to bezpečnost vakcíny. Výběr šarží měl být záměrný: politici dostali bezpečné látky, ostatní obyvatelstvo ostré šarže.
+
+**Zdroje:** [Zítko — Večerník 13. dubna, 2026-04-12](_zdroje.md#pavel-zítko--večerník-deep-state-vs-trump-putin-xi-aliance-13-4-2026)
+
+---
+
 ### Dr. Sterz (Pfizer toxikolog) v Bundestagu: bezpečnostní studie neproběhly — „slepý let"
 
 Zítko sdílí a komentuje vystoupení Dr. Helmuta Sterze (dlouholetý toxikolog Hoffmann-La Roche a Pfizer) z 19. března 2026 před vyšetřovacím výborem německého Bundestagu. Sterz tvrdí, že před uvedením mRNA vakcín na trh nebyly provedeny standardní toxikologické studie (distribuce v těle, eliminace, bezpečnostní profil) — průběh vývoje označuje jako „Blindflug" (slepý let). Farmaceutický průmysl označuje za „Impfmafia" (očkovací mafii). Norimberskýkodex byl dle jeho výpovědi porušen, protože klíčové studie probíhaly až post-marketingově. Zítko přidává vlastní komentář: COVID byl dle přepisu „přejmenovanou chřipkou", Rockefeller měl patent na COVID-19 již z roku 2015. Zítko zároveň kritizuje PRO: „Proč jsme ještě nevystoupili z WHO, když to Reichel měl ve svým desateru?"

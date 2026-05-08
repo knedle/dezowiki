@@ -483,3 +483,19 @@
 - **Datum záznamu:** 2026-04-30
 - **Délka:** 10:10 | Zhlédnutí: 20 433
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Trojnásobně nižší mzdy v ČR: ekonomická kolonizace EU (9. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-09_Jindřich-Rajchl_Videoportál_1.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/942218872010607>
+- **Datum záznamu:** 2026-04-09
+- **Délka:** 2:06 | Zhlédnutí: 154 700
+- **Zpracováno:** ano
+
+## Pavel Zítko — Večerník: Deep State vs. Trump-Putin-Xi aliance (13. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-13_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1321915449757874>
+- **Datum záznamu:** 2026-04-12
+- **Délka:** 1:20:33 | Zhlédnutí: 550
+- **Zpracováno:** ano

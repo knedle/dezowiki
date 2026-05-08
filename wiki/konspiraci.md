@@ -87,7 +87,19 @@ Boldy tvrdí, že veřejné osobnosti — politici i celebrity — jsou nahrazov
 > „Každopádně Trump, co teďka vystupuje, to Trump není. Vždycky používají dvojníky."
 > „Jim Carrey, typičo samej klon a lidi to žerou." — Boldy, [Facebook Live 2026-03-12](_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
 
-**Zdroje:** [Boldy — Facebook Live, 2026-03-12](_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
+Zítko ve večerníku z 12. dubna 2026 přidává příklad Vladimíra Putina: srovnání záběrů Putina z roku 2010 s aktuálními prý odhaluje zřetelné vizuální rozdíly svědčící o záměně za dvojníka.
+
+**Zdroje:** [Boldy — Facebook Live, 2026-03-12](_zdroje.md#konspirátor-boldy--facebook-live-z-prahy), [Zítko — Večerník 13. dubna, 2026-04-12](_zdroje.md#pavel-zítko--večerník-deep-state-vs-trump-putin-xi-aliance-13-4-2026)
+
+---
+
+### Trump, Putin a Xi jako koordinovaná aliance proti Deep State — Zítko čte McIntosh
+
+Zítko ve večerníku z 12. dubna 2026 přečetl text amerického autora Johna McIntosha, jehož výklad přijímá jako správný. Ústřední teze: vesmírná soustava vstupuje do nové 26 000leté éry (precese rovnodennosti), přičemž stará patriarchální éra se hroutí. Deep State byl globálně propojený do každého aspektu každodenního života — vlády, média, zdravotnictví, vzdělávání, volby (počítačová manipulace). Vedoucí silou nové éry je „Trumpova aliance" zahrnující Trumpa (USA), Putina (Rusko) a Si Ťin-pchinga (Čína) plus Módího (Indie) a Salmána (Saúdská Arábie) — pro veřejnost se jeví jako soupeři, ale v zákulisí jsou „solidní partneři" operující koordinovaně. Volby nejsou podvodně kradeny ballot-stuffingem, ale předdefinovány počítači.
+
+⚡ **Poznámka:** Tento výklad je v přímém rozporu s Boldyho přesvědčením, podle nějž Trump je démonický „Moon Child" / Abaddon a nikoliv spasitel.
+
+**Zdroje:** [Zítko — Večerník 13. dubna, 2026-04-12](_zdroje.md#pavel-zítko--večerník-deep-state-vs-trump-putin-xi-aliance-13-4-2026)
 
 ---
 

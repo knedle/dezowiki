@@ -28,6 +28,14 @@ Rajchl hodnotí ekonomickou integraci ČR do EU po roce 1989 kriticky. Česká r
 
 ---
 
+### Trojnásobně nižší mzdy při stejných cenách — ČR jako ekonomická kolonie
+
+Rajchl v krátkém videu z 9. dubna 2026 rozvíjí argument ekonomické kolonizace ČR novým způsobem: česká kupní síla je zhruba třetinová oproti německé, přestože ceny v obchodech jsou srovnatelné. Jako příklad uvádí pokladní v Lidlu — česká a německá prodávají stejný objem zboží za stejné ceny, ale česká dostává třetinový plat. Dříve, kdy byly ceny v ČR třikrát nižší, byl nižší plat adekvátní; dnes tomu tak není. Situaci označuje za postavení „skutečné ekonomické kolonie": naprostá většina hodnoty práce občanů neslouží k rozvoji ČR, ale k obohacení Západu. Vzájemný vztah byl symetrický, dnes je asymetrický. K tomu přidává migrační pakt jako další křivdu: ČR nenesla odpovědnost za migrační vlnu způsobenou německou politikou „wir schaffen das", přesto po ní chce EU, aby za ni platila.
+
+**Zdroje:** [Rajchl — Ekonomická kolonizace ČR, 2026-04-09](_zdroje.md#jindřich-rajchl--trojnásobně-nižší-mzdy-v-čr-ekonomická-kolonizace-eu-9-4-2026)
+
+---
+
 ### EU jako nové Rakousko-Uhersko — suverenita skrze legislativu, hranice a měnu
 
 V projevu na konferenci V4 v Bratislavě (4. 4. 2026) Rajchl srovnal EU s Rakousko-Uherskem: tehdy ani nyní nebylo možné skutečně utvářet vlastní legislativu. Definuje tři pilíře suverenity, které EU postupně oklešťuje:
