@@ -499,3 +499,19 @@
 - **Datum záznamu:** 2026-04-12
 - **Délka:** 1:20:33 | Zhlédnutí: 550
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Petr Pavel AI deepfake: satirická kritika komunistické minulosti (10. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-10_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/787814111070671>
+- **Datum záznamu:** 2026-04-10
+- **Délka:** 2:30 | Zhlédnutí: 99 921
+- **Zpracováno:** ano
+
+## Pavel Zítko — Večerník: Prymula v Máte slovo, ČT, maďarské volby (14. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-14_Československo-TV2_Videoportál_1.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=2222889095189393>
+- **Datum záznamu:** 2026-04-13 (vysílání), zveřejněno 2026-04-14
+- **Délka:** 33:05 | Zhlédnutí: 401
+- **Zpracováno:** ano

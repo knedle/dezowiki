@@ -22,6 +22,22 @@ Nejlepší řešení: ČT se musí uživit sama ze sledovanosti. Pokud chtějí 
 
 ---
 
+### AI deepfake jako nástroj politické satiry i manipulace — Rajchlovo varování
+
+Rajchl v krátkém videu (10. 4. 2026) zveřejnil AI-generované video kde hovoří jako Petr Pavel — vč. satirického obsahu o Pavlově komunistické minulosti. Na konci sám odhalí, že šlo o AI: „To, co jste viděli, byla samozřejmě umělá inteligence. Bylo to skoro k nerozeznání ode mne." Účelem je demonstrovat, jak snadno lze technologií AI vytvořit věrohodné video kohokoli říkajícího cokoli, a varovat před nebezpečím manipulace.
+
+**Zdroje:** [Rajchl — Petr Pavel AI deepfake, 2026-04-10](_zdroje.md#jindřich-rajchl--petr-pavel-ai-deepfake-satirická-kritika-komunistické-minulosti-10-4-2026)
+
+---
+
+### Zítko vs. ČT: výzva k pozvání do „Máte slovo" kvůli vyváženosti
+
+Pavel Zítko v reakci na avizovaný díl pořadu „Máte slovo" (16. 4. 2026) s Romanem Prymulou o očkování veřejně vyzval ČT, aby pro zajištění vyváženosti pozvala i jeho. Argumentuje tím, že ČT jako veřejnoprávní médium financované z koncesionářských poplatků je povinno prezentovat různé názory — a pokud tam bude Prymula, měl by být přítomen i kritik vakcinace. Zítko označuje celý pořad za přejmenování „Držte hubu" na „Máte slovo".
+
+**Zdroje:** [Zítko — Večerník: Prymula, ČT, 2026-04-13](_zdroje.md#pavel-zítko--večerník-prymula-čt-máte-slovo-maďarské-volby-14-4-2026)
+
+---
+
 ### ČT jako jednostranná propaganda
 
 Konspirátor Boldy označuje Českou televizi za „brutální jednostrannou propagandu" a TV Nova za ještě extrémnější případ. Mainstreamová média jsou podle něj nástrojem manipulace mas — uplatňují princip, že opakovaně sdělená nepravda se stává pravdou. Lidé, kteří konzumují výhradně mainstreamová média, pak alternativní informace automaticky odmítají.

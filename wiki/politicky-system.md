@@ -72,6 +72,14 @@ V živém vysílání 5. 4. 2026 Rajchl komentuje rozhodnutí, že Petr Pavel se
 
 ---
 
+### Petr Pavel jako komunistický rozvědčík — satirická AI deepfake (10. 4. 2026)
+
+Rajchl zveřejnil AI-generované video, kde jako Petr Pavel (v první osobě) říká věci jako: „Budu se muset tvářit, že mě nenasral Macinka s tím Rudým právem" (narážka na Pavlův rozhovor v komunistickém deníku, jehož výtisky prý dal zlikvidovat), „jak mě komunistická rozvědka chválila, co za bezvadnýho perspektivního kádra", a komentuje, že Minář organizuje pro něj na Letné „největší demonstraci na podporu bývalého komunistického rozvědčíka, jaká kdy v dějinách téhle země byla." Na konci deepfake Rajchl (jako fake Pavel) sám přizná, že šlo o AI. Účelem videa je dvojí: zesměšnit Pavlovu komunistickou minulost a zároveň demonstrovat manipulativní potenciál AI deepfake videí.
+
+**Zdroje:** [Rajchl — Petr Pavel AI deepfake, 2026-04-10](_zdroje.md#jindřich-rajchl--petr-pavel-ai-deepfake-satirická-kritika-komunistické-minulosti-10-4-2026)
+
+---
+
 ### Petr Pavel lže o Ústavě — frackovitost a summit NATO v Ankaře (9. 4. 2026)
 
 Rajchl v krátkém videu z 9. dubna 2026 kritizuje chování Petra Pavla, který si „vydupával" účast na summitu NATO v Ankaře. Označuje to jako „frackoství" přesahující veškerou míru důstojnosti hodné prezidenta. Tvrdí, že Pavel opakovaně lže o Ústavě: zahraniční politiku a složení delegace na summitu NATO určuje vláda ČR, nikoliv prezident — žádný právní nárok neexistuje. Jako analogický případ uvádí kauzu Filipa Turka, kdy Pavel rovněž prý ohýbal Ústavu a tiskovou konferencí s ohlášením trestního oznámení na Macinku skončila do ztracena.

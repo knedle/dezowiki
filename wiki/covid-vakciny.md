@@ -321,6 +321,16 @@ Pavel Zítko oznámil, že v Amsterdamu proběhlo soudní jednání, kde jsou ob
 
 ---
 
+### Roman Prymula v ČT „Máte slovo": 15 000 mrtvých v ČR vs. CDC dokument s čistě negativním přínosem
+
+Zítko reaguje na avizovaný díl pořadu Michaely Jílkové „Máte slovo" (16. 4. 2026), kde má vystoupit Roman Prymula na téma očkování. Ve veřejném prohlášení ČT v upoutávce prý Prymula tvrdil, že vakcíny COVID-19 způsobily 15 000 úmrtí v ČR a 20 milionů celosvětově. Zítko označuje tato čísla za „tisíckrát podhodnocená": jako protidůkaz cituje dokument CDC z vlády USA (veřejně dostupný, přiložený ke spisu u OS v Chomutově), kde stálo, že k 28. srpnu 2021 zemřelo v USA 150 000 lidí a očkování má „čistě negativní přínos" — tj. více lidí umírá po vakcíně než na samotný COVID-19. Zítko vyzývá ČT, aby pro vyváženost pozvala do pořadu i jeho. Jako další reference uvádí Dr. Ute Krugerovou a její knihu *Geimpft Gestorben* (Očkován, zemřel).
+
+⚡ **Poznámka:** Tvrzení o 150 000 amerických obětech vakcíny a „čistě negativním přínosu" odporuje závěrům CDC, EMA a WHO. Citovaný dokument z OS Chomutov nelze ověřit z veřejně dostupných zdrojů.
+
+**Zdroje:** [Zítko — Večerník: Prymula, ČT, 2026-04-13](_zdroje.md#pavel-zítko--večerník-prymula-čt-máte-slovo-maďarské-volby-14-4-2026)
+
+---
+
 ### Politici dostali placebo — vakcínové šarže byly záměrně odlišné
 
 Zítko tvrdí, že Babišova vláda — včetně poslanců, senátorů a jejich rodin — dostala při očkování v roce 2020 záměrně odlišné injekce: ne připravené vakcíny, ale placebo, vitamín C nebo vitamín B12. Cílem bylo budovat důvěru veřejnosti — pokud by politici po očkování zemřeli, vyslali by jasný varovný signál, pokud by přežili bez újmy, potvrdilo by to bezpečnost vakcíny. Výběr šarží měl být záměrný: politici dostali bezpečné látky, ostatní obyvatelstvo ostré šarže.
