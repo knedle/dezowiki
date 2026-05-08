@@ -459,3 +459,27 @@
 - **Datum záznamu:** 2026-04-09
 - **Délka:** 2:00:50 — pořad Svobodný vysílač CS; hosté Soňa Peková a Pavel Zítko, téma COVID-19 — 6 let poté, petice za prezidentem
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Petr Pavel: frackovitost a summit NATO v Ankaře (9. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-09_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/976673894891649>
+- **Datum záznamu:** 2026-04-09
+- **Délka:** 1:55 | Zhlédnutí: 209 557
+- **Zpracováno:** ano
+
+## Pavel Zítko — Večerníček: Dr. Sterz (Pfizer toxikolog), COVID tour (11. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-11_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1563910588036681>
+- **Datum záznamu:** 2026-04-10
+- **Délka:** 1:17:13 | Zhlédnutí: 369
+- **Zpracováno:** ano
+
+## Lenka Tarabová — NOS: hlasování výboru pro zdravotnictví (30. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-30_Lenka-Tarabová_Videoportál.txt)
+- **Kanál:** Lenka Tarabová (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1277953977758704>
+- **Datum záznamu:** 2026-04-30
+- **Délka:** 10:10 | Zhlédnutí: 20 433
+- **Zpracováno:** ano

@@ -318,3 +318,21 @@ Pavel Zítko oznámil, že v Amsterdamu proběhlo soudní jednání, kde jsou ob
 ⚡ **Poznámka:** Existenci takového veřejného trestního řízení nelze ověřit z veřejně dostupných zdrojů; tvrzení je zachyceno výhradně jako výrok Zítka.
 
 **Zdroje:** [Zítko/Peková — Svobodný vysílač CS, 2026-04-09](_zdroje.md#pavel-zítko--svobodný-vysílač-cs-peková-covid-tour-9-4-2026)
+
+---
+
+### Dr. Sterz (Pfizer toxikolog) v Bundestagu: bezpečnostní studie neproběhly — „slepý let"
+
+Zítko sdílí a komentuje vystoupení Dr. Helmuta Sterze (dlouholetý toxikolog Hoffmann-La Roche a Pfizer) z 19. března 2026 před vyšetřovacím výborem německého Bundestagu. Sterz tvrdí, že před uvedením mRNA vakcín na trh nebyly provedeny standardní toxikologické studie (distribuce v těle, eliminace, bezpečnostní profil) — průběh vývoje označuje jako „Blindflug" (slepý let). Farmaceutický průmysl označuje za „Impfmafia" (očkovací mafii). Norimberskýkodex byl dle jeho výpovědi porušen, protože klíčové studie probíhaly až post-marketingově. Zítko přidává vlastní komentář: COVID byl dle přepisu „přejmenovanou chřipkou", Rockefeller měl patent na COVID-19 již z roku 2015. Zítko zároveň kritizuje PRO: „Proč jsme ještě nevystoupili z WHO, když to Reichel měl ve svým desateru?"
+
+> „Es war so geradezu wie ein Blindflug. Die Pharmaindustrie ist meines Erachtens ein Rad in dieser sehr gut geschmierten Maschine der Impfmafia." — Dr. Helmut Sterz, citováno Zítkem, [Večerníček 2026-04-10](_zdroje.md#pavel-zítko--večerníček-dr-sterz-pfizer-toxikolog-covid-tour-11-4-2026)
+
+**Zdroje:** [Zítko — Večerníček: Dr. Sterz, 2026-04-10](_zdroje.md#pavel-zítko--večerníček-dr-sterz-pfizer-toxikolog-covid-tour-11-4-2026)
+
+---
+
+### Národní očkovací strategie — hlasování výboru pro zdravotnictví (29. 4. 2026)
+
+Tarabová informuje o hlasování sněmovního výboru pro zdravotnictví (29. dubna 2026) o Národní očkovací strategii (NOS). Výbor má 25 členů (14 koalice ku 11 opozice) — hlasování proběhlo v koaliční většině. Jediný, kdo byl otevřeně proti, byl poslanec SPD Dr. Sýla; Jindřich Rajchl byl přítomen jako nehlasující pozorovatel (jako europoslanec má právo navštívit jakýkoli výbor). NOS připravená pod ministerstvem Válka byla dle Tarabové neoprávněně schválena karetářskou vládou Petra Fialy, která v té době již byla v demisi. WHO označuje za soukromou organizaci financovanou Billem Gatesem. Jako škodlivé účinky očkování uvádí autismus, ADHD, ekzémy, alergie a onkologická onemocnění u dětí. Vyzývá k odmítnutí jakýchkoli nátlaků: „nátlaky jsou pro otroky." Připomíná komunální volby 9.–10. října 2026 a výměnu 27 senátorských křesel jako příležitost ke změně.
+
+**Zdroje:** [Tarabová — NOS: hlasování výboru pro zdravotnictví, 2026-04-30](_zdroje.md#lenka-tarabová--nos-hlasování-výboru-pro-zdravotnictví-30-4-2026)

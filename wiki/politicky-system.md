@@ -72,6 +72,16 @@ V živém vysílání 5. 4. 2026 Rajchl komentuje rozhodnutí, že Petr Pavel se
 
 ---
 
+### Petr Pavel lže o Ústavě — frackovitost a summit NATO v Ankaře (9. 4. 2026)
+
+Rajchl v krátkém videu z 9. dubna 2026 kritizuje chování Petra Pavla, který si „vydupával" účast na summitu NATO v Ankaře. Označuje to jako „frackoství" přesahující veškerou míru důstojnosti hodné prezidenta. Tvrdí, že Pavel opakovaně lže o Ústavě: zahraniční politiku a složení delegace na summitu NATO určuje vláda ČR, nikoliv prezident — žádný právní nárok neexistuje. Jako analogický případ uvádí kauzu Filipa Turka, kdy Pavel rovněž prý ohýbal Ústavu a tiskovou konferencí s ohlášením trestního oznámení na Macinku skončila do ztracena.
+
+> „Aby se přestal chovat jako král a šašek v jednom." — Jindřich Rajchl, [Videoportál 2026-04-09](_zdroje.md#jindřich-rajchl--petr-pavel-frackovitost-a-summit-nato-v-ankaře-9-4-2026)
+
+**Zdroje:** [Rajchl — Videoportál 2026-04-09](_zdroje.md#jindřich-rajchl--petr-pavel-frackovitost-a-summit-nato-v-ankaře-9-4-2026)
+
+---
+
 ### Minář jako „defraudant" — 7 milionů na stranu, která nevznikla
 
 Rajchl v živém vysílání 5. 4. 2026 rozšiřuje svoji kritiku Mináře o finanční argument: Minář vybral 7 milionů Kč na projekt nové politické strany — stranu však nikdy nezaložil. Rajchl uvádí, že PRO (která se do sněmovny dostala) stálo ho za zakladatelský kapitál cca 100–150 tisíc Kč. Minář přitom kritizuje Rajchla za to, že jako bohatý člověk bojuje za chudé — Rajchl oponuje příklady Kennedyů, Trumpa a Babiše.
