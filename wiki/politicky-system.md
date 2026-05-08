@@ -90,6 +90,14 @@ Rajchl v krátkém videu z 9. dubna 2026 kritizuje chování Petra Pavla, který
 
 ---
 
+### Petr Pavel a „Spojené státy evropské" — útok na českou suverenitu (26. 4. 2026)
+
+Lenka Tarabová označuje Pavlovo veřejné „vyhlášení budoucího směřování do Spojených států evropských" za „naprosto nepokrytý kolaborantský útok na svrchovanost České republiky." Faktický zánik ČR jako samostatného státu by podle ní znamenal návrat do horší pozice, než jakou měla v Rakousku-Uhersku. Označuje to za „poplivání" Masaryka, Beneše, Štefánika, Kramáře a Rašína — kteří český stát budovali za cenu riskování životů (Rašín a Kramář byli Habsburky odsouzeni k trestu smrti). Pavel, Piráti a STAN se podle Tarabové snaží to, co bylo za 110 let vydobyto, „zašlapat do země a vrátit nás do nějakého většího evropského subteritoria, kde bychom nerozhodovali vůbec o ničem."
+
+**Zdroje:** [Tarabová — Nedělní živé vysílání, 2026-04-26](_zdroje.md#lenka-tarabová--nedělní-živé-vysílání-suverenita-migrace-26-4-2026)
+
+---
+
 ### Minář jako „defraudant" — 7 milionů na stranu, která nevznikla
 
 Rajchl v živém vysílání 5. 4. 2026 rozšiřuje svoji kritiku Mináře o finanční argument: Minář vybral 7 milionů Kč na projekt nové politické strany — stranu však nikdy nezaložil. Rajchl uvádí, že PRO (která se do sněmovny dostala) stálo ho za zakladatelský kapitál cca 100–150 tisíc Kč. Minář přitom kritizuje Rajchla za to, že jako bohatý člověk bojuje za chudé — Rajchl oponuje příklady Kennedyů, Trumpa a Babiše.

@@ -184,6 +184,14 @@ Tarabová uzavírá: „Němci nám dluží biliony v rámci válečných repara
 
 ---
 
+### Sjezd Landsmannschaftu v Brně — německý ministr vnitra a bavorský premiér jako hosté
+
+Tarabová v nedělním vysílání z 26. dubna 2026 informuje o nové eskalaci: bylo potvrzeno, že sjezd Landsmannschaftu v Brně (22.–24. 5. 2026) navštíví německý ministr vnitra a předseda Bavorské spolkové vlády. Tarabová je označuje za „opravdu zásadní figury", které dodávají celé akci „na mnohem vyšší relevanci." Hodnotí to jako přímý politický tlak Německa na ČR a v kontextu nevyplacených válečných reparací za nepřijatelné.
+
+**Zdroje:** [Tarabová — Nedělní živé vysílání, 2026-04-26](_zdroje.md#lenka-tarabová--nedělní-živé-vysílání-suverenita-migrace-26-4-2026)
+
+---
+
 ### Posselt v Pohořelicích — veřejné projevy za zrušení dekretů
 
 Černohorský zmiňuje konkrétní řeči Bernda Posselta v Pohořelicích (v rámci akcí financovaných z veřejných prostředků přes Meeting Brno), v nichž Posselt veřejně volá po zrušení Benešových dekretů a poukazuje na nutnost „historického smíření" s přerozdělením majetku. Pokusy občanů zjistit detaily přes zákon o svobodném přístupu k informacím narazily na finanční bariéry (tisíce Kč za pětileté výpisy, přes 100 tisíc za desetileté záznamy). Viz také [Kauzy — Meeting Brno](kauzy.md#meeting-brno--15-milionů-na-sudetoněmecké-akce).
@@ -272,3 +280,7 @@ Rajchl označuje za hlavní příčinu napětí mezi českou a ukrajinskou komun
 > „Největším problémem je právě ta servilita, s níž řada českých politiků a právě těchto různých neziskovkářů a pravdoláskařů se podlézají a krčí před těmi ukrajinskými migranti." — Jindřich Rajchl, [FARA/DSA/Dozimetr](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr)
 
 **Zdroje:** [Rajchl — FARA, DSA, Dozimetr, 2026-03-15](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr)
+
+Tarabová přidává konkrétní bezpečnostní rozměr (26. 4. 2026): od roku 2022 dramaticky narůstá kybernetická kriminalita — telefonní šmejdi se vydávají za bankéře nebo policisty a vylákávají peníze od seniorů. Odborníci na kyberbezpečnost toto narůstání přímo spojují se začátkem ukrajinské migrace. Vedle toho část Ukrajinců pobírá sociální dávky neoprávněně: fyzicky pobývají na Ukrajině a jednou měsíčně přijíždějí dávky vyzvednout. Státní týmy přitom monitorují „nebezpečné komentáře na internetu" místo vyšetřování zmíněné kriminality. Za řešení považuje automatické vyhoštění všech cizinců, kteří na území ČR spáchají trestný čin.
+
+**Zdroje:** [Rajchl — FARA, DSA, Dozimetr, 2026-03-15](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr), [Tarabová — Nedělní živé vysílání, 2026-04-26](_zdroje.md#lenka-tarabová--nedělní-živé-vysílání-suverenita-migrace-26-4-2026)
