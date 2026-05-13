@@ -48,7 +48,19 @@ Zítko měl navíc objektivní překážku: 24měsíční soudní **zákaz pobyt
 
 ČT budget dle Zítka: 7,5 miliardy Kč (2025), 8,5 miliardy Kč plánováno na rok 2026, z toho 5,7 miliardy pochází z koncesionářských poplatků občanů.
 
-**Zdroje:** [Zítko — Mobilizace diváků pro Máte slovo, 2026-04-14](_zdroje.md#pavel-zítko--mobilizace-diváků-pro-máte-slovo-14-4-2026), [Zítko — Večerník: Prymula, ČT, 2026-04-13](_zdroje.md#pavel-zítko--večerník-prymula-čt-máte-slovo-maďarské-volby-14-4-2026), [Zítko — Odmítnutí Máte slovo, ČT budget, 2026-04-15](_zdroje.md#pavel-zítko--odmítnutí-máte-slovo-italská-studie-čt-budget-15-4-2026), [Zítko — Máte slovo živě: Prymula, 2026-04-17](_zdroje.md#pavel-zítko--máte-slovo-živě-prymula-zákaz-prahy-17-4-2026)
+Ve druhém dílu vysílání ze dne 16. dubna Zítko přečetl klíčový argument policie pro odmítnutí vstupu do Prahy (§350 odst. 3 trestního řádu 141/1961 Sb.): návštěva pořadu není „důležitým důvodem" — živé televizní vysílání s politickými tématy by Zítkovi umožnilo „oslovit i širší publikum" a „vyslovování různých názorů v živě vysílaném pořadu by bylo v rozporu s uloženým trestem." Zítko to glosuje: „Hlavně nechtěj, abych tam řekl pravdu." Ze soudního rozsudku (soudkyně Daniela Rajfová) zaznívá formulace, že Zítko „aktivně brojí proti státním institucím" a „přítomnost obžalovaného v hlavním městě by mohla umožnit další provokace a konflikty."
+
+**Zdroje:** [Zítko — Mobilizace diváků pro Máte slovo, 2026-04-14](_zdroje.md#pavel-zítko--mobilizace-diváků-pro-máte-slovo-14-4-2026), [Zítko — Večerník: Prymula, ČT, 2026-04-13](_zdroje.md#pavel-zítko--večerník-prymula-čt-máte-slovo-maďarské-volby-14-4-2026), [Zítko — Odmítnutí Máte slovo, ČT budget, 2026-04-15](_zdroje.md#pavel-zítko--odmítnutí-máte-slovo-italská-studie-čt-budget-15-4-2026), [Zítko — Máte slovo živě: Prymula, 2026-04-17](_zdroje.md#pavel-zítko--máte-slovo-živě-prymula-zákaz-prahy-17-4-2026), [Zítko — 16. dubna díl 2: dopis policii, 2026-04-17](_zdroje.md#pavel-zítko--16-dubna-máte-slovo-dopis-policii-a-zdůvodnění-zákazu-prahy-17-4-2026-díl-2)
+
+---
+
+### Rajchl: dobrovolné koncesionářské poplatky jako jediné spravedlivé řešení
+
+Rajchl v živém vysílání z 19. dubna 2026 jde dál než zrušení poplatků: navrhuje jejich zavedení jako *dobrovolných*. Efekt: ČT by musela bojovat o každého diváka a nabízet program pro co nejširší okruh. Dnes konzervativně smýšlející občané platí povinně, ačkoliv pro ně ČT nevysílá — „oni se na nás můžou vykašlat." Historické srovnání: Tomio Okamura nebyl pozván k Václavu Moravcovi 9 let, Petr Maďar (nový maďarský premiér) byl v maďarské státní televizi ignorován 1,5 roku a nyní hrozí, že obrazovku zcela ztmaví — čeští progresivisté Maďarovi tleskají, Okamurově absenci bagatelizovali. Stardance a reality show patří na komerční televize; ČT je televize veřejné služby. Viz také: [Tarabová: ČT a ČRo zrušit](#čt-a-čro-by-měly-být-zrušeny--tarabová-duben-2026).
+
+> „Nenuďte nás, abychom si platili propagandu, která nás pomlouvá, dehonestuje a lže o nás." — Jindřich Rajchl, [Organizovaný zločin v politice, 19. 4. 2026](_zdroje.md#jindřich-rajchl--organizovaný-zločin-v-politice-dozimetr-bitcoin-čt-19-4-2026)
+
+**Zdroje:** [Rajchl — Organizovaný zločin v politice (19. 4. 2026)](_zdroje.md#jindřich-rajchl--organizovaný-zločin-v-politice-dozimetr-bitcoin-čt-19-4-2026)
 
 ---
 

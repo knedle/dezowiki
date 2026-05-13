@@ -599,3 +599,46 @@
 - **Délka:** 1:36:55 | Zhlédnutí: 702
 - **Poznámka:** Zítko sleduje živě pořad Máte slovo (16. 4.) a komentuje vystoupení Prymuly; popisuje zamítnutí žádosti o vstup do Prahy policií (24měsíční zákaz pobytu).
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Petr Pavel a Lichtenštejni: salámová metoda (17. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-17_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/2291347298060317>
+- **Datum záznamu:** 2026-04-17
+- **Délka:** 1:08 | Zhlédnutí: 117 300
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Bitcoin: Stanjura, Decroix a legalizace výnosů (18. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-18_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1748995489875398>
+- **Datum záznamu:** 2026-04-18
+- **Délka:** 3:06 | Zhlédnutí: 99 218
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Organizovaný zločin v politice: Dozimetr, Bitcoin, ČT (19. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-19_Jindřich-Rajchl_Facebook-Live.txt)
+- **Kanál:** Jindřich Rajchl (Facebook Live)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1598521274537520>
+- **Datum záznamu:** 2026-04-19
+- **Délka:** 1:00:18 | Zhlédnutí: neznámo
+- **Poznámka:** Nedělní live: cenzura Petra Pavla (hysterie opozice), dobrovolné ČT poplatky, Sudetoněmecký Landsmannschaft, Pavel a Lichtenštejni, energetická diverzifikace, Dozimetr (Fremr/Rakušan), Bitcoin (Stanjura s přístrojem).
+- **Zpracováno:** ano
+
+## Pavel Zítko — 16. dubna Máte slovo: dopis policii a zdůvodnění zákazu Prahy (17. 4. 2026, díl 2)
+- **Soubor:** [přepis](prepisy/done/2026-04-17_Československo-TV2_Videoportál_1.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1248798860707775&_rdr>
+- **Datum záznamu:** 2026-04-16 (vysílání), zveřejněno 2026-04-17
+- **Délka:** 1:36:55 | Zhlédnutí: 715
+- **Poznámka:** Druhý díl ze dne 16. 4.; čte text svého dopisu policii (§2 odst. 2 písm. A zákona o ČT), text policejního zamítnutí (§350 odst. 3 trestního řádu); soudní odůvodnění zákazu pobytu v Praze.
+- **Zpracováno:** ano
+
+## Pavel Zítko — Bitcoin jako tombola: Brňáci, dvě darknetová tržiště (18. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-18_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1733010234539871&_rdr>
+- **Datum záznamu:** 2026-04-17 (vysílání), zveřejněno 2026-04-18
+- **Délka:** 2:15:45 | Zhlédnutí: 460
+- **Poznámka:** Bitcoin tombola: Blažek, Decroix, „Brňáci"; dvě darknetová tržiště (Nucleus Market + SHIB Marketplace 2013, 39 918 BTC); bakalářská práce Ondřeje Havlíka; Tejcovo trestní oznámení.
+- **Zpracováno:** ano

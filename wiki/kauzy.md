@@ -20,6 +20,14 @@ Rajchl naznačuje, že komise může mít dosah přesahující veřejné očeká
 
 ---
 
+### Fremrova výpověď: Rakušan byl aktivní v šifrované síti
+
+V týdnu od 14. dubna 2026 vypovídali v kauze Dozimetr Jiří Fremr, Jiří Pospíšil a Serge Borenstein. Jiří Fremr ve výpovědi uvedl, že šifrovaná síť KryptoCalt — komunikační platforma, v níž špičky Hnutí STAN běžně komunikovaly — byla standardním nástrojem, a že v ní byl aktivní i Vít Rakušan. Rakušan přitom opakovaně veřejně tvrdil, že šifrovaný telefon nikdy nepoužil a dal ho hrát svým dětem. Rajchl tento rozpor označuje za jednoznačné usvědčení ze lži. Poukazuje na nerovnováhu v trestním stíhání: ke stíhání Martina Dvořáka stačila výpověď jednoho svědka (Matěj Augustín), ke stíhání Marka Schneidera jedna výpověď (Pavel Dovhomilú) — ale pro stíhání STAN a TOP 09 nestačí výpovědi 7–8 svědků, kteří shodně uvádějí, že strany peníze inkasovaly. Rajchl byl nominován do nové parlamentní vyšetřovací komise pro kauzu Dozimetr.
+
+**Zdroje:** [Rajchl — Organizovaný zločin v politice (19. 4. 2026)](_zdroje.md#jindřich-rajchl--organizovaný-zločin-v-politice-dozimetr-bitcoin-čt-19-4-2026)
+
+---
+
 ## Kauza Zdeněk Hřib — neoprávněné příjmy
 
 ### Čtyřnásobná platba bez nároku
@@ -145,6 +153,22 @@ Pavel Zítko od března 2026 opakovaně veřejně prezentuje to, co označuje za
 > „Ode mě v těch vysíláních v březnu dostali asi šestistupňovej návod, jak usvědčit všechny účastníky tohoto zločinného spolčení, včetně důkazů, ale zatím se teda nic neděje." — Pavel Zítko, [Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie)
 
 **Zdroje:** [Zítko — Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie)
+
+---
+
+### Audit prokázal trestné činy: Stanjura a Decroix (Rajchl, duben 2026)
+
+Poté co byl dokončen audit bitcoinové kauzy, Rajchl konkrétizuje obvinění. Klíčový moment: 25. března 2025 přišel náměstek Ministerstva spravedlnosti Radomír Daňhel za ředitelem Finančního analytického útvaru (FAÚ) Jiřím Hilmarem a ptal se ho, jak by FAÚ k daným bitcoinům přistupoval. Hilmar odpověděl, že budou postupovat podle zákona, ale dodal, že podobný dotaz za svou kariéru nikdy nezažil. Pouhé dva dny poté stát začal dražit bitcoiny z naprosto stejné peněženky, z níž FAÚ dříve podal trestní oznámení v jiné kauze. Rajchl vyvozuje: Zbyněk Stanjura musel vědět, že jde o špinavé peníze — je odpovědný za **legalizaci výnosů z trestné činnosti**. Eva Decroix čelí obvinění z **trestného činu nadržování**: omezovala přístup k informacím a zastavila zprávu Davida Uhlíře (bývalý ústavní soudce), která by Stanjurovu roli dokumentovala. Strana PRO podala trestní oznámení 6. června 2025; Stanjura přesto po odchodu z funkce vzal notebook, tablet i telefon — Rajchl to přirovnává ke kauze Ursuly von der Leyen se smazanými SMS.
+
+**Zdroje:** [Rajchl — Bitcoin: Stanjura, Decroix (18. 4. 2026)](_zdroje.md#jindřich-rajchl--bitcoin-stanjura-decroix-a-legalizace-výnosů-18-4-2026), [Rajchl — Organizovaný zločin v politice (19. 4. 2026)](_zdroje.md#jindřich-rajchl--organizovaný-zločin-v-politice-dozimetr-bitcoin-čt-19-4-2026)
+
+---
+
+### Dvě darknetová tržiště, 100 miliard Kč: Zítko (duben 2026)
+
+Zítko poukazuje na to, že kauza se netýká jen Nucleus Market (hodnota ~12,5 mld. Kč, zmíněný v parlamentu), ale i SHIB Marketplace — prvního Jiříkovského darknetového tržiště uzavřeného v prosinci 2013 se zůstatkem přes 39 918 bitcoinů. Celkovou hodnotu bitcoinů z obou tržišť odhaduje na více než 100 miliard Kč. Jako zdroj dokumentace uvádí bakalářskou práci Ondřeje Havlíka (portál THESS, 2019) s názvem „Zneužívání měny Bitcoin" (100+ stran). Záznamy o pohybech jsou veřejně dohledatelné na blockchainu — přesto NCOZ ani NCTEKK pohyby na Jiříkovského peněženkách dosud neprověřily. Nový ministr spravedlnosti Jeroným Tejc (100+ dní ve funkci) nakonec oznámil podání trestního oznámení.
+
+**Zdroje:** [Zítko — Bitcoin jako tombola (18. 4. 2026)](_zdroje.md#pavel-zítko--bitcoin-jako-tombola-brňáci-dvě-darknetová-tržiště-18-4-2026)
 
 ---
 

@@ -246,6 +246,16 @@ Rajchl zaujímá kategorickou pozici: žádná debata o Benešových dekretech n
 
 ---
 
+### Petr Pavel jedná s Lichtenštejny: salámová metoda (17.–19. 4. 2026)
+
+Rajchl v krátkém videu z 17. dubna a živém vysílání z 19. dubna rozebírá Pavlova jednání s Lichtenštejny ohledně majetku zajatého Benešovými dekrety. Česká republika vyhrála všechny relevantní spory — jak na domácí, tak na evropské úrovni — přesto Pavel veřejně prohlásil, že „by bylo dobré se nějak domluvit", a jednal dokonce i se soudkyní Soudního dvora EU. Navrhoval zřízení společného fondu spravovaného Lichtenštejny. Rajchl označuje tento přístup za „salámovou metodu": jakmile se uzavře jediná dohoda, fakticky se tím legitimizuje nárok — a otevírají se tisíce dalších nároků od šlechtických rodů z celého pohraničí v hodnotě bilionů korun. Namísto toho by ČR měla otevřít otázku válečných reparací Německa — ideálně společně s Polskem. V živém vysílání z 19. dubna označil Rajchl Pavlova jednání s Lichtenštejny za „naprosto nejhorší věc, co jako nejvyšší ústavní činitel České republiky udělal" a za „čistou kolaboraci".
+
+> „V momentě, kdy uděláte jednu dohodu a řeknete, dobře, my se nebudeme soudit, my se dohodneme na tom, že tady vytvoříme nějaký fond, který budou spravovat Lichtenštejnové, tak v ten moment fakticky uznáváte, legitimizujete, že tady nějaký nárok těch Lichtenštejnů je." — Jindřich Rajchl, [Organizovaný zločin v politice, 19. 4. 2026](_zdroje.md#jindřich-rajchl--organizovaný-zločin-v-politice-dozimetr-bitcoin-čt-19-4-2026)
+
+**Zdroje:** [Rajchl — Petr Pavel a Lichtenštejni (17. 4. 2026)](_zdroje.md#jindřich-rajchl--petr-pavel-a-lichtenštejni-salámová-metoda-17-4-2026), [Rajchl — Organizovaný zločin v politice (19. 4. 2026)](_zdroje.md#jindřich-rajchl--organizovaný-zločin-v-politice-dozimetr-bitcoin-čt-19-4-2026)
+
+---
+
 ## Plán na germanizaci — „Česko je plán"
 
 ### Přejmenování na „Česko" jako součást záměru připojit zemi k Německu
