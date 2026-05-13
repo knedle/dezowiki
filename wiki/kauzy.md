@@ -28,6 +28,20 @@ V týdnu od 14. dubna 2026 vypovídali v kauze Dozimetr Jiří Fremr, Jiří Pos
 
 ---
 
+### Parlamentní vyšetřovací komise zablokována: Rakušanův dvojí metr (22. 4. 2026)
+
+Dne 22. dubna 2026 měla proběhnout volba členů parlamentní vyšetřovací komise pro kauzu Dozimetr, ale „pěti opozice" hlasování zablokovala s odvoláním na nahrávku dvou členů Rady ČT — Pavla Matochy a Romana Bradáče —, která má svědčit o jejich korupci.
+
+Rajchl označuje záminku za „farizejskou výmluvu". Poukazuje na nahrávku Víta Rakušana z doby před několika měsíci: na ní Rakušan zasedá se špičkami STAN (vč. Gazdíka a Polčáka) a hovoří o kauze Dozimetr; z nahrávky plyne, že měl informace z živého policejního spisu a zmínil, že se chystá „6 až 8 zadržení". Na rozdíl od Matochy a Bradáče nikdo Rakušanovu nahrávku nespochybnil — ani sám Rakušan, který ji odmítl komentovat s tím, že „jsou tam některé věci, které nejsou pravdivé", ale nepodal žalobu ani trestní oznámení.
+
+Rajchl vyzývá k symetrii: pokud je podmínkou volby vyjasnění nahrávky Matochy a Bradáče, měl by Rakušan stejně suspendovat poslanecký mandát, dokud se nevyjasní jeho vlastní nahrávka.
+
+> „Pokud chcete měřit všem stejným metrem a tvrdíte, že do doby, než se vjasní pravost té nahrávky Pavla Matochy a Romana Bradáče — měřte sobě stejným metrem a suspendujte svůj poslanecký mandát." — Jindřich Rajchl, [Dozimetr — komise zablokována, 22. 4. 2026](_zdroje.md#jindřich-rajchl--dozimetr-parlamentní-komise-zablokována-22-4-2026)
+
+**Zdroje:** [Rajchl — Dozimetr: parlamentní komise zablokována (22. 4. 2026)](_zdroje.md#jindřich-rajchl--dozimetr-parlamentní-komise-zablokována-22-4-2026)
+
+---
+
 ## Kauza Zdeněk Hřib — neoprávněné příjmy
 
 ### Čtyřnásobná platba bez nároku
@@ -161,6 +175,28 @@ Pavel Zítko od března 2026 opakovaně veřejně prezentuje to, co označuje za
 Poté co byl dokončen audit bitcoinové kauzy, Rajchl konkrétizuje obvinění. Klíčový moment: 25. března 2025 přišel náměstek Ministerstva spravedlnosti Radomír Daňhel za ředitelem Finančního analytického útvaru (FAÚ) Jiřím Hilmarem a ptal se ho, jak by FAÚ k daným bitcoinům přistupoval. Hilmar odpověděl, že budou postupovat podle zákona, ale dodal, že podobný dotaz za svou kariéru nikdy nezažil. Pouhé dva dny poté stát začal dražit bitcoiny z naprosto stejné peněženky, z níž FAÚ dříve podal trestní oznámení v jiné kauze. Rajchl vyvozuje: Zbyněk Stanjura musel vědět, že jde o špinavé peníze — je odpovědný za **legalizaci výnosů z trestné činnosti**. Eva Decroix čelí obvinění z **trestného činu nadržování**: omezovala přístup k informacím a zastavila zprávu Davida Uhlíře (bývalý ústavní soudce), která by Stanjurovu roli dokumentovala. Strana PRO podala trestní oznámení 6. června 2025; Stanjura přesto po odchodu z funkce vzal notebook, tablet i telefon — Rajchl to přirovnává ke kauze Ursuly von der Leyen se smazanými SMS.
 
 **Zdroje:** [Rajchl — Bitcoin: Stanjura, Decroix (18. 4. 2026)](_zdroje.md#jindřich-rajchl--bitcoin-stanjura-decroix-a-legalizace-výnosů-18-4-2026), [Rajchl — Organizovaný zločin v politice (19. 4. 2026)](_zdroje.md#jindřich-rajchl--organizovaný-zločin-v-politice-dozimetr-bitcoin-čt-19-4-2026)
+
+---
+
+### Brněnská síť, Decroix obhajoba a Tejcovo trestní oznámení (Rajchl + Zítko, 20.–21. 4. 2026)
+
+Po zveřejnění výsledků interního auditu vystoupili společně ministr spravedlnosti Jeroným Tejc a ministryně financí Alena Šilerová (ANO) a oznámili, že rezort podá trestní oznámení. Eva Decroix reagovala: „Jsem přesvědčena, že nedošlo k žádnému trestnému činu ani poškození státu." Vyzývala Tejce na debatu v ČRo Radiožurnál a tvrdila, že Tejc se „bojí". Rajchl označuje tuto sebejistotu za drzost — důkazy jsou dle něj zdrcující.
+
+Rajchl zpřesňuje podíl Decroix: zastavila zprávu koordinátora kauzy Davida Uhlíře dříve, než ji mohl dokončit — Uhlíř nesměl zmínit roli Zbyňka Stanjury. Rajchl ji na SPD tiskové konferenci (21. 4.) vyzval k odchodu z politiky; Decroix odpověděla, že „zábava začíná". Rajchl připomíná jejich předchozí střet na podcastu Echo Prime — dle něj „ostudu před celou republikou" a nejsledovanější epizodu kanálu.
+
+Rajchl identifikuje konkrétní brněnskou síť:
+- **Pavel Blažek** (ODS, exministr spravedlnosti) — organizátor, odešel po odhalení; sídlo: Brno
+- **Karim Tyc** — Blažkův spolužák z gymnázia v Opavě, najatý jako advokát Jiříkovského; Rajchl: „minimální pravděpodobnost, že si Jiříkovský spolužáka Blažka vyhledal sám — šlo to patrně opačným směrem"
+- **Radomír Daňhel** — Blažkův náměstek, brněnský; 25. 3. 2025 navštívil ředitele FAÚ Hilmara (nebývalý dotaz)
+- **Lubomír Míka** — notář z Brna; při „otevírání peněženek" ověřoval vše jen na základě screenshotu, fyzicky přítomen nebyl v době prvního přístupu
+- **Jiří Berger** — soudní znalec z Brna, spolumajitel cestovní kanceláře posílající brněnské politiky (vč. primátorky Vaňkové) do zahraničí; byl angažován a placen Tycem (z Jiříkovského strany) — ne státem
+- **Bednářová** — šéfová právního oddělení MS
+
+Dle Rajchla měla kauza tři možná řešení: (1) zničit hardware — nikdo by z toho nic neměl; (2) konfiskovat vše — 100+ mld Kč do státního rozpočtu; (3) „šalamoucké" řešení — minimalizovat základ pro výpočet 30% a nechat zbytek Jiříkovskému na redistribuci. Třetí cesta implikuje korupci v brněnských institucích: aby Jiříkovský získal přístup k zabaveným počítačům, muselo dojít ke změně rozhodnutí u krajského soudu, nejvyššího soudu i krajského ředitelství policie — vše v Brně. K „inventuře" přinesl pouze jeden (rozbalený, nezapečetěný) počítač z padesáti, které mu stát protiprávně vrátil. Poslanec ODS Havránek navrhoval zákon osvobozující příjmy z Bitcoinu od daně do 40 mil. Kč — výhodné pro budoucí rozdělení kořisti.
+
+Zítko doplňuje: Jiříkovský se pokusil bitcoiny vyměnit v pražské směnárně Byt Plus (provozovatel Martin Stránský), který ho odmítl i s papírem od MS; Jiříkovský pak odjel na Tajvan. Petr Fiala a Eva Decroix absolvovali 21. 4. 2026 společný Facebook live — dle Zítka poprvé, kdy Fiala sáhl k tomuto formátu, což interpretuje jako výraz paniky.
+
+**Zdroje:** [Rajchl — Bitcoin: Brněnská síť (20. 4. 2026)](_zdroje.md#jindřich-rajchl--bitcoin-brněnská-síť-decroix-a-tejcovo-trestní-oznámení-20-4-2026), [Rajchl — Decroix: výzva k rezignaci (21. 4. 2026)](_zdroje.md#jindřich-rajchl--decroix-výzva-k-odchodu-z-politiky-21-4-2026), [Zítko — Bitcoin: Tejc, Šilerová (20. 4. 2026)](_zdroje.md#pavel-zítko--bitcoin-tejc-šilerová-a-čs-teorie-20-4-2026), [Zítko — Bitcoin: 11:11 (21. 4. 2026)](_zdroje.md#pavel-zítko--bitcoin-1111-objasněno-fiala-decroix-fb-live-21-4-2026)
 
 ---
 

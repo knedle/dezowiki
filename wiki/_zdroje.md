@@ -642,3 +642,48 @@
 - **Délka:** 2:15:45 | Zhlédnutí: 460
 - **Poznámka:** Bitcoin tombola: Blažek, Decroix, „Brňáci"; dvě darknetová tržiště (Nucleus Market + SHIB Marketplace 2013, 39 918 BTC); bakalářská práce Ondřeje Havlíka; Tejcovo trestní oznámení.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Bitcoin: Brněnská síť a Decroix obhajoba (20. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-20_Jindřich-Rajchl_Videoportál_1.txt)
+- **Kanál:** Jindřich Rajchl (Facebook Live)
+- **URL:** <https://www.facebook.com/100063460865205/videos/943613541803879>
+- **Datum záznamu:** 2026-04-20
+- **Délka:** cca 3h | Zhlédnutí: 65 300
+- **Poznámka:** Pondělní live: Tejc + Šilerová ohlašují trestní oznámení; Decroix obhajoba; brněnská síť (Blažek, Karim Tyc, Daňhel, notář Míka, znalec Berger, Bednářová); tři možnosti řešení (zničit/konfiskovat/šalamoucké); korupce brněnských institucí; Havránkův zákon o daňové výjimce; Jiříkovský jako „bílý kůň".
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Decroix: výzva k odchodu z politiky (21. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-21_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/2149518442449902>
+- **Datum záznamu:** 2026-04-21
+- **Délka:** 1:19 | Zhlédnutí: 127 250
+- **Poznámka:** Rajchl na SPD tiskové konferenci vyzývá Decroix k rezignaci; Decroix: „začíná zábava"; Rajchl: David Uhlíř byl zastaven před zmíněním Stanjurovy role; odkaz na Echo Prime debatu.
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Dozimetr: parlamentní komise zablokována (22. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-22_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/3108155752705104>
+- **Datum záznamu:** 2026-04-22
+- **Délka:** 3:44 | Zhlédnutí: 106 452
+- **Poznámka:** Volba členů parlamentní vyšetřovací komise pro Dozimetr zablokována pěti opozicí; záminka: nahrávka Matochy a Bradáče (Rada ČT); Rajchl: Rakušanův dvojí metr — jeho vlastní nahrávka o info z live spisu nebyla napadena.
+- **Zpracováno:** ano
+
+## Pavel Zítko — Bitcoin: Tejc, Šilerová a ČS teorie (19. 4. 2026, zveřejněno 20. 4.)
+- **Soubor:** [přepis](prepisy/done/2026-04-20_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1435338924568107&_rdr>
+- **Datum záznamu:** 2026-04-19 (vysílání), zveřejněno 2026-04-20
+- **Délka:** 1:02:30 | Zhlédnutí: 489
+- **Poznámka:** Nedělní večerník: Bitcoin recap (Tejc + Šilerová, Blažek, Decroix zametačka); kritika Rajchla za přebírání Zítkových zásluh od června 2025; ČS teorie (Villa Tugendhat 26. 8. 1992, zákon 11/1918, tři koruny moci, ČR/SR jako korporace); pozvánky COVID tour.
+- **Zpracováno:** ano
+
+## Pavel Zítko — Bitcoin: 11:11 objasněno, Fiala/Decroix FB live (21. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-21_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1574537990302450&_rdr>
+- **Datum záznamu:** 2026-04-21
+- **Délka:** 1:15:37 | Zhlédnutí: 125 192
+- **Poznámka:** Shrnutí 11:11 Bitcoin analýzy (2 tržiště, 9 trestných činů, Martin Stránský/Byt Plus odmítl Jiříkovského); Petr Fiala + Decroix společný FB live 21. 4. (poprvé Fiala na FB live) = Zítko: znak paniky; pozvánka COVID tour Most 22. 4.
+- **Zpracováno:** ano

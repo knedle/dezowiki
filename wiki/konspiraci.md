@@ -205,6 +205,18 @@ Rozdělení Československa Zítko interpretuje jako vlastizradu: poslanec Jan S
 
 ---
 
+### Villa Tugendhat, tři koruny a možnost obnovení ČS občanství — Zítko (20. 4. 2026)
+
+Pavel Zítko ve vysílání z 19./20. dubna 2026 rozvinul svůj výklad rozpadu Československa o konkrétní detaily:
+
+- Rozdělení ČS bylo dle Zítka dojednáno v brněnské Vile Tugendhat dne 26. srpna 1992 na schůzce Václava Klause a Vladimíra Mečiara. Tuto schůzku označuje za klíčový akt vlastizrady, který proběhl bez legitimního mandátu.
+- Skutečná mocenská centra světa nejsou demokratické vlády, ale tři „koruny": Vatikán, City of London a Washington DC — tyto tři instituce prý stojí nad státy a národními parlamenti.
+- Zákon č. 11/1918 o Československé republice podle Zítka stále platí; jeho důsledkem je, že občané ČR a SR se mohou přihlásit zpět k československému občanství a domáhat se tak práv plynoucích z platného práva historické ČSR.
+
+**Zdroje:** [ČsTV2 — Bitcoin: Tejc, Šilerová a ČS teorie, 2026-04-20](_zdroje.md#pavel-zítko--bitcoin-tejc-šilerová-a-čs-teorie-20-4-2026)
+
+---
+
 ### Nord Stream — Mosad nebo Ukrajina jako pachatel
 
 Boldy odmítá verzi, že za sabotáží plynovodu Nord Stream stálo Rusko, a označuje ji za absurdní — Rusko by sabotovalo vlastní klíčovou infrastrukturu. Za pravděpodobnými pachateli označuje Mosad nebo Ukrajinu, přičemž Ukrajinu označuje jako „malý Izrael".
