@@ -197,6 +197,31 @@ Peková tvrdí, že lidé, kteří se snaží odhalovat pochybení z doby covidu
 
 ---
 
+### Peková a Reiner Füllmich: mezinárodní selhání, česká petice jako precedens (Chcimír, 22. 4. 2026)
+
+Soňa Peková na akci COVID tour v komunitním centru Chcimír v Mostě (22. 4. 2026) popsala stav mezinárodní kampaně za propuštění Reinera Füllmicha (německý právník, vězněn 2,5 roku):
+
+- Data o slovenských vakcínách chtěla Peková předat Peteru Stassenovi (advokát u amsterdamského soudu) — švýcarská podpůrná skupina ji od toho odrazovala. Peková data poslala sama ze své adresy.
+- Kontaktovala EP, aby dostala 15 minut na prezentaci Füllmichova případu. Německá parlamentní komise pro vyšetřování covidových zločinů odmítla se případem Füllmicha zabývat z důvodu jeho ekonomické kriminality — Peková: „Neumí oddělit zlato a bláto."
+- Peková si s Füllmichem dopisuje; napsal jí třikrát, ona vždy odpověděla. Píše mu realisticky, protože on si v izolaci tvoří lepší obraz reality, než jaká je.
+- Füllmich bude mít 5. května 2026 75. narozeniny — Zítko zveřejnil jeho korespondenční adresu ve vězení (Brömerferde am Steinberg, Deutschland). Füllmich napsal Pekové v angličtině: „Pozdravujte krajany, kteří se brzo zase stanou Československem."
+
+Peková označuje českou petici za projekt s potenciálem **precedentního dopadu v EU**: v ČR byli selektivně odsouzeni nejméně 4 aktivisté za „šíření poplašné zprávy" — ti, co varovali; ti, co strašili „mrazáky v ulicích", odsouzeni nebyli. Pokud by česká justice trestní stíhání zastavila, mohl by to být argument pro Füllmichův případ.
+
+Plánuje osobní audienci u Petra Pavla. Prezidentův právník ji mezitím kontaktoval a sdělil, že vidí „trávu růst" a ať se „zpamatuje". Peková reaguje: „Já jsem se neptala právníka, ptala jsem se prezidenta." Pokud ji odmítne přijmout, považuje i to za zprávu: „Mají prezidenta, ke kterému se nedá dostat."
+
+**Zdroje:** [ČsTV2 — Chcimír: Peková COVID tour (22. 4. 2026)](_zdroje.md#pavel-zítko--chcimír-peková-covid-tour-22-4-2026)
+
+---
+
+### USA: vakcíny přejmenovány na „biologické zbraně" — Zítko (duben 2026)
+
+Pavel Zítko ve vysílání ze dne 21. 4. 2026 oznamuje jako přelomovou zprávu: americký ministr obrany Pete Hegseth (dle Zítka) nově definoval COVID vakcíny jako „biologické zbraně", v souladu s označením profesora Francise Boylea. Vakcinace má být napříště dobrovolná. Zítko hodnotí tento krok jako potvrzení toho, co říkal od počátku pandemie: mRNA injekce nikdy nebyly léčivem, ale experimentální intervencí bez odpovídajících bezpečnostních studií.
+
+**Zdroje:** [Zítko — Rozcvička před FB show (21. 4. 2026)](_zdroje.md#pavel-zítko--rozcvička-před-fb-show-decroix-fiala-21-4-2026)
+
+---
+
 ## Systém „covidismu" — obrácené hodnoty
 
 ### Covidová doba jako systém invertovaných pojmů

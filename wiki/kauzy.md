@@ -208,6 +208,26 @@ Zítko poukazuje na to, že kauza se netýká jen Nucleus Market (hodnota ~12,5 
 
 ---
 
+### Fiala/Decroix Facebook live: cenzura otázek a Jiříkovský na Filipínách a Tchaj-wanu (21.–22. 4. 2026)
+
+Fiala a Decroix dne 21. dubna 2026 poprvé uspořádali přímý přenos na Facebooku a přijímali dotazy veřejnosti. Zítko se aktivně pokusil klást otázky a zdokumentoval výsledek devíti screenshoty: žádná z jeho otázek nebyla zobrazena, dva jeho profily a profil Československo TV2 byly Decroix zablokována, Decroix zablokovala i ministra spravedlnosti Tejce. Rajchl ve sněmovně poukázal na totéž: Decroix vyzývala Tejce k debatě, přitom ho demokraticky zablokovala.
+
+Klíčové nezodpovězené Zítkovy otázky:
+- Proč soud vrátil Jiříkovskému 50 počítačů? Na jednání s Daňhelem a Bednářovou (právní odbor MS) přinesl pouze jeden — nezapečetěný — z padesáti; všechny si vyzvedl z policejního skladu kolem Vánoc 2024, mohl volně přesouvat data.
+- Proč se mluví jen o Nucleus Marketu (5 366 BTC) a ne o prvním tržišti (39 918 BTC)? „Jediný z politiků, kdo o prvním tržišti veřejně mluvil, byl Jiří Paroubek."
+- Co s koordinátorem Bitcoinové kauzy, který na začátku přiznal, že Bitcoinům „nerozumí" a byl odvolán ještě před termínem své zprávy (srpen 2025)?
+- Proč Stanjura neodevzdal 3 mobilní telefony a tablet, přestože odevzdání bylo podmínkou?
+
+Jiříkovský se po odhalení kauzy pokusil bitcoiny prodat v pražské směnárně **Byt Plus** (provozovatel Martin Stránský), který ho odmítl i přes předložení dokumentu od MS. Jiříkovský poté odletěl na Filipíny a dále na Tchaj-wan, aby bitcoiny vyměnil v zahraničí.
+
+Rajchl ve sněmovním projevu (22. 4.) pohrozil zahájením **druhé parlamentní vyšetřovací komise** — tentokrát pro kauzu Bitcoin: „Pokud skutečně bude zahájeno trestní stíhání na základě Tejcova trestního oznámení, tak by bylo na místě, aby Decroix odešla z politiky. Pokud ne, jsem připraven iniciovat vznik parlamentní vyšetřovací komise v kauze Bitcoin."
+
+⚡ **Nová distrakce Rakušan/Kupka:** Rajchl v rozhovoru pro CNN Prima (24. 4.) označuje Filipa Turka a každotýdenní mediální skandály (předchozí týden: „cenzura" rozhovoru s Pavlem, aktuální: Turek a Jakub Abel) za záměrnou taktiku Rakušana: „Příští týden to bude možná to, že bude pršet nebo sněžit." Předseda ODS Martin Kupka označil Rajchla za „tupého slouhu Moskvy" — Rajchl namítá, že by pak mohl také volat po Kupkově rezignaci: „To jsou prostě výrazy, které jsou v politice běžné."
+
+**Zdroje:** [Zítko — Bitcoin: Tejc, Šilerová a ČS teorie (20. 4.)](_zdroje.md#pavel-zítko--bitcoin-tejc-šilerová-a-čs-teorie-20-4-2026), [Zítko — Poledník 11:11 (22. 4. 2026)](_zdroje.md#pavel-zítko--poledník-1111-fiala-decroix-fb-live-cenzura-22-4-2026), [Zítko — Rozcvička před FB live (21. 4. 2026)](_zdroje.md#pavel-zítko--rozcvička-před-fb-show-decroix-fiala-21-4-2026), [Rajchl — PS projev Bitcoin/Dozimetr (22. 4. 2026)](_zdroje.md#jindřich-rajchl--ps-projev-bitcoin-dozimetr-22-4-2026), [Rajchl — CNN Prima: Dozimetr, Kupka, Turek (24. 4.)](_zdroje.md#jindřich-rajchl--cnn-prima-dozimetr-kupka-turek-24-4-2026)
+
+---
+
 ## Letná 2026 — demonstrace jako politický nástroj neziskovek
 
 ### Financování Mináře a Šimon Pánek z Člověka v tísni

@@ -54,6 +54,16 @@ Ve druhém dílu vysílání ze dne 16. dubna Zítko přečetl klíčový argume
 
 ---
 
+### Fiala/Decroix Facebook live: cenzura otázek jako normální politická praxe (Zítko, 22. 4. 2026)
+
+Zítko dokumentuje cenzuru během prvního přímého přenosu Petra Fialy a Evy Decroix na Facebooku (21. 4. 2026): ze svých profilů odeslal řadu věcných dotazů k Bitcoinové kauze — žádná nebyla zobrazena. Dva jeho profily plus profil Československo TV2 byly Decroix zablokována; Decroix zablokovala i ministra spravedlnosti Tejce, ačkoliv ho veřejně vyzývala k debatě. Zítko zdokumentoval situaci devíti screenshoty. Označuje to za ukázku způsobu, jakým ODS/Spolu komunikuje: „Takto se staví ODS Spolu čelem k nepříjemným otázkám — na kelo."
+
+Zítko také komentuje kampaň studentů UK za zachování ČT financované z koncesionářských poplatků. Poukazuje na paradox: pokud studenti považují státní financování za ohrožení nezávislosti ČT, měli by odmítnout i státní financování vlastních fakult — „Pojďme navrhnout, ať platí studium sami z vlastní kapsy."
+
+**Zdroje:** [Zítko — Poledník 11:11 (22. 4. 2026)](_zdroje.md#pavel-zítko--poledník-1111-fiala-decroix-fb-live-cenzura-22-4-2026), [Zítko — Rozcvička před FB show (21. 4. 2026)](_zdroje.md#pavel-zítko--rozcvička-před-fb-show-decroix-fiala-21-4-2026)
+
+---
+
 ### Rajchl: dobrovolné koncesionářské poplatky jako jediné spravedlivé řešení
 
 Rajchl v živém vysílání z 19. dubna 2026 jde dál než zrušení poplatků: navrhuje jejich zavedení jako *dobrovolných*. Efekt: ČT by musela bojovat o každého diváka a nabízet program pro co nejširší okruh. Dnes konzervativně smýšlející občané platí povinně, ačkoliv pro ně ČT nevysílá — „oni se na nás můžou vykašlat." Historické srovnání: Tomio Okamura nebyl pozván k Václavu Moravcovi 9 let, Petr Maďar (nový maďarský premiér) byl v maďarské státní televizi ignorován 1,5 roku a nyní hrozí, že obrazovku zcela ztmaví — čeští progresivisté Maďarovi tleskají, Okamurově absenci bagatelizovali. Stardance a reality show patří na komerční televize; ČT je televize veřejné služby. Viz také: [Tarabová: ČT a ČRo zrušit](#čt-a-čro-by-měly-být-zrušeny--tarabová-duben-2026).

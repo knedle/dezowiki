@@ -687,3 +687,48 @@
 - **Délka:** 1:15:37 | Zhlédnutí: 125 192
 - **Poznámka:** Shrnutí 11:11 Bitcoin analýzy (2 tržiště, 9 trestných činů, Martin Stránský/Byt Plus odmítl Jiříkovského); Petr Fiala + Decroix společný FB live 21. 4. (poprvé Fiala na FB live) = Zítko: znak paniky; pozvánka COVID tour Most 22. 4.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — PS projev: Bitcoin a Dozimetr (22. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-22_Jindřich-Rajchl_Videoportál_2.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/973622351911523>
+- **Datum záznamu:** 2026-04-22
+- **Délka:** 0:42 | Zhlédnutí: 112 423
+- **Poznámka:** Rajchl ve sněmovně (PS tiskovka): Bitcoin = legalizace výnosů, Decroix kryla Stanjuru; hrozí druhou parlamentní vyšetřovací komisí pro Bitcoin; dvojí metr Kupka vs. Rajchl (insult „tupý slouha Moskvy").
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — CNN Prima: Dozimetr, Kupka a odvolání Jakuba Abela (24. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-24_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1880385909286188>
+- **Datum záznamu:** 2026-04-24
+- **Délka:** 4:00 | Zhlédnutí: 54 013
+- **Poznámka:** CNN Prima News rozhovor: Rakušan týdně vyrábí nové distrakce (cenzura Pavlova rozhovoru, Filip Turek); Kupka: „tupý slouha Moskvy" = dvojí metr; Rajchl obhajuje odvolání Jakuba Abela (Oxford) Turkem: „Ministr musí mít lidi se stejnou vizí."
+- **Zpracováno:** ano
+
+## Pavel Zítko — Poledník 11:11: Fiala/Decroix FB live cenzura (22. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-22_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=2026458124604209&_rdr>
+- **Datum záznamu:** 2026-04-22
+- **Délka:** 1:06:22 | Zhlédnutí: 431
+- **Poznámka:** Zítko komentuje Fiala/Decroix FB live: 2 profily zablokovaný, 9 screenshotů, všechny otázky skryty; Jiříkovský Filipíny → Tchaj-wan; Nucleus 5 366 BTC vs. SHIB 39 918 BTC; koordinátor „Nejbůhl" nerozuměl Bitcoinu; Stanjura neodevzdal přístroje; Füllmich narozeniny 5. 5.; ČR/SR jako korporace — zákon 11/1918 stále platí; Karel Kryl o vlastizradě.
+- **Zpracováno:** ano
+
+## Pavel Zítko — Rozcvička před FB show Decroix/Fiala (21. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-22_Československo-TV2_Videoportál_2.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=35161813403461882&_rdr>
+- **Datum záznamu:** 2026-04-21 (v souboru označen jako 22. 4.)
+- **Délka:** 0:22:04 | Zhlédnutí: 713
+- **Poznámka:** Rozcvička před Fiala/Decroix FB live (18:17): Bitcoin analýza připravena pro NCOZ; Jiříkovský Filipíny → Tchaj-wan; vakcíny = „biologické zbraně" (Hegseth/USA); Soňa Peková tour (Chcimír, Pedřichov, Plzeň); zákon 11/1918.
+- **Zpracováno:** ano
+
+## Pavel Zítko — Chcimír: Peková COVID tour — Füllmich, petice, Pavel (22. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-23_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1900968013953526&_rdr>
+- **Datum záznamu:** 2026-04-22 (nahráno 23. 4.)
+- **Délka:** 0:37:11 | Zhlédnutí: 528
+- **Poznámka:** Peková na akci v Mostě (Chcimír): data Stassenovi (Amsterdam), EP odmítl Füllmicha; Peková píše Füllmichovi (narozeniny 5. 5.); petice jako EU precedens; plánovaná audience u Petra Pavla; Pavlův právník ji odmítl — jde přesto.
+- **Zpracováno:** ano
