@@ -1,0 +1,27 @@
+# Stochastický teror — sledované výroky
+
+Stochastický teror označuje veřejnou rétoriku, která cíleně dehumanizuje nebo jmenovitě terčuje konkrétní osoby či skupiny způsobem, který statisticky předvídatelně zvyšuje riziko fyzického násilí — i bez přímé výzvy. Odesílatel si zachovává popiratelnost, odpovědnost za případný čin nese vykonavatel.
+
+Tato stránka eviduje výroky splňující klíčové znaky: **pojmenovaný terč** + **dehumanizace nebo výzva k trestu**.
+
+---
+
+## Přehled výroků
+
+| Autor | Jmenovaná osoba / skupina | Přesná citace | Datum | Zdroj |
+|-------|--------------------------|---------------|-------|-------|
+| Jiří Černohorský | Petr Pavel | „Tohle jsou vlasti zrádci, jo, prostě jsou to zrádci České republiky a já jsem jednoznačně pro obnovení trestu smrti za vlastizradu a velezradu. [...] Protože to by vysel už aj pávek, tedy Petr Pavel." | 2026-04-02 | [Návrat z bandovolené](_zdroje.md#jiří-černohorský--návrat-z-bandovolené-2-4-2026) |
+| Pavel Zítko | Hynek Herrmann | „A jeden z největších zmrdů očkovací mafie, Hynek Herrmann, byl aktérem a propagátorem zabodávání těhotných, byl to šéf Ústavu pro matku a dítě v Podolí. [...] nezapomněl jsem vzpomenout tohodle zmrda se jménem Hynek Herrmann." | 2026-04-15 | [Odmítnutí Máte slovo, italská studie, ČT budget](_zdroje.md#pavel-zítko--odmítnutí-máte-slovo-italská-studie-čt-budget-15-4-2026) |
+| Pavel Zítko | Roman Prymula | „se Lhářem, manipulátorem, plukovníkem Primulou a profesorem Jiřím Beranem, který podporoval zapíchávání lidí 60+, povinně" | 2026-04-15 | [Odmítnutí Máte slovo, italská studie, ČT budget](_zdroje.md#pavel-zítko--odmítnutí-máte-slovo-italská-studie-čt-budget-15-4-2026) |
+| Pavel Zítko | Roman Prymula, Roman Chlíbek, Jaroslav Fléger, Václav Hořejší, Petr Smejkal, Milan Kubek, Jan Konvalenka, Rastislav Maďar | „ČT se tímto konáním naprosto naplno zapojila do podporování pokusů na lidech [...] prostřednictvím osob: Roman Prymula, Roman Chlíbek, Jaroslav Fléger, Václav Hořejší, Petr Smejkal, Milan Kubek, Jan Konvalenka, Rastislav Maďar a další." | 2026-04-15 | [Odmítnutí Máte slovo, italská studie, ČT budget](_zdroje.md#pavel-zítko--odmítnutí-máte-slovo-italská-studie-čt-budget-15-4-2026) |
+| Pavel Zítko | všichni odpovědní (COVID opatření) | „Tečka za covidem bude, až všichni odpovědní budou stát před tribunálem a budou čelit spravedlivému trestu." | 2026-04-10 | [Zahřívací kolo COVID-19](_zdroje.md#pavel-zítko--zahřívací-kolo-covid-19-chemoterapie-5g-tribunál-10-4-2026) |
+| Pavel Zítko | Primula, Chlíbek, Flegger, Kubek, Konvalenka, Maďar | „jenom otázkou času, kdy [...] budou před tribunálem se ze svých činů zodpovídat osoby, jako je Primula, Chlíbek, Flegger, Kubek, Konvalenka, Maďar" | 2026-04-17 | [Máte slovo živě: Prymula, zákaz Prahy](_zdroje.md#pavel-zítko--máte-slovo-živě-prymula-zákaz-prahy-17-4-2026) |
+| Jiří Černohorský | Mikuláš Minář | „není možný, aby ten minář prostě nebyl vlastně nastrčenou loutkou těch neziskových zmrdů, který celý život jenom parazitují" | 2026-04-02 | [Návrat z bandovolené](_zdroje.md#jiří-černohorský--návrat-z-bandovolené-2-4-2026) |
+
+---
+
+## Poznámky
+
+- **Popiratelnost:** Přímá výzva k násilí zpravidla chybí — terčování probíhá označením osoby za „zrádce", „zločince" nebo „zvrhlíka" v kontextu, kde publikum ví, co s takovými osobami „patří dělat".
+- **Kumulativní efekt:** Opakované pojmenování stejné osoby ve stejném rámci (kriminalita, zrada, mafie) stupňuje riziko bez nutnosti explicitní výzvy.
+- **Sledování:** Nové záznamy přidávej chronologicky do tabulky výše.
