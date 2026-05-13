@@ -14,7 +14,21 @@
       "PowerShell(gh repo *)",
       "PowerShell(gh run *)",
       "PowerShell(gh api *)",
-      "PowerShell(mkdocs build *)"
+      "PowerShell(mkdocs build *)",
+      "PowerShell(Get-ChildItem \"e:\\\\docker\\\\dezowiki\\\\prepisy\\\\\" | Where-Object { $_.Name -match \"Jindřich-Rajchl\" } | Sort-Object Name | Select-Object -Skip 3 -First 3 -ExpandProperty Name)",
+      "PowerShell(Get-ChildItem \"e:\\\\docker\\\\dezowiki\\\\prepisy\\\\\" | Where-Object { $_.Name -match \"Lenka-Tarabová\" } | Sort-Object Name | Select-Object -Skip 3 -First 3 -ExpandProperty Name)",
+      "PowerShell(Get-ChildItem \"e:\\\\docker\\\\dezowiki\\\\prepisy\\\\\" | Where-Object { $_.Name -match \"Konspirátor-Boldy\" } | Sort-Object Name | Select-Object -Skip 3 -First 3 -ExpandProperty Name)",
+      "PowerShell(Get-ChildItem \"e:\\\\docker\\\\dezowiki\\\\prepisy\\\\\" | Where-Object { $_.Name -match \"Československo-TV2\" } | Sort-Object Name | Select-Object -Skip 3 -First 3 -ExpandProperty Name)",
+      "PowerShell(Get-ChildItem \"e:\\\\docker\\\\dezowiki\\\\prepisy\\\\\" | Where-Object { $_.Name -match \"Černohorský\" } | Sort-Object Name | Select-Object -Skip 3 -First 3 -ExpandProperty Name)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(git mv *)",
+      "PowerShell(Move-Item *)",
+      "Bash(git rm *)",
+      "Bash(git restore *)",
+      "Bash(Boldy)",
+      "Bash(Černohorský\")"
     ]
   }
 }

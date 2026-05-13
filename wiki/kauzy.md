@@ -46,6 +46,20 @@ V krátkém videu natočeném v Bratislavě se Rajchl jednoznačně staví za Zd
 
 ---
 
+## Trestní oznámení za schvalování genocidy — Šarapatka vs. Rajchl
+
+### Rajchl obviněn ze „schvalování genocidy" za výrok v Máte slovo
+
+Zdeněk Šarapatka (přezdívaný „Špína"), neúspěšný kandidát na různé funkce, podal prostřednictvím svého advokáta Artura Ostrého trestní oznámení na Rajchla za trestný čin schvalování genocidy (§ 405 TZ). Kontext: v pořadu Máte slovo se Rajchla Michala Jílková hypoteticky zeptala, zda by si přál, aby Rusové odešli z území, která v současnosti kontrolují. Rajchl odpověděl, že si to nepřeje — protože v takovém případě by tam nastal masový masakr ruskojazyčného obyvatelstva ze strany ukrajinské armády. Jako analogii zmínil americko-afghánský případ z roku 2021, kdy po evakuaci USA byli vyvražďováni afghánští spolupracovníci i s rodinami.
+
+Rajchl to označuje za absurdní: byl obviněn ze „schvalování genocidy" za výrok, v němž si genocidu výslovně **nepřál**. Tvrdí, že kdyby byl obvinen, půjde k soudu bez poslanecké imunity — „rád bych si to absurdní divadlo přišel podívat." Zároveň plánuje podat podnět ke kárnímu řízení na advokáta Ostrého, protože etický kodex advokátům zakazuje podávat zjevně nedůvodná trestní oznámení na jiného advokáta.
+
+Rajchl případ zasazuje do širší logiky: na Ukrajině je možné schvalovat atentát na Fica, přát smrt celému národu — „ale není možné si nepřát genocidu ze strany banderovců vůči civilnímu obyvatelstvu na Donbase."
+
+**Zdroje:** [Rajchl — Šarapatka: trestní oznámení za genocidu, 2026-04-16](_zdroje.md#jindřich-rajchl--šarapatka-trestní-oznámení-za-genocidu-16-4-2026)
+
+---
+
 ## Hrozby a dvojí metr justice
 
 ### Policie neřeší výzvu k žářskému útoku na Rajchlův dům

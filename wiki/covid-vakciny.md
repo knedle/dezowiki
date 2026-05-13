@@ -321,6 +321,21 @@ Pavel Zítko oznámil, že v Amsterdamu proběhlo soudní jednání, kde jsou ob
 
 ---
 
+### Italská studie: vyšší riziko rakoviny po vakcinaci COVID-19
+
+Zítko v druhém živém vysílání 14. dubna 2026 sdílí italskou studii, která dle jeho výkladu prokázala, že lidé, kteří dostali alespoň jednu dávku vakcíny COVID-19, měli ve srovnání s neočkovanými:
+- o **34 %** vyšší pravděpodobnost vzniku kolorektálního karcinomu
+- o **54 %** vyšší pravděpodobnost vzniku rakoviny prsu
+- o **62 %** vyšší pravděpodobnost vzniku rakoviny močového měchýře
+
+Zítko cituje tuto studii jako jeden z dokladů, proč je nutné, aby ČT pozvala do pořadu Máte slovo i kritiky vakcinace. Zároveň sdílí výzvu německého poslance AFD **Volkera Richtera**, který v Bundestagu požaduje moratorium na všechny mRNA vakcíny a označuje celou vakcinační kampaň za „největší podvod od vzniku Německa."
+
+⚡ **Konflikt:** Studie, na níž Zítko odkazuje, není blíže specifikována; regulační orgány EU (EMA, SÚKL) žádnou takovou kauzální spojitost s nárůstem onkologických onemocnění nepřiznaly.
+
+**Zdroje:** [Zítko — Odmítnutí Máte slovo, italská studie, 2026-04-15](_zdroje.md#pavel-zítko--odmítnutí-máte-slovo-italská-studie-čt-budget-15-4-2026)
+
+---
+
 ### Roman Prymula v ČT „Máte slovo": 15 000 mrtvých v ČR vs. CDC dokument s čistě negativním přínosem
 
 Zítko reaguje na avizovaný díl pořadu Michaely Jílkové „Máte slovo" (16. 4. 2026), kde má vystoupit Roman Prymula na téma očkování. Ve veřejném prohlášení ČT v upoutávce prý Prymula tvrdil, že vakcíny COVID-19 způsobily 15 000 úmrtí v ČR a 20 milionů celosvětově. Zítko označuje tato čísla za „tisíckrát podhodnocená": jako protidůkaz cituje dokument CDC z vlády USA (veřejně dostupný, přiložený ke spisu u OS v Chomutově), kde stálo, že k 28. srpnu 2021 zemřelo v USA 150 000 lidí a očkování má „čistě negativní přínos" — tj. více lidí umírá po vakcíně než na samotný COVID-19. Zítko vyzývá ČT, aby pro vyváženost pozvala do pořadu i jeho. Jako další reference uvádí Dr. Ute Krugerovou a její knihu *Geimpft Gestorben* (Očkován, zemřel).

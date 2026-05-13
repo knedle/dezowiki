@@ -557,3 +557,45 @@
 - **Délka:** 13:00 | Zhlédnutí: neznámo
 - **Poznámka:** Live z volebního štábu Fidesz v Budapešti; Peter Magyar a Benešovy dekrety, EU vydírání Maďarska (21K migrantů nebo 10B Kč), Hormuzský průliv uzavřen, V4 strategie, Ceny Anděl.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Benešovy dekrety: CNN Prima, Peter Magyar (14. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-14_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook / sdílení CNN Prima News)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1621919665684406>
+- **Datum záznamu:** 2026-04-14
+- **Délka:** 1:50 | Zhlédnutí: 180 317
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — EU: 27 supermilníků pro Maďarsko (15. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-15_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1360324889536365>
+- **Datum záznamu:** 2026-04-15
+- **Délka:** 5:51 | Zhlédnutí: 203 879
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Šarapatka: trestní oznámení za genocidu (16. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-16_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/768084392909371>
+- **Datum záznamu:** 2026-04-16
+- **Délka:** 3:33 | Zhlédnutí: 88 664
+- **Zpracováno:** ano
+
+## Pavel Zítko — Odmítnutí Máte slovo, italská studie, ČT budget (15. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-15_Československo-TV2_Videoportál_1.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1006486658711912>
+- **Datum záznamu:** 2026-04-14 (vysílání), zveřejněno 2026-04-15
+- **Délka:** 54:12 | Zhlédnutí: 548
+- **Poznámka:** Druhé vysílání ze dne 14. 4.; reakce na odmítnutí dramaturgem Smršem, sdílení italské studie o rakovině po vakcinaci, ČT budget, AFD Richter moratorium.
+- **Zpracováno:** ano
+
+## Pavel Zítko — Máte slovo živě: Prymula, zákaz Prahy (17. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-17_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1248798860707775>
+- **Datum záznamu:** 2026-04-16 (vysílání), zveřejněno 2026-04-17
+- **Délka:** 1:36:55 | Zhlédnutí: 702
+- **Poznámka:** Zítko sleduje živě pořad Máte slovo (16. 4.) a komentuje vystoupení Prymuly; popisuje zamítnutí žádosti o vstup do Prahy policií (24měsíční zákaz pobytu).
+- **Zpracováno:** ano

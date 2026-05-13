@@ -150,6 +150,26 @@ Rajchl v živém vysílání z Budapešti (12. 4. 2026) popisuje konkrétní př
 
 ---
 
+### EU: 27 supermilníků pro Maďarsko — 35 miliard EUR za suverenitu
+
+Ve videu z 15. 4. 2026 Rajchl detailně rozebírá 27 podmínek (tzv. supermilníků, anglicky *super milestones*), které EU stanovila Maďarsku jako podmínku vyplacení 35 miliard EUR — peněz, na něž má Maďarsko plný právní nárok, ale EU je protiprávně zadržuje. Rajchl vybírá 5 nejvýraznějších:
+
+1. **Zrušení legislativy diskriminující LGBTQ** — zákon zakazující propagaci „duhové ideologie 115 pohlaví na základních školách"
+2. **Změna azylové politiky** v souladu s rozhodnutím Soudního dvora EU — fakticky otevřít masovou migraci
+3. **Odblokování pomoci Ukrajině** — zrušit veto k půjčce 90 miliard EUR státu, jehož představitelé nedávno Orbánovi hrozili fyzickou likvidací
+4. **Podpora všech dalších sankcí vůči Rusku** — hlasovat pro každý nový sankční balíček
+5. **Personální změny** — nahradit vedení klíčových státních institucí a podniků dle bruselských požadavků
+
+Rajchl označuje toto jako „čisté vydírání" a EU jako „spolek vyděračů", jehož chování „jde za hranice normálního chápání." Upozorňuje, že pokud by EU tímto způsobem zasahovala do ČR (vyměnit šéfy ČNB, nejvyššího státního zástupce, vedení státních podniků), šlo by o přímý útok na suverenitu. Sleduje, zda Peter Magyar — nový maďarský premiér, oblíbenec Bruselu — podmínkám podlehne.
+
+> „Evropská unie se definitivně přihlásila k tomu, že není ničím jiným než spolkem vyděračů." — Jindřich Rajchl, [EU: 27 supermilníků, 2026-04-15](_zdroje.md#jindřich-rajchl--eu-27-supermilníků-pro-maďarsko-15-4-2026)
+
+> „Česká suverenita není na prodej. Mějme se hezky, buďte pro a budu moc rád za šíření tohoto videa, aby se lidé v České republice dozvěděli, co jsou soudruzi v Bruselu zač." — Jindřich Rajchl, [EU: 27 supermilníků, 2026-04-15](_zdroje.md#jindřich-rajchl--eu-27-supermilníků-pro-maďarsko-15-4-2026)
+
+**Zdroje:** [Rajchl — EU: 27 supermilníků, 2026-04-15](_zdroje.md#jindřich-rajchl--eu-27-supermilníků-pro-maďarsko-15-4-2026)
+
+---
+
 ### Masová migrace jako bezpečnostní selhání druhé generace
 
 Rajchl v Bratislavě uvádí Southport (Velká Británie) jako konkrétní varování V4: Axel Rudakubana — potomek migrantů z Rwandy — vběhl do taneční třídy 24 dívek ve věku 6–11 let a začal je bodat; tři zabity, ostatní s traumatem na celý život. Britská média ho označila za „rodilého Welshmana" a fakt jeho migrantského původu potlačovala. Rajchl z toho vyvozuje: muslimští migranti ani ve druhé generaci nepřejímají hodnoty hostitelské společnosti, a migrační pakt by tuto situaci přinesl i do V4.
@@ -212,11 +232,17 @@ Tarabová v nedělním vysílání z 26. dubna 2026 informuje o nové eskalaci: 
 
 ---
 
-### Peter Magyar a Benešovy dekrety — jediný vrcholový euroatlantický politik otevřeně je zpochybňující
+### Peter Magyar a Benešovy dekrety — den po volbách jako varování
 
 Rajchl v živém vysílání z Budapešti (Fidesz volební noc, 12. 4. 2026) upozorňuje, že Peter Magyar — šéf maďarské opoziční strany TISZA, favorit EU a bruselských médií — je ze současných vrcholových politiků v Evropě „jediný člověk, který takto jednoznačně a otevřeně spochybňuje Benešovy dekrety." Rajchl to označuje za obzvláště varovné: Magyara aktivně podporují česká média i koaliční politici, přestože si jeho pozici k dekretům buď nevšimli, nebo ji záměrně přehlíží.
 
-**Zdroje:** [Rajchl — Budapest, Fidesz volební noc, 2026-04-12](_zdroje.md#jindřich-rajchl--budapest-fidesz-volební-noc-12-4-2026)
+V rozhovoru pro CNN Prima News (14. 4. 2026) Rajchl toto varování zpřesňuje: Magyar prohlásil „V4 ano, ale musíme dořešit Benešovy dekrety" nikoliv před volbami jako předvolební rétorika za hlasy, ale hned **den po volbách**. „Kdyby to otevřel před volbami, tak bych to pochopil. Ale když to otevře den po volbách, tak by ten vykřičník měl být v hlavě každého jednoho z nás." Benešovy dekrety označuje Rajchl za „základní pilíř majetkového právního uspořádání" po druhé světové válce a poukazuje na existující právní hrozby: rodina Liechtensteinů opakovaně soudí, slovensko-maďarský spor u ESLP skončil pro Maďarsko úspěšně.
+
+Rajchl zaujímá kategorickou pozici: žádná debata o Benešových dekretech není přípustná, ČR by neměla hostit sjezd Sudetoněmeckého Landsmannschaftu, a měla by jasně odmítnout jednání s Lichtensteiny i Maďary na toto téma.
+
+> „Měli bychom jasně říci, že tahle otázka je pro nás uzavřená a není vůbec k diskuzi." — Jindřich Rajchl, [CNN Prima — Benešovy dekrety, 2026-04-14](_zdroje.md#jindřich-rajchl--benešovy-dekrety-cnn-prima-peter-magyar-14-4-2026)
+
+**Zdroje:** [Rajchl — Budapest, Fidesz volební noc, 2026-04-12](_zdroje.md#jindřich-rajchl--budapest-fidesz-volební-noc-12-4-2026), [Rajchl — CNN Prima, 2026-04-14](_zdroje.md#jindřich-rajchl--benešovy-dekrety-cnn-prima-peter-magyar-14-4-2026)
 
 ---
 
