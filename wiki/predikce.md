@@ -12,6 +12,26 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Rusko zaútočí na Evropu v létě 2026 (24. 4. 2026)
+
+**Předpověď:** Rusko s „velmi vysokou pravděpodobností" podnikne v létě 2026 útok na evropská území mimo Ukrajinu — pravděpodobně na Německo, Francii nebo Británii. Vrabel vychází z analýzy Scotta Rittera o plánované rozhodující ofenzívě a z vlastního přesvědčení, že Evropa se fakticky stala stranou konfliktu tím, že vyrábí zbraně a financuje Kyjev. Rusko zároveň spoléhá na nezasáhnutí USA (Trumpův výrok o NATO jako „papírovém drakovi").
+
+**Horizont:** léto 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Večerní zprávy: Rusko, Írán, EU, 24. 4. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-rusko-írán-eu-24-4-2026)
+
+---
+
+### Ladislav Vrabel — Příděly potravin v Evropě (25. 4. 2026)
+
+**Předpověď:** Evropu čeká ekonomická krize hlubší než v době COVIDu, přičemž nelze vyloučit zavedení přídělů potravin — toto varování cituje z vystoupení Christiny Lagarde (prezidentky ECB).
+
+**Horizont:** nejbližší měsíce od dubna 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Večerní zprávy: globalisté, Írán, ekonomická krize, 25. 4. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-globalisté-írán-ekonomická-krize-25-4-2026)
+
+---
+
 ### Jindřich Rajchl — Prezidentské volby 2028 jako šance sjednotit opozici (29. 4. 2026)
 
 **Předpověď:** Prezidentské volby v roce 2028 jsou první reálnou šancí sjednotit českou opozici za jediného kandidáta a nahradit Petra Pavla, který realizuje politiku eroze suverenity (Benešovy dekrety, euro, EU superstat). Výzva zazněla na debatě na Novotného lávce za přítomnosti Miloše Zemana a dalších.

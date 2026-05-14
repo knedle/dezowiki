@@ -421,3 +421,25 @@ Zítko sdílí a komentuje vystoupení Dr. Helmuta Sterze (dlouholetý toxikolog
 Tarabová informuje o hlasování sněmovního výboru pro zdravotnictví (29. dubna 2026) o Národní očkovací strategii (NOS). Výbor má 25 členů (14 koalice ku 11 opozice) — hlasování proběhlo v koaliční většině. Jediný, kdo byl otevřeně proti, byl poslanec SPD Dr. Sýla; Jindřich Rajchl byl přítomen jako nehlasující pozorovatel (jako europoslanec má právo navštívit jakýkoli výbor). NOS připravená pod ministerstvem Válka byla dle Tarabové neoprávněně schválena karetářskou vládou Petra Fialy, která v té době již byla v demisi. WHO označuje za soukromou organizaci financovanou Billem Gatesem. Jako škodlivé účinky očkování uvádí autismus, ADHD, ekzémy, alergie a onkologická onemocnění u dětí. Vyzývá k odmítnutí jakýchkoli nátlaků: „nátlaky jsou pro otroky." Připomíná komunální volby 9.–10. října 2026 a výměnu 27 senátorských křesel jako příležitost ke změně.
 
 **Zdroje:** [Tarabová — NOS: hlasování výboru pro zdravotnictví, 2026-04-30](_zdroje.md#lenka-tarabová--nos-hlasování-výboru-pro-zdravotnictví-30-4-2026)
+
+---
+
+### COVID jako vojenská operace — krytí pro miliardové zakázky bez výběrových řízení
+
+Ladislav Vrabel zastává názor, že COVID-19 nebyl jen zdravotní krizí, ale záměrnou operací sloužící k obejití zákonů o veřejných zakázkách. Vlády dle něj vytvořily stav strachu, který je zbavil povinnosti zadávat výběrová řízení — výsledkem byly miliardové zakázky na vakcíny sjednané za nepřezkoumatelných podmínek. Smlouvy s výrobci vakcín byly podle Vrabela záměrně začerněny a obsahovaly ustanovení, že výrobce nenese žádnou zodpovědnost za škody způsobené vakcínou. Ursulou von der Leyen zakoupila vakcíny pro EU za více než 100 miliard EUR.
+
+Vrabel označuje lockdowny jako hrubé porušení lidských práv: vlády zakázaly vycházení z domu, práci, styk s přáteli i loučení se s umírajícími blízkými. Česká republika přitom zbytečně vylila vakcíny v hodnotě 8 miliard Kč.
+
+> „V covidu společnosti vytvořily strach, aby mohly obejít zákon o veřejných zakázkách a aby mohly udělat obrovské, miliardové obchody s vakcínami bez zadání výběrových řízení." — Ladislav Vrabel, [Nedělní vysílání 26. 4. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-covid-propaganda-válka-26-4-2026)
+
+**Zdroje:** [Vrabel — Nedělní vysílání: COVID, propaganda, válka, 2026-04-26](_zdroje.md#ladislav-vrabel--nedělní-vysílání-covid-propaganda-válka-26-4-2026)
+
+---
+
+### COVID a válka na Ukrajině — stejná propaganda šablona
+
+Vrabel v nedělním vysílání (26. 4. 2026) upozornil na to, co označuje za opakující se vzorec: totožná metoda byla použita při pandemii i při mobilizaci veřejnosti pro válku na Ukrajině. V obou případech šlo dle něj o vytvoření strachu (COVID = mrazáky na ulicích, Putinova invaze = napadení Evropy), který ospravedlňoval obrovské zakázky mimo standardní zákonné postupy. Mluvil o tom před Evropským parlamentem v Bruselu kolem roku 2020 a říká, že situace z roku 2022 potvrdila jeho tezi.
+
+Upozorňuje také na to, co ve vysílání popsala Jana Lorencová: na Ukrajině existuje termín pro legalitu krádežsou schváleny zákony umožňující korupci, takže krádež probíhá „zákonně". Vrabel označuje válečnou propagandu za nástroj legalizace korupce v měřítku celých států.
+
+**Zdroje:** [Vrabel — Nedělní vysílání: COVID, propaganda, válka, 2026-04-26](_zdroje.md#ladislav-vrabel--nedělní-vysílání-covid-propaganda-válka-26-4-2026)

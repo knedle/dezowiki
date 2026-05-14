@@ -858,3 +858,30 @@
 - **Délka:** 0:00:36 | Zhlédnutí: 2 633
 - **Poznámka:** Tarabová sdílí záběr ze CNN Prima News kde vystupuje „Schmarcze" (Karel Schwarzenberg). Označuje ho za „regulérního psychopata", ironicky děkuje moderátorům Kulidakisovi a Stoniši za jeho zvání. Přepis zachytil jiné video (diskuse o pojmu „rusák"). Obsah vyvozen z popisu a titulku.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Večerní zprávy: Rusko, Írán, EU (24. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-24_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1251075793844583>
+- **Datum záznamu:** 2026-04-24
+- **Délka:** 1:06:01
+- **Poznámka:** Večerní zprávy se Zuzkou. Klíčová témata: Rusko hrozí útočit na EU zbrojní výrobce (včetně českých firem), Scott Ritter — rozhodující ruská ofenzíva léto 2026, ČR překlasifikována Ruskem z „napadené fašisty" na „spolupracovníka", 90 mld. EUR pro Ukrajinu, EU Hormuz, NATO čl. 5 pochybnosti (Tusk), US rakety docházejí, Srbsko-Putin plyn za 50 % ceny, Vladimír Štěpán — falešný mandát.
+- **Zpracováno:** ano
+
+## Ladislav Vrabel — Večerní zprávy: globalisté, Írán, ekonomická krize (25. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-25_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1442336343774429>
+- **Datum záznamu:** 2026-04-25
+- **Délka:** 1:00:58
+- **Poznámka:** Večerní zprávy se Zuzkou. Klíčová témata: JP Morgan 1,5 bilionu USD do evropské obrany (= globalisté financují zbrojní průmysl jako Hitler), FBI vyšetřuje zmizení 15+ amerických vědců (jaderné/kosmické technologie), Lagarde varuje před příděly potravin v Evropě, EU ekonomika v sutinách (ztráta ruských energií, BYD vs. německá auta), Írán — Trump zrušil Pakistan talks, Finsko — zákon o jaderných zbraních, Zelenský-Aliyev.
+- **Zpracováno:** ano
+
+## Ladislav Vrabel — Nedělní vysílání: COVID, propaganda, válka (26. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-26_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1578828729877302>
+- **Datum záznamu:** 2026-04-26
+- **Délka:** 2:32:36
+- **Poznámka:** Nedělní živé vysílání. Klíčová témata: COVID jako vojenská operace — krytí pro miliardové zakázky bez výběrových řízení, COVID = Ukrajina (stejná propaganda šablona), vakcíny bez odpovědnosti výrobce, lockdowny jako porušení lidských práv, Lavrov hrozí Evropě, 90 mld. EUR pro Ukrajinu schváleno s Babišem, EU čl. 42.7 — kolektivní obrana při ruském útoku.
+- **Zpracováno:** ano
