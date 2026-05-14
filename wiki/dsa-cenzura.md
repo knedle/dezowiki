@@ -59,3 +59,43 @@ Jiří Černohorský popisuje, že mu byly smazány všechny facebookové profil
 > „V české televizi moderátor umlčel primátora města Plzně. Takže o čem se tady chcete bavit? Jaká svoboda slova? Jaká svoboda názoru?" — Jiří Černohorský, [TikTok živě, 2025-06-08](_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025)
 
 **Zdroje:** [Černohorský — TikTok živě, 2025-06-08](_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025)
+
+---
+
+## COVID rozsudky: odsouzení za varování
+
+### Konkrétní případy odsouzených za covidové výroky
+
+Pavel Zítko v dubnu 2026 opakovaně jmenuje několik osob, které jsou dle jeho výkladu trestně stíhány nebo odsouzeny za kritiku covidových opatření a vakcín — přitom ti, kdo lidi ke strachu naváděli, stíháni nejsou:
+
+- **Soňa Peková** — nejméně 4 trestní stíhání za „šíření poplašné zprávy" v souvislosti s analýzami vakcín
+- **Tomáš Čermák** — obžalován z terorismu
+- **Sláva Popelka** — trestně stíhán za covidové výroky
+- **Pavel Křivka** (pardubický politik) — odsouzen (podmíněný trest) za nošení mikiny s písmenem „Z"
+
+Zítko tyto případy hodnotí jako doklad, že justice je závislá na politické moci: „Takhle nejedná nezávislá justice. Nýbrž justice zcela závislá na politickém režimu."
+
+**Zdroje:** [ČsTV2 — Interpelace Majerová-Tejc, 23. 4. 2026](_zdroje.md#pavel-zítko--interpelace-majerová-tejc-svoboda-slova-23-4-2026)
+
+---
+
+### Interpelace Majerová-Tejc: vláda slibuje změny
+
+Zuzana Majerová (Trikolora/SPD) interpelovala 23. dubna 2026 ministra spravedlnosti Jeronima Tejce a žádala vyjádření k odsouzení Martiny Bednářové a dalším případům stíhání za výroky o covidu. Tejc odpověděl, že:
+- vláda se hlásí ke svobodě slova
+- stíhání za projev je možné jen v případě, kdy jiné mechanismy (přestupkový zákon) nestačí
+- plánuje **změnu trestního zákoníku**, která zúží počet oblastí, za které lze postihnout výroky, a to **do konce dubna 2026**
+
+Zítko Tejcovu odpověď hodnotí skepticky: podle něj za sto dní nové vlády nebylo zrušeno jediné sporné rozhodnutí a jde jen o „sliby, keci a nic".
+
+> „Tato vláda se hlásí ke svobodě slova." — Jeroním Tejc (ministr spravedlnosti), citováno Zítkem, [ČsTV2 — Interpelace, 23. 4. 2026](_zdroje.md#pavel-zítko--interpelace-majerová-tejc-svoboda-slova-23-4-2026)
+
+**Zdroje:** [ČsTV2 — Interpelace Majerová-Tejc, 23. 4. 2026](_zdroje.md#pavel-zítko--interpelace-majerová-tejc-svoboda-slova-23-4-2026)
+
+---
+
+### Zítko: dvouletý soudní zákaz vstupu do Prahy
+
+Pavel Zítko zmínil (duben 2026), že mu soud uložil dvouletý zákaz návštěvy Prahy — podmínku, kterou označuje za absurdní, protože se prý ani minutu nemohl hájit. Jako jeden z mluvčích COVID tour uvádí, že tato překážka ovlivnila plánování zastávek a Svojetice u Říčan jsou tak „nejblíže Praze", kde se na tour v daném období mohou setkat.
+
+**Zdroje:** [ČsTV2 — Pozvánka Svojetice, 24. 4. 2026](_zdroje.md#pavel-zítko--pozvánka-na-covid-tour-svojetice-24-4-2026), [ČsTV2 — Interpelace Majerová-Tejc, 23. 4. 2026](_zdroje.md#pavel-zítko--interpelace-majerová-tejc-svoboda-slova-23-4-2026)

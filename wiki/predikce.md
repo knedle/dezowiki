@@ -12,3 +12,25 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Pavel Zítko — Česká COVID rozsudky jako domino pro svět (24. 4. 2026)
+
+**Předpověď:** Pokud dojde v ČR ke zrušení sporných COVID rozsudků (Peková, Čermák, Popelka a další), spustí to vlnu podobných zrušení v dalších zemích světa — efekt domina, který povede ke svobodě i Reinera Füllmicha.
+
+> „Aby se ty skandální covidové rozsudky zlomily tady u nás nejdřív, a potom jako cvrknutí do domina to bude padat všude dál po světě." — Pavel Zítko, [ČsTV2 — COVID tour promo, 24. 4. 2026](_zdroje.md#pavel-zítko--covid-tour-promo-jízda-do-svojetic-24-4-2026)
+
+**Horizont:** neurčeno (podmíněno zrušením českých rozsudků)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [ČsTV2 — COVID tour promo, 24. 4. 2026](_zdroje.md#pavel-zítko--covid-tour-promo-jízda-do-svojetic-24-4-2026)
+
+---
+
+### Jeroním Tejc — Změna trestního zákoníku v oblasti svobody slova do konce dubna 2026 (23. 4. 2026)
+
+**Předpověď:** Ministr spravedlnosti Jeroním Tejc v reakci na interpelaci Zuzany Majerové avizoval, že vláda připravuje změnu trestního zákoníku, která zúží okruh trestných činů postihujících výroky, a návrh zveřejní „možná už konec tohoto měsíce" (tj. do konce dubna 2026).
+
+> „My skutečně plánujeme změny... navrhujeme, aby v oblasti trestního práva se zůžil počet oblastí, za které by mohl být daný člověk ve chvíli, kdy se vyjadřuje, postižen. Myslím si, že to bude možná už konec tohoto měsíce." — Jeroním Tejc, citováno Zítkem, [ČsTV2 — Interpelace, 23. 4. 2026](_zdroje.md#pavel-zítko--interpelace-majerová-tejc-svoboda-slova-23-4-2026)
+
+**Horizont:** konec dubna 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [ČsTV2 — Interpelace Majerová-Tejc, 23. 4. 2026](_zdroje.md#pavel-zítko--interpelace-majerová-tejc-svoboda-slova-23-4-2026)
+

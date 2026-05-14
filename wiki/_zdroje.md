@@ -733,6 +733,51 @@
 - **Poznámka:** Peková na akci v Mostě (Chcimír): data Stassenovi (Amsterdam), EP odmítl Füllmicha; Peková píše Füllmichovi (narozeniny 5. 5.); petice jako EU precedens; plánovaná audience u Petra Pavla; Pavlův právník ji odmítl — jde přesto.
 - **Zpracováno:** ano
 
+## Pavel Zítko — Interpelace Majerová-Tejc: svoboda slova (23. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-24_Československo-TV2_Videoportál_2.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1440659237276977&_rdr>
+- **Datum záznamu:** 2026-04-23 (večer)
+- **Délka:** 0:16:55 | Zhlédnutí: 497
+- **Poznámka:** Zítko live čte interpelaci Majerové Tejcovi (svoboda slova, COVID rozsudky — Bednářová, Čermák, Popelka, Křivka); Tejcova odpověď — slibuje změnu trestního zákoníku do konce dubna 2026; Zítko skeptický: 100 dní vlády bez výsledků; preview Tejce vs. Decroix na CNN Prima.
+- **Zpracováno:** ano
+
+## Pavel Zítko — Pozvánka na COVID tour: Svojetice (24. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-24_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=807804182019961&_rdr>
+- **Datum záznamu:** 2026-04-24
+- **Délka:** 0:02:01 | Zhlédnutí: 1 197
+- **Poznámka:** Krátká pozvánka z cesty do Svojetic — COVID tour, Master Horse Club, Peková, autogramiáda knih, 15:00–18:00.
+- **Zpracováno:** ano
+
+## Pavel Zítko — COVID tour promo: jízda do Svojetic (24. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-24_Československo-TV2_Videoportál_1.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=2626636881070924&_rdr>
+- **Datum záznamu:** 2026-04-24
+- **Délka:** 0:19:11 | Zhlédnutí: 337
+- **Poznámka:** Zítko live z auta — vakcíny jako „biologická zbraň hromadného ničení" (depopulace + sterilizace); pokusy na lidech do prosince 2023; Zákon 11/1918; Zítko má soudní zákaz vstupu do Prahy (2 roky); plán COVID tour (Bedřichov, Krásná Lípa, Příšov); petice Füllmich — domino efekt.
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — FB live: euro a suverenita (26. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-26_Jindřich-Rajchl_Facebook-Live.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/903841216009144>
+- **Datum záznamu:** 2026-04-26
+- **Délka:** 1:01:04
+- **Poznámka:** Přepis neúplný (zachyceno ~38 sekund z 61 minut). Dostupný fragment: vlastní měna = znak suverenity; země mimo eurozónu rostou rychleji; 70 % Čechů nechce euro; vláda má realizovat vůli lidí.
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Petr Pavel: EU superstát a Masaryk (27. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-27_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/26912898018306002>
+- **Datum záznamu:** 2026-04-27
+- **Délka:** 0:01:04 | Zhlédnutí: 204 108
+- **Poznámka:** Rajchl reaguje na Pavlovo prosazování Spojených států evropských — prezident nemůže prosazovat zánik suverenity ČR; EU superstat = sen Německa/Francie, ne ČR; Pavel protikladem Masaryka; 70 % Čechů nechce euro, migranty ani Green Deal.
+- **Zpracováno:** ano
+
 ## Pavel Zítko — Peková: mezinárodní podpora jako divadlo, COVID tour (26. 4. 2026)
 - **Soubor:** [přepis](prepisy/done/2026-04-26_Československo-TV2_Videoportál.txt)
 - **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
