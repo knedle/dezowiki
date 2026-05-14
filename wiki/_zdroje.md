@@ -903,3 +903,21 @@
 - **Délka:** 2:32:36
 - **Poznámka:** Nedělní živé vysílání. Klíčová témata: COVID jako vojenská operace — krytí pro miliardové zakázky bez výběrových řízení, COVID = Ukrajina (stejná propaganda šablona), vakcíny bez odpovědnosti výrobce, lockdowny jako porušení lidských práv, Lavrov hrozí Evropě, 90 mld. EUR pro Ukrajinu schváleno s Babišem, EU čl. 42.7 — kolektivní obrana při ruském útoku.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Večerní zprávy: 1. máj, EU, Chorvatsko (1. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-01_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/959404617022228>
+- **Datum záznamu:** 2026-05-01
+- **Délka:** 1:01:26
+- **Poznámka:** Večerní zprávy 1. máje se Zuzkou. Klíčová témata: prvomájový průvod Praha (Antifa, SPD, PRO, KSČM); Vrabel: Ukrajina = fašistický stát z definice (Zelenský jako kult vůdce, Bandera, zakázaná opozice, militarismus); Vrabel neplánuje demonstrace (online vzdělávání); predikce: 40 % světa bez dostatku jídla 2027 (Hormuz → fosílie → amoniak → hnojiva); ČR jako zbrojní výrobna (WWII analogie); Operation Oluja 1995 (Chorvatsko — 200 tisíc Srbů vyhnáno, 283 mrtvých, dodnes nikdo nepotrestán); Hunka SS Galicia — ovace v kanadském parlamentu; Palantir = Thiel (napojení na britský fašismus, sponsor JD Vance); Trumpovi synové: wolfram v Kazachstánu; US-Írán 60denní lhůta — Trump ji obešel; migrační pakt ČR — vládní odmítnutí bez formálního opt-outu; vstup Ukrajiny do EU (Vrabel: kategoricky ne).
+- **Zpracováno:** ano
+
+## Ladislav Vrabel — Demografická krize a technologie (1. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-01_Ladislav-Vrabel_Videoportál.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1998283604121939>
+- **Datum záznamu:** 2026-05-01
+- **Délka:** 0:01:56 | Zhlédnutí: 56 744
+- **Poznámka:** Sdílený krátký klip (monolog 30letého muže). Technologie a sociální sítě ničí mezilidské vztahy a způsobují demografickou krizi: dating aplikace optimalizované pro engagement (ne lásku), panoptikon efekt — nikdo netančí v klubech, protože je nahrávají; slib internetu (svoboda, demokracie, štěstí) se nenaplnil; technologické firmy nenesou odpovědnost.
+- **Zpracováno:** ano

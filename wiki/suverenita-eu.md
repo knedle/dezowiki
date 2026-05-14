@@ -416,3 +416,60 @@ Rajchl v krátkém videu z 1. května 2026 přidává ekonomický rozměr: cháp
 > „Chápu, že pro nadnárodní korporace jsou ukrajinští zaměstnanci ochotní pracovat za nižší mzdy hotovou výhrou. Ale pro naše občany, jejich pracovní místa a výši jejich mezd jsou pohromou." — Jindřich Rajchl, [Videoportál 1. 5. 2026](_zdroje.md#jindřich-rajchl--ukrajinští-zaměstnanci-a-české-mzdy-1-5-2026)
 
 **Zdroje:** [Rajchl — FARA, DSA, Dozimetr, 2026-03-15](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr), [Tarabová — Nedělní živé vysílání, 2026-04-26](_zdroje.md#lenka-tarabová--nedělní-živé-vysílání-suverenita-migrace-26-4-2026), [Rajchl — Ukrajinskí zaměstnanci a české mzdy, 1. 5. 2026](_zdroje.md#jindřich-rajchl--ukrajinští-zaměstnanci-a-české-mzdy-1-5-2026)
+
+---
+
+### Ukrajina jako fašistický stát z definice — Vrabel (1. 5. 2026)
+
+Vrabel v komentáři k prvomájovému průvodu „proti fašismu v parlamentu" v Praze přečetl akademickou definici fašismu a bod po bodu ji aplikoval na Ukrajinu. Výsledek: Ukrajina je dle Vrabela „naprosto fašistický režim z definice":
+
+- **Radikální autoritářská nacionalistická ideologie** — zcela; Zelenský vládne jako faktický diktátor bez platného mandátu.
+- **Kult vůdce** — Zelenský se neustále ukazuje ve vojenském oblečení jako váleční vůdce.
+- **Militarismus** — veškerá ekonomika podřízena válce.
+- **Potlačení opozice** — opozice je na Ukrajině zákonem zakázána.
+- **Silná kontrola státu** — stát i ekonomika zcela pod vládní kontrolou.
+- **Obnova mýtické minulosti** — odkazují se na Stepana Banderu (kolaborant s nacisty za WWII).
+
+Vrabel z toho vyvozuje, že průvod „proti fašismu" by byl logičtější pořádat na podporu Ukrajiny, nikoliv proti domácím politikům. Miloše Zemana pak kritizuje za výrok, že „Rusové mají agresi v krvi" — rasová charakteristika národa je dle Vrabela přesně definičním znakem nacismu.
+
+> „Ten režim na Ukrajině — fašismus je radikální, radikální je naprosto ten režim na Ukrajině. Autoritářská — Zelenský tam v podstatě působí jako diktátor, dokonce už ani nezvolený. [...] Jinak to je naprosto fašistický režim z definice a z toho, co se tam děje." — Ladislav Vrabel, [Večerní zprávy 1. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-1-máj-eu-chorvatsko-1-5-2026)
+
+**Zdroje:** [Vrabel — Večerní zprávy: 1. máj, EU, Chorvatsko, 1. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-1-máj-eu-chorvatsko-1-5-2026)
+
+---
+
+### ČR jako zbrojní výrobna — WWII analogie (Vrabel)
+
+Vrabel (1. 5. 2026) konstatuje, že Česká republika přešla po zániku tradičního průmyslu do role zbrojního dodavatele — tentokrát bez přímého nátlaku: „za druhé světové války musel Heydrich tvrdě zasáhnout, aby zvýšil výrobu zbraní v Protektorátu; dnes stačí vyplatit lidi." ČR dodává zbraně a letouny Ázerbájdžánu a Kazachstánu výměnou za energetické suroviny (ropa, uran). Vrabel varuje: „pistolí se člověk nenají" — zbrojní průmysl nenahradí potravinovou soběstačnost a rok 2027 přinese nedostatek jídla.
+
+**Zdroje:** [Vrabel — Večerní zprávy: 1. máj, EU, Chorvatsko, 1. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-1-máj-eu-chorvatsko-1-5-2026)
+
+---
+
+### Operation Oluja (1995): etnická čistka Srbů v Chorvatsku — Vrabel
+
+Vrabel v kontextu prvomájového výročí připomíná chorvatskou vojenskou operaci Oluja (Bouře, 1.–3. 5. 1995): Chorvatsko do tří dnů vyčistilo krajinu od přibližně 200 000 Srbů — zatímco muži bojovali v horách, starci, ženy a děti dostali rozkaz odejít. Uprchlíkům bylo stříleno do zad a na průvod byl proveden letecký útok. Výsledkem bylo 283 mrtvých, včetně 57 žen a 8 dětí. Dodnes nikdo nebyl potrestán; oslavy operace se konají každoročně za přítomnosti západních politiků.
+
+Vrabel operaci označuje za „genocidu a etnickou čistku" — a připomíná novodobý chorvatský hudební festival (cca 400 000 návštěvníků, přítomen premiér i prezident), kde zpěvák prováděl nacistická hesla, aniž by kdokoli nesl odpovědnost.
+
+> „Ta operace trvala tři dny. Dodneška se slaví. Dodneška nikdo nebyl potrestán. Dokonce na ty oslavy jezdí běžně prostě západ." — Ladislav Vrabel, [Večerní zprávy 1. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-1-máj-eu-chorvatsko-1-5-2026)
+
+**Zdroje:** [Vrabel — Večerní zprávy: 1. máj, EU, Chorvatsko, 1. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-1-máj-eu-chorvatsko-1-5-2026)
+
+---
+
+### Migrační pakt: české vládní odmítnutí je formálně prázdné (Vrabel)
+
+Vrabel upozorňuje (1. 5. 2026), že česká vláda sice deklaruje odmítnutí migračního paktu, ale neprovedla žádný formální opt-out — pakt začíná platit přibližně 10. května 2026. Pokud vláda začne odporovat (odmítne přijímat migranty nebo platit), EU ji zažaluje u Evropského soudního dvora, vyhraje a ČR zaplatí pokuty navíc k původním závazkům. Vrabel to uvádí jako příklad toho, jak EU funguje: deklarace v médiích nestačí, k reálnému vyvázání je třeba formální právní krok.
+
+**Zdroje:** [Vrabel — Večerní zprávy: 1. máj, EU, Chorvatsko, 1. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-1-máj-eu-chorvatsko-1-5-2026)
+
+---
+
+### Vstup Ukrajiny do EU: Vrabel kategoricky odmítá
+
+Vrabel (1. 5. 2026) odmítá jakékoliv uvažování o přistoupení Ukrajiny k EU jako „úplný nesmysl": Ukrajina nesplňuje žádnou podmínku — neproběhly volby, veškerá opozice je zakázána, neexistuje svoboda tisku, Zelenského mandát vypršel, ekonomika je stoprocentně závislá na zahraničním financování. Jedinou podmínku pro budoucí přistoupení Vrabel formuluje: „až skončí konflikt, budou tam normální volby a aspoň taková svoboda, jaká je v ČR."
+
+Ironicky dodává: „Možná je to dobře, kdyby vstoupila Ukrajina do EU — alespoň EU dřív zanikne, protože přijdou Rusové."
+
+**Zdroje:** [Vrabel — Večerní zprávy: 1. máj, EU, Chorvatsko, 1. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-1-máj-eu-chorvatsko-1-5-2026)

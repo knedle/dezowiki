@@ -12,6 +12,16 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Globální nedostatek jídla v roce 2027 (1. 5. 2026)
+
+**Předpověď:** V roce 2027 se naplno projeví globální potravinová krize — přibližně 40 % světové populace bude mít nedostatek jídla. Mechanismus: uzavření Hormuzského průlivu → výpadek těžby fosilních paliv → nedostatek amoniaku a močoviny (průmyslová hnojiva) → chybí 30 % hnojiv světové produkce → nižší úrody 2026–2027; zároveň zdražení pohonných hmot zvyšuje vstupní náklady zemědělců. Vrabel radí pěstovat si vlastní zeleninu a pořídit zásoby v sklenicích.
+
+**Horizont:** 2027
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Večerní zprávy: 1. máj, EU, Chorvatsko, 1. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-1-máj-eu-chorvatsko-1-5-2026)
+
+---
+
 ### Ladislav Vrabel — Rusko zaútočí na Evropu v létě 2026 (24. 4. 2026)
 
 **Předpověď:** Rusko s „velmi vysokou pravděpodobností" podnikne v létě 2026 útok na evropská území mimo Ukrajinu — pravděpodobně na Německo, Francii nebo Británii. Vrabel vychází z analýzy Scotta Rittera o plánované rozhodující ofenzívě a z vlastního přesvědčení, že Evropa se fakticky stala stranou konfliktu tím, že vyrábí zbraně a financuje Kyjev. Rusko zároveň spoléhá na nezasáhnutí USA (Trumpův výrok o NATO jako „papírovém drakovi").

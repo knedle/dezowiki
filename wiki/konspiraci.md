@@ -217,6 +217,22 @@ Pavel Zítko ve vysílání z 19./20. dubna 2026 rozvinul svůj výklad rozpadu 
 
 ---
 
+### Palantir — napojení na britský fašismus (Vrabel)
+
+Vrabel ve vysílání 1. května 2026 tvrdí, že technologická společnost Palantir je „vedena vnukem zakladatele fašistické strany ve Velké Británii." Palantir spojuje s Peterem Thielem, jehož označuje za největšího sponzora JD Vance. Vrabel tím naznačuje, že přední technologické a politické elity v USA mají přímé vazby na historický evropský fašismus — a tato linie pokračuje do současné americké politiky.
+
+**Zdroje:** [Vrabel — Večerní zprávy: 1. máj, EU, Chorvatsko, 1. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-1-máj-eu-chorvatsko-1-5-2026)
+
+---
+
+### Jaroslav Hunka a SS Galicia — ovace v kanadském parlamentu (Vrabel)
+
+Vrabel připomíná incident z roku 2023, kdy byl Jaroslav Hunka — příslušník divize Waffen-SS Galicien — v kanadském parlamentu při návštěvě Zelenského přivítán vestoje a oceněn jako „bojovník za osvobození Ukrajiny". Kanada stála a tleskal příslušníku SS. V roce 2026 žaluje Hunka's syn kanadské soudy, aby mu obnovily pojmenovaný fond na Univerzitě Albertě. Vrabel tuto událost zmiňuje jako přímý důkaz, že proukrajinská politika Západu vědomě přijímá nacistické dědictví Banderovského hnutí.
+
+**Zdroje:** [Vrabel — Večerní zprávy: 1. máj, EU, Chorvatsko, 1. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-1-máj-eu-chorvatsko-1-5-2026)
+
+---
+
 ### Nord Stream — Mosad nebo Ukrajina jako pachatel
 
 Boldy odmítá verzi, že za sabotáží plynovodu Nord Stream stálo Rusko, a označuje ji za absurdní — Rusko by sabotovalo vlastní klíčovou infrastrukturu. Za pravděpodobnými pachateli označuje Mosad nebo Ukrajinu, přičemž Ukrajinu označuje jako „malý Izrael".

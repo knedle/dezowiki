@@ -35,3 +35,21 @@ Jiří Černohorský komentuje video, na němž drag queen předvádí tanec za 
 **Zdroje:** [Černohorský — Queer svinstvo, 2026-04-10](_zdroje.md#jiří-černohorský--queer-gender-zákonem-zakázat-10-4-2026)
 
 ---
+
+## Demografická krize a technologie
+
+### Technologie a sociální sítě ničí schopnost párovat se — demografická krize (Vrabel)
+
+Vrabel sdílí monolog 30letého muže o demografické krizi způsobené technologiemi (1. 5. 2026): v jeho generaci nikdo z přátel nemá děti — nula. Přitom HDP roste a lidé mají dost jídla. Příčina je v technologiích:
+
+- **Panoptikon efekt:** 18leté děti v klubech netancí, protože vědí, že je kdokoli může nahrát — každé přiblížení k druhé osobě může skončit zveřejněním na sociálních sítích. Strach ze záznamu brání přirozenému kontaktu.
+- **Algoritmy seznamovacích aplikací** jsou optimalizované pro maximální čas strávený v aplikaci, nikoliv pro nalezení partnera. Mezilidské normy byly „prodány" technologickým firmám bez souhlasu uživatelů.
+- **Slib internetu** byl: demokracie, svoboda, štěstí a ekonomický růst. Slib se nenaplnil; nastoupil dozor, osamělost a demografický kolaps.
+
+Odpovědnost nenese žádná instituce ani žádná technologická firma — společnost nechala technologie „jen tak rozběhnout" bez regulace.
+
+> „Víte, jak optimalizují? Neoptimalizují se tak, abyste potkali svou lásku svého života. Optimalizují vás, abyste se k aplikaci stále vraceli." — monolog z Vrabelova videa, [Vrabel — Demografická krize a technologie, 1. 5. 2026](_zdroje.md#ladislav-vrabel--demografická-krize-a-technologie-1-5-2026)
+
+**Zdroje:** [Vrabel — Demografická krize a technologie, 1. 5. 2026](_zdroje.md#ladislav-vrabel--demografická-krize-a-technologie-1-5-2026)
+
+---
