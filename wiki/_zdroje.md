@@ -840,3 +840,21 @@
 - **Délka:** 0:01:53 | Zhlédnutí: 42 421
 - **Poznámka:** TV rozhovor. PRO na 2,5 %+, nad TOP 09 a KDU, dohromady s SPD+Trikolora+Svobodní ~10 %. Irák jako argument pro diplomatický realismus: milion mrtvých, vyfabrikovaná záminka o ZHN — ČR nepřerušila vztahy s USA; proč tedy přerušovat diplomacii s Ruskem? Označování za „proruského" = mediální tlak. USA samo vyjednává.
 - **Zpracováno:** ano
+
+## Lenka Tarabová — Sdílení videa: presstituti (3. 3. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-03-03_Lenka-Tarabová_74K-views-41K-reactions-JSOU-TOHO-PLNÉ-SOCIÁLNÍ-SÍTĚ-I.txt)
+- **Kanál:** Lenka Tarabová (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1493727112224004&_rdr>
+- **Datum záznamu:** 2026-03-03
+- **Délka:** 0:00:09 | Zhlédnutí: 27 634
+- **Poznámka:** 9sekundový repost videa manžela Tarabové. Caption: „liberální progresivisté, profilováci ‚stojíme za prezidentem', aktivističtí presstituti se mohou zjančit." Bez substantivního wiki obsahu. Přeskočeno v prvním zpracování.
+- **Zpracováno:** ano
+
+## Lenka Tarabová — Schwarzenberg na Prima: „regulérní psychopat" (26. 3. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-03-26_Lenka-Tarabová_54K-views-268-reactions-SCHMARCZE-SI-NA-PRIMĚ-VYDRŽUJÍ.txt)
+- **Kanál:** Lenka Tarabová (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1423514419575383&_rdr>
+- **Datum záznamu:** 2026-03-26
+- **Délka:** 0:00:36 | Zhlédnutí: 2 633
+- **Poznámka:** Tarabová sdílí záběr ze CNN Prima News kde vystupuje „Schmarcze" (Karel Schwarzenberg). Označuje ho za „regulérního psychopata", ironicky děkuje moderátorům Kulidakisovi a Stoniši za jeho zvání. Přepis zachytil jiné video (diskuse o pojmu „rusák"). Obsah vyvozen z popisu a titulku.
+- **Zpracováno:** ano
