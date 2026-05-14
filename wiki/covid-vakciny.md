@@ -197,6 +197,33 @@ Peková tvrdí, že lidé, kteří se snaží odhalovat pochybení z doby covidu
 
 ---
 
+### Kotlár na Slovensku: falešný znalec a hrozba vězení pro Pekovou (duben 2026)
+
+Peková popsala, jak byl politicky zneužit její posudek slovenských vakcín předaný Petru Kotlárovi. Státní zástupce obdržel posudek — a záhy se „zjevil" falešný soudní znalec, který jej zpochybnil. Kotlár odmítl podat trestní oznámení na tohoto falešného znalce. Tím hrozilo, že falešný posudek vstoupí do trestního spisu a anuluje Pekové práci. Anulace by pro ni znamenala obvinění ze záměrného lhaní jakožto soudní znalkyně — s hrozícím trestem odnětí svobody.
+
+Peková Kotlárovo odmítnutí hodnotí jako jednoznačnou zradu: „Ze Slovenska to byl chyba faleš jako hrom." Kotlár rovněž nikdy nevyjasnil, komu vakcíny, které mu Peková přinesla, nakonec předal.
+
+**Zdroje:** [ČsTV2 — Peková: COVID tour, 26. 4. 2026](_zdroje.md#pavel-zítko--peková-mezinárodní-podpora-jako-divadlo-covid-tour-26-4-2026)
+
+---
+
+### Peková: mezinárodní COVID aktivismus jako „divadlo" a plán pro další léta (duben 2026)
+
+Na zastavení COVID tour (duben 2026) Peková shrnuje své poznatky z mezinárodní scény:
+
+- Aktivita kolem Reinera Füllmicha je ve skutečnosti „předstíraná hra pro lidi": „Kontaktovala jsem hromadu lidí dopisů a i ti, na které jsem spolehala, jsem zjistila objektivně, že je to jenom předstíraná hra, aby se lidi domnívali, že se tady něco děje, ale nic se neděje."
+- V Německu existuje parlamentní výbor pro vyšetřování covidových zločinů — ale Füllmichem se odmítá zabývat kvůli jeho ekonomické kriminální věci; Peková: „Neumí oddělit zlato a bláto."
+- Na Slovensku se svoji prací neskončila v soudní síni jen díky vlastní opatrnosti (případ Kotlára — viz výše).
+- Parlament ČR (sněmovní semináře s prof. Turánkem a dalšími lékaři): jasné důkazy byly předneseny — nic z toho vedlo k reakci.
+- „Pan doktor Reichl" (Rajchl) rovněž slíbil pomoc a nepomohl — jen „sliby nezarmoutíš."
+- Skupina zodpovědná za covidová opatření na ministerstvu zdravotnictví v roce 2020 je „znova" na svých místech.
+
+Peková přesto odmítá pesimismus: „Věci, které já dělám ve společenském prostoru, nedělám za zavřenýma dveřma. Když mi někdo něco slíbí, řeknu to, když to nesplní, řeknu to." Plánuje se ucházet o „společenskou funkci" a vyzývá ostatní, aby před vstupem do politiky vyřešili osobní nevyřešená témata (tzv. skříňkové kostry), aby je nikdo nedokázal vydírat ke změně postoje.
+
+**Zdroje:** [ČsTV2 — Peková: COVID tour, 26. 4. 2026](_zdroje.md#pavel-zítko--peková-mezinárodní-podpora-jako-divadlo-covid-tour-26-4-2026)
+
+---
+
 ### Peková a Reiner Füllmich: mezinárodní selhání, česká petice jako precedens (Chcimír, 22. 4. 2026)
 
 Soňa Peková na akci COVID tour v komunitním centru Chcimír v Mostě (22. 4. 2026) popsala stav mezinárodní kampaně za propuštění Reinera Füllmicha (německý právník, vězněn 2,5 roku):

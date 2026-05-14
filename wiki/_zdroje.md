@@ -732,3 +732,12 @@
 - **Délka:** 0:37:11 | Zhlédnutí: 528
 - **Poznámka:** Peková na akci v Mostě (Chcimír): data Stassenovi (Amsterdam), EP odmítl Füllmicha; Peková píše Füllmichovi (narozeniny 5. 5.); petice jako EU precedens; plánovaná audience u Petra Pavla; Pavlův právník ji odmítl — jde přesto.
 - **Zpracováno:** ano
+
+## Pavel Zítko — Peková: mezinárodní podpora jako divadlo, COVID tour (26. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-26_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1341530674519984&_rdr>
+- **Datum záznamu:** 2026-04-26
+- **Délka:** 0:08:02 | Zhlédnutí: 1 505
+- **Poznámka:** Peková na závěru COVID tour: aktivita kolem Füllmicha je „předstíraná hra"; Kotlár odmítl podat TZ na falešného znalce — hrozba vězení pro Pekovou; Rajchl (Reichl) slíbil pomoc a nepomohl; ministerstvo zdravotnictví — stejná skupina jako 2020; Peková chce kandidovat na „společenskou funkci".
+- **Zpracováno:** ano
