@@ -786,3 +786,48 @@
 - **Délka:** 0:08:02 | Zhlédnutí: 1 505
 - **Poznámka:** Peková na závěru COVID tour: aktivita kolem Füllmicha je „předstíraná hra"; Kotlár odmítl podat TZ na falešného znalce — hrozba vězení pro Pekovou; Rajchl (Reichl) slíbil pomoc a nepomohl; ministerstvo zdravotnictví — stejná skupina jako 2020; Peková chce kandidovat na „společenskou funkci".
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — EURO nikdy, jedině česká koruna (27. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-27_Jindřich-Rajchl_Videoportál_1.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/822976920398312>
+- **Datum záznamu:** 2026-04-27
+- **Délka:** 0:00:27 | Zhlédnutí: 148 588
+- **Poznámka:** Krátký clip — politici mají realizovat vůli občanů, ne jim vnucovat svůj názor; „EURO nikdy, jedině česká koruna." Přepis zachytil jiný obsah (COVID tour promo), obsah vyvozen z popisu videa.
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — EU armáda a jaderná válka (28. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-28_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1473186864352761>
+- **Datum záznamu:** 2026-04-28
+- **Délka:** 0:02:38 | Zhlédnutí: 30 531
+- **Poznámka:** TV debate clip se Zdechovským. Odmítá EU armádu (Německo by dominovalo), odmítá jaderný štít (snižuje bezpečnost), odmítá přípravu na jadernou válku (Einstein — třetí válka atomová, čtvrtá klacky), chce diplomacii a politiku všech azimutů; „Nemiluju Rusko, miluju Českou republiku."
+- **Zpracováno:** ano
+
+## Pavel Zítko — Pozvánka: COVID tour Krásná Lípa (28. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-28_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Facebook Live)
+- **URL:** <https://m.facebook.com/watch/?v=1459678869033069&_rdr>
+- **Datum záznamu:** 2026-04-28
+- **Délka:** 0:03:42 | Zhlédnutí: 686
+- **Poznámka:** Logistická pozvánka z kulturního domu Krásná Lípa u Rumburku — předposlední zastávka COVID-19 tour se Soňou Pekovou. Finále 1. 5. na Paloučku u Plzně (Příšov), poté přesun na Slovensko 15.–17. 5. Žádný substantivní wiki obsah.
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Sudetoněmecký sjezd, proslov Novotného lávka (29. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-29_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/969435135737612>
+- **Datum záznamu:** 2026-04-29
+- **Délka:** 0:13:53 | Zhlédnutí: 88 811
+- **Poznámka:** Proslov na Novotného lávce za přítomnosti Zemana a prof. Pavlíčka. Revizionismus (Nerudová, zamlčování 15. 3. a 29. 9.), odmítnutí termínů „Sudety" (nacistický koncept) a „Smíření" (záloha: zrušení dekretů), Siegfried Soglma (Hitlerjugend, Landsmannschaft do 1993, SS přihláška: rozbití ČSR), Vitykobund (web: Raubgut, Böhmen und Mähren, součást Germánie), KKK srovnání; výzva k sjednocení za jednoho kandidáta v 2028.
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Zdechovský: „spirálách" (29. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-29_Jindřich-Rajchl_Videoportál_1.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1779268460080063>
+- **Datum záznamu:** 2026-04-29
+- **Délka:** 0:00:24 | Zhlédnutí: 66 297
+- **Poznámka:** Krátký mockery clip — Zdechovský v TV debatě použil „spirálách" místo „vertikálách/úrovních"; Rajchl ho označuje za „suteréna" užívajícího cizí termíny, jimž nerozumí. Bez substantivního wiki obsahu.
+- **Zpracováno:** ano

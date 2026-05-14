@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Jindřich Rajchl — Prezidentské volby 2028 jako šance sjednotit opozici (29. 4. 2026)
+
+**Předpověď:** Prezidentské volby v roce 2028 jsou první reálnou šancí sjednotit českou opozici za jediného kandidáta a nahradit Petra Pavla, který realizuje politiku eroze suverenity (Benešovy dekrety, euro, EU superstat). Výzva zazněla na debatě na Novotného lávce za přítomnosti Miloše Zemana a dalších.
+
+> „Ta první příležitost budou prezidentské volby v roce 2028... Postavme se za jednoho kandidáta a pošleme na hrad někoho, kdo bude skutečným lídrem tohoto národa." — Jindřich Rajchl, [Videoportál 29. 4. 2026](_zdroje.md#jindřich-rajchl--sudetoněmecký-sjezd-proslov-novotného-lávka-29-4-2026)
+
+**Horizont:** prezidentské volby 2028
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Rajchl — Sudetoněmecký sjezd, proslov Novotného lávka, 29. 4. 2026](_zdroje.md#jindřich-rajchl--sudetoněmecký-sjezd-proslov-novotného-lávka-29-4-2026)
+
+---
+
 ### Pavel Zítko — Česká COVID rozsudky jako domino pro svět (24. 4. 2026)
 
 **Předpověď:** Pokud dojde v ČR ke zrušení sporných COVID rozsudků (Peková, Čermák, Popelka a další), spustí to vlnu podobných zrušení v dalších zemích světa — efekt domina, který povede ke svobodě i Reinera Füllmicha.
