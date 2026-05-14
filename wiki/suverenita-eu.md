@@ -411,4 +411,8 @@ Rajchl označuje za hlavní příčinu napětí mezi českou a ukrajinskou komun
 
 Tarabová přidává konkrétní bezpečnostní rozměr (26. 4. 2026): od roku 2022 dramaticky narůstá kybernetická kriminalita — telefonní šmejdi se vydávají za bankéře nebo policisty a vylákávají peníze od seniorů. Odborníci na kyberbezpečnost toto narůstání přímo spojují se začátkem ukrajinské migrace. Vedle toho část Ukrajinců pobírá sociální dávky neoprávněně: fyzicky pobývají na Ukrajině a jednou měsíčně přijíždějí dávky vyzvednout. Státní týmy přitom monitorují „nebezpečné komentáře na internetu" místo vyšetřování zmíněné kriminality. Za řešení považuje automatické vyhoštění všech cizinců, kteří na území ČR spáchají trestný čin.
 
-**Zdroje:** [Rajchl — FARA, DSA, Dozimetr, 2026-03-15](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr), [Tarabová — Nedělní živé vysílání, 2026-04-26](_zdroje.md#lenka-tarabová--nedělní-živé-vysílání-suverenita-migrace-26-4-2026)
+Rajchl v krátkém videu z 1. května 2026 přidává ekonomický rozměr: chápe, proč nadnárodní korporace vítají ukrajinskce zaměstnance (pracují za nižší mzdy), ale z pohledu českých občanů a jejich pracovních míst a mezd jde o pohromu. Deklaruje, že bude vždy stát na straně českých občanů.
+
+> „Chápu, že pro nadnárodní korporace jsou ukrajinští zaměstnanci ochotní pracovat za nižší mzdy hotovou výhrou. Ale pro naše občany, jejich pracovní místa a výši jejich mezd jsou pohromou." — Jindřich Rajchl, [Videoportál 1. 5. 2026](_zdroje.md#jindřich-rajchl--ukrajinští-zaměstnanci-a-české-mzdy-1-5-2026)
+
+**Zdroje:** [Rajchl — FARA, DSA, Dozimetr, 2026-03-15](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr), [Tarabová — Nedělní živé vysílání, 2026-04-26](_zdroje.md#lenka-tarabová--nedělní-živé-vysílání-suverenita-migrace-26-4-2026), [Rajchl — Ukrajinskí zaměstnanci a české mzdy, 1. 5. 2026](_zdroje.md#jindřich-rajchl--ukrajinští-zaměstnanci-a-české-mzdy-1-5-2026)

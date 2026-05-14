@@ -859,6 +859,24 @@
 - **Poznámka:** Tarabová sdílí záběr ze CNN Prima News kde vystupuje „Schmarcze" (Karel Schwarzenberg). Označuje ho za „regulérního psychopata", ironicky děkuje moderátorům Kulidakisovi a Stoniši za jeho zvání. Přepis zachytil jiné video (diskuse o pojmu „rusák"). Obsah vyvozen z popisu a titulku.
 - **Zpracováno:** ano
 
+## Lenka Tarabová — „Nejbezpečnější vakcína je žádná vakcína" (1. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-01_Lenka-Tarabová_Videoportál.txt)
+- **Kanál:** Lenka Tarabová (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=914914574930640&_rdr>
+- **Datum záznamu:** 2026-05-01
+- **Délka:** 0:01:47 | Zhlédnutí: 374
+- **Poznámka:** Přepis zachytil jiné audio (muž o Ukrajinskách na pracovišti). Obsah vyvozen z popisu: Tarabová shrnuje diskuze o vedlejších účincích vakcín a zpochybňuje očkovací kalendář pro děti (0–18 let). Heslo: „nejbezpečnější vakcína je žádná vakcína."
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Ukrajinskí zaměstnanci a české mzdy (1. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-01_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1448944636399613>
+- **Datum záznamu:** 2026-05-01
+- **Délka:** 0:00:16 | Zhlédnutí: 102 785
+- **Poznámka:** 16sekundový clip. Přepis zachytil jiné audio (žena o NOS); obsah vyvozen z popisu. Rajchl říká, že ukrajinskí pracovníci za nižší mzdy jsou „výhra pro nadnárodní korporace, ale pohroma pro české občany."
+- **Zpracováno:** ano
+
 ## Ladislav Vrabel — Večerní zprávy: Rusko, Írán, EU (24. 4. 2026)
 - **Soubor:** [přepis](prepisy/done/2026-04-24_Ladislav-Vrabel_Facebook-Live.txt)
 - **Kanál:** Ladislav Vrabel (Facebook Live)
