@@ -359,6 +359,16 @@ Jiří Černohorský prohlašuje, že masakr v Buči byl inscenací ukrajinskéh
 
 ---
 
+### Diplomatická dvojí tvář: Irák (milion mrtvých, vyfabrikovaná záminka) vs. Rusko
+
+Rajchl v TV rozhovoru z 30. dubna 2026 argumentuje pro diplomatický realismus vůči Rusku analogií s Irákem. USA zahájily druhou iráckou válku na základě prokázaně vyfabrikované záminky o zbraních hromadného ničení — výsledkem byl přes milion mrtvých civilistů, přičemž USA tuto záminku samy přiznaly. Česká republika přesto diplomatické vztahy s USA nepřerušila. Rajchl z toho vyvozuje, že označovat kohokoliv, kdo chce s Ruskem vyjednávat, za „proruského", je dvojí standard. Sebevědomá zahraniční politika neznamená přerušovat diplomacii — USA samo nevykřikuje, že „Rusko je agresor", ale aktivně se snaží vyjednávat. Nepodléhat mediálnímu tlaku označuje za základ svébytné zahraniční politiky.
+
+> „V Iráku bylo taky milion mrtvých, včetně žen, včetně dětí. A říkali jsme, že se nebudeme bavit s Amerikou, nebo přerušili jsme s nimi nějaké diplomatické vztahy? Přitom ta válka byla zahájena na základě smyšlené záminky..." — Jindřich Rajchl, [Videoportál 30. 4. 2026](_zdroje.md#jindřich-rajchl--irák-diplomacie-a-dvojí-tvář-30-4-2026)
+
+**Zdroje:** [Rajchl — Irák, diplomacie a dvojí tvář, 30. 4. 2026](_zdroje.md#jindřich-rajchl--irák-diplomacie-a-dvojí-tvář-30-4-2026)
+
+---
+
 ## Izrael a Palestina
 
 ### Hamas vznikl díky Izraeli — historická odpovědnost za Gaza

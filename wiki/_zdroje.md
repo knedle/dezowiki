@@ -831,3 +831,12 @@
 - **Délka:** 0:00:24 | Zhlédnutí: 66 297
 - **Poznámka:** Krátký mockery clip — Zdechovský v TV debatě použil „spirálách" místo „vertikálách/úrovních"; Rajchl ho označuje za „suteréna" užívajícího cizí termíny, jimž nerozumí. Bez substantivního wiki obsahu.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Irák, diplomacie a dvojí tvář (30. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-30_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/832277782732005>
+- **Datum záznamu:** 2026-04-30
+- **Délka:** 0:01:53 | Zhlédnutí: 42 421
+- **Poznámka:** TV rozhovor. PRO na 2,5 %+, nad TOP 09 a KDU, dohromady s SPD+Trikolora+Svobodní ~10 %. Irák jako argument pro diplomatický realismus: milion mrtvých, vyfabrikovaná záminka o ZHN — ČR nepřerušila vztahy s USA; proč tedy přerušovat diplomacii s Ruskem? Označování za „proruského" = mediální tlak. USA samo vyjednává.
+- **Zpracováno:** ano
