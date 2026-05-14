@@ -57,6 +57,7 @@ Pokud uživatel nepřiloží konkrétní seznam, vyber 3 nejstarší nezpracovan
 - **Tvrzení** — konkrétní faktuální výroky ("X způsobuje Y", "Z funguje tak, že...")
 - **Názory a postoje** — hodnotící výroky, přesvědčení, doporučení
 - **Zajímavé citace** — přesné formulace hodné zachování (max 1–2 věty)
+- **Predikce** — explicitní předpovědi budoucího vývoje ("za X měsíců nastane Y", "do voleb se stane Z", "Bitcoin dosáhne..."); zaznamenávej do `wiki/predikce.md`
 
 ### Jak strukturovat výstup
 - Obsah organizuj **tematicky**, ne podle videí
@@ -80,6 +81,24 @@ Stručný popis (2–4 věty vlastními slovy, ne copy-paste).
 
 ---
 ```
+
+### Formát záznamu predikce v `wiki/predikce.md`
+
+```markdown
+### [Mluvčí] — [Stručný název] (datum výroku)
+
+**Předpověď:** Co konkrétně předpovídá (vlastními slovy, max 2 věty).
+
+> „Přesná citace." — Jméno
+
+**Horizont:** Do kdy / kdy má nastat (nebo „neurčeno")
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Název videa](_zdroje.md#anchor)
+
+---
+```
+
+Záznamy řaď **od nejnovějšího výroku** (nejnovější nahoře).
 
 ### Soubor `_zdroje.md`
 
@@ -132,7 +151,8 @@ Každý mluvčí má vlastní stránku v `wiki/osoby/[jmeno].md`. Stránka obsah
 5. Přidej záznam do `wiki/_zdroje.md` — soubor jako `[přepis](prepisy/done/název.txt)`, URL jako `<https://...>`
 6. Přesuň soubor do `wiki/prepisy/done/` pomocí PowerShell `Move-Item`
 7. Aktualizuj stránku mluvčího v `wiki/osoby/` — témata i zmíněné osoby
-8. Aktualizuj `mkdocs.yml` nav sekci, pokud vznikl nový soubor
+8. Přidej nalezené predikce do `wiki/predikce.md` (řazeno od nejnovějšího)
+9. Aktualizuj `mkdocs.yml` nav sekci, pokud vznikl nový soubor
 
 ---
 
