@@ -223,3 +223,15 @@ Jindřich Rajchl obhajuje tvrdou politickou odvetu jako legitimní nástroj. Sch
 > „Tady máte jasný důkaz toho, že je tato chamrať, fialovo-modrožlutá chamrať, fašistická, není o čem." — Jiří Černohorský, [TikTok živě 2025-06-08](_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025)
 
 **Zdroje:** [Černohorský — TikTok živě, 2025-06-08](_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025)
+
+---
+
+## Informovanost voličů
+
+### Mladí voliči neznají základy moderních dějin — Rajchl
+
+Rajchl sdílí videoklip (70 tisíc zhlédnutí), v němž reportér testuje znalost moderních dějin u mladých lidí na ulici. Otázky se týkají: proč se Sametové revoluci říká Sametová, v jakém roce proběhla, co je zkratka OF (Občanské fórum), kdy se stal Václav Havel poprvé prezidentem, co je samizdat, kdy byla zveřejněna Charta 77, co byl Palachův týden a co je zkratka StB. Odpovědi jsou z velké části chybné nebo „nevím" — respondenti uvádějí jako rok Sametové revoluce 1935, 1945, 1948, 1950, 1970, 1993; StB je popsána jako „spolek lidí stíhaných za věci oproti státu."
+
+Rajchl záměrně staví video jako protiargument k tvrzení, že senioři by neměli chodit volit, protože jsou zaostalí nebo „ničemu nerozumí" — a ukazuje, že mladá generace nedisponuje ani základní historickou orientací.
+
+**Zdroje:** [Rajchl — Historický kvíz: znalosti moderních dějin, 2. 5. 2026](_zdroje.md#jindřich-rajchl--historický-kvíz-znalosti-moderních-dějin-2-5-2026)

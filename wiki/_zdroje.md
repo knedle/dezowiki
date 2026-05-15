@@ -921,3 +921,30 @@
 - **Délka:** 0:01:56 | Zhlédnutí: 56 744
 - **Poznámka:** Sdílený krátký klip (monolog 30letého muže). Technologie a sociální sítě ničí mezilidské vztahy a způsobují demografickou krizi: dating aplikace optimalizované pro engagement (ne lásku), panoptikon efekt — nikdo netančí v klubech, protože je nahrávají; slib internetu (svoboda, demokracie, štěstí) se nenaplnil; technologické firmy nenesou odpovědnost.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Historický kvíz: znalosti moderních dějin (2. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-02_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1621107582290859>
+- **Datum záznamu:** 2026-05-02
+- **Délka:** 0:05:13 | Zhlédnutí: 70 959
+- **Poznámka:** Reportér testuje znalost moderních dějin u mladých lidí na ulici — Sametová revoluce, Havel, OF, samizdat, Charta 77, Palachův týden, StB. Odpovědi jsou z velké části chybné nebo „nevím." Rajchl: protiargument k tvrzení, že senioři by neměli volit.
+- **Zpracováno:** ano
+
+## Ladislav Vrabel — Večerní zprávy: NATO, Írán, EU militarizace (2. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-02_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/2486477888424211>
+- **Datum záznamu:** 2026-05-02
+- **Délka:** 0:58:55
+- **Poznámka:** Sobotní večerní zprávy se Zuzkou. Klíčová témata: Zelenský-Fico telefonát (Fico podporuje vstup Ukrajiny do EU, Orbán blokáda pryč); Babiš jmenoval Landovského vládním zmocněncem pro NATO („třetí NATO člověk ve vládě"); Kolby (USA): Evropa musí převzít obranu a financování Ukrajiny; US stahuje 5 000 vojáků z Německa; Írán 16 poškozených US zařízení (CNN potvrdila); Amazon datová centra v SAE zasažena drony; Hormuz: průtok klesl z 20M na 4M barelů/d (IEA); Karel III v Kongresu; Trump 25% cla na EU auta; Německo modernizuje Bremerhaven (1,35 mld EUR, vojenská logistika); EU ADDV — kamera v autech pro sledování řidiče od července 2026; 6G síť jako planetární sledovací organismus (AI real-time tracking); Kuwait zastavil vývoz ropy.
+- **Zpracováno:** ano
+
+## Pavel Zítko — Večerník 29. dubna: referendum, vlastizrada, admiralty law (2. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-02_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1281772257495733&_rdr>
+- **Datum záznamu:** 2026-04-29 (vysílání), zveřejněno 2026-05-02
+- **Délka:** 0:54:24 | Zhlédnutí: 6
+- **Poznámka:** Večerník 29. 4. Hlavní témata: (1) 13minutový dokument o slově „referendum" — politici slibovali referendum o rozdělení ČS, zákon 327/1991 byl ignorován, Klaus+Mečiar+Havel = vlastizrada, nepromlčitelná; COVID tour Peková — konference Bratislava 5. 5., Reiner Füllmich narozeniny 5. 5.; (2) Admiralty law / sovereign citizen — rodný list jako obchodní cenný papír na NYSE, Vatikán, právní fikce od narození; přirozené právo bylo obnoveno ale nikdo vám to neřekl; plochá Země narážka na konci.
+- **Zpracováno:** ano
