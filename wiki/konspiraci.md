@@ -240,3 +240,30 @@ Boldy odmítá verzi, že za sabotáží plynovodu Nord Stream stálo Rusko, a o
 > „Jediný, kdo by to mohl tak udělat, je buď Mosad, anebo vlastně Ukrajina, což je jedno a to samé, protože Ukrajina je malý Izrael, jo." — Boldy, [Facebook Live 2026-03-12](_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
 
 **Zdroje:** [Boldy — Facebook Live, 2026-03-12](_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
+
+---
+
+## Sledování a digitální kontrola
+
+### Síť 6G jako planetární sledovací organismus — Vrabel (2. 5. 2026)
+
+Vrabel ve večerním vysílání (2. 5. 2026) popisuje, jak bude fungovat technologie 6G, která by měla nahradit 5G a Wi-Fi sítě od roku 2030. Podle jeho výkladu nejde jen o rychlejší internet, ale o kvalitativně odlišný systém s dopady na sledování obyvatelstva:
+
+- **Laser místo všesměrového pokrytí**: 6G signál funguje jako zaměřovaný paprsek; neprostoupí zdí ani vodou, proto vyžaduje hustou síť odrazových ploch (dopravní zrcadla, značky, povrchy).
+- **Síť jako umělý organismus**: Celá síť bude řídit sama sebe v reálném čase prostřednictvím AI — vyhodnocuje pohyb, trasy, odchylky od zvyklostí; ví, kde kdo obvykle chodí, a automaticky zaznamenává odchylky.
+- **Sledování bez telefonu**: Díky tomu, že signál se odráží od všech povrchů, lze triangulací zachytit fyzickou přítomnost osob i bez mobilního zařízení — podobně jako netopýr používající echolokaci. Tlačítkový telefon „nepomůže."
+- **Napojení na digitální identitu**: Síť bude propojena s digitálními průkazy uživatelů a odesílat data o pohybu v reálném čase.
+
+Vrabel uvádí, že jedinou cestou jak se tomuto systému vyhnout je přebývat tam, kde nebude ekonomicky výhodné 6G infrastrukturu budovat — a plánuje proto vybudovat meditační centrum v horách „mimo dosah sítě."
+
+**Zdroje:** [Vrabel — Večerní zprávy: NATO, Írán, EU militarizace, 2. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-nato-írán-eu-militarizace-2-5-2026)
+
+---
+
+### Rodný list jako obchodní papír na burze v New Yorku — admirality law (Zítko)
+
+Zítko ve vysílání z 29. dubna 2026 přijal teorii suverénního občana (sovereign citizen) o „právu admirality": při narození je z každého člověka vytvořena „právní fikce" — jeho rodný list je prý obchodní cenný papír obchodovaný na New Yorkské burze. Systém tuto konstrukci záměrně skrývá, protože jde o klíčový nástroj ovládání obyvatelstva. Zítko doplňuje, že maminky při podpisu dokumentu o hlášení narození dítěte odevzdaly práva svého dítěte „do Vatikánu". Zákon admirality byl prý formálně zrušen, ale „zapomněli vám říct" — přirozené a nezadatelné právo stále existuje.
+
+Tato teorie navazuje na Zítkův dřívější výklad, že Vatikán, City of London a Washington DC jsou skutečná mocenská centra světa, zatímco volby a demokratické vlády jsou pouhá „loutková divadla."
+
+**Zdroje:** [Zítko — Večerník 29. dubna: referendum, vlastizrada, admiralty law, 2. 5. 2026](_zdroje.md#pavel-zítko--večerník-29-dubna-referendum-vlastizrada-admiralty-law-2-5-2026)

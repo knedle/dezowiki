@@ -473,3 +473,44 @@ Vrabel (1. 5. 2026) odmítá jakékoliv uvažování o přistoupení Ukrajiny k 
 Ironicky dodává: „Možná je to dobře, kdyby vstoupila Ukrajina do EU — alespoň EU dřív zanikne, protože přijdou Rusové."
 
 **Zdroje:** [Vrabel — Večerní zprávy: 1. máj, EU, Chorvatsko, 1. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-1-máj-eu-chorvatsko-1-5-2026)
+
+---
+
+### Fico otočil: Slovensko podporuje vstup Ukrajiny do EU — Vrabel (2. 5. 2026)
+
+Vrabel komentuje zprávu o telefonátu Zelenský-Fico (2. 5. 2026): Fico veřejně potvrdil, že Slovensko podporuje vstup Ukrajiny do EU a obě strany dojednávají osobní setkání. Vrabel to hodnotí jako „ránu zprava i zleva" — a konstatuje, že se naplnil jeho dříve vyslovený předpoklad: se ztrátou Viktora Orbána (po volebním průlomu Petera Magyara) zmizel z EU poslední hráč ochotný vstup Ukrajiny brzdit. Jedinou relativní brzdou nyní zůstává Friedrich Merz, který odmítl „rychlé přistoupení" jako nerealistické — ale ani on není kategorickým odpůrcem.
+
+**Zdroje:** [Vrabel — Večerní zprávy: NATO, Írán, EU militarizace, 2. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-nato-írán-eu-militarizace-2-5-2026)
+
+---
+
+### Babiš jmenoval Landovského vládním zmocněncem pro NATO — „třetí NATO člověk ve vládě" (Vrabel)
+
+Vrabel (2. 5. 2026) komentuje jmenování Jakuba Landovského vládním zmocněncem pro Severoatlantickou alianci. Landovský je bývalý náměstek ministra obrany, bývalý velvyslanec ČR při NATO a dřívější šéf SPEN institutu (strategické bezpečnostní výzkumy). Vrabel říká, že mu „vyrazilo dech" — Babiš nyní disponuje třemi osobami s přímou vazbou na NATO ve vrcholných funkcích: prezident Petr Pavel, ministr obrany a nový vládní zmocněnec. Vrabel to hodnotí jako potvrzení svého dřívějšího varování, aby vlastenci nevolili Babiše, protože spolupracuje s NATO a Evropskou unií.
+
+**Zdroje:** [Vrabel — Večerní zprávy: NATO, Írán, EU militarizace, 2. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-nato-írán-eu-militarizace-2-5-2026)
+
+---
+
+### USA požadují, aby Evropa převzala obranu a financování Ukrajiny — Kolby (Vrabel)
+
+Vrabel referuje (2. 5. 2026) o vystoupení Eldridge Kolbyho, náměstka amerického ministra obrany pro politiku, na zasedání kontaktní skupiny pro obranu Ukrajiny. Kolby v podstatě předal Evropě tři požadavky: (1) urychlit budování vlastních obranných kapacit, navyšovat výrobu munice a průmysl; (2) přejít k dlouhodobě udržitelnému modelu financování Ukrajiny (nynější pomoc šla z omezených amerických zásob); (3) zvýšit finanční příspěvky. USA zároveň stahují přibližně 5 000 vojáků z Německa (z nynějších 35 000) v horizontu 6–12 měsíců.
+
+Vrabel interpretuje tato opatření jako záměrnou strategii: USA opouštějí Evropu, aby ji donutily se vojensky sjednotit a vybudovat vlastní armádu (vznik „Spojených Evropských států"), přičemž zároveň požadují, aby Evropa zajistila průtok plynu Hormuzským průlivem.
+
+**Zdroje:** [Vrabel — Večerní zprávy: NATO, Írán, EU militarizace, 2. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-nato-írán-eu-militarizace-2-5-2026)
+
+---
+
+### Referendum o rozdělení Československa neproběhlo — vlastizrada dle Zítka (29. 4. 2026)
+
+Zítko ve vysílání z 29. dubna 2026 sdílí 13minutový sestřih záběrů, v nichž politici opakovaně zmiňují slovo „referendum" před rozdělením Československa v roce 1992 — žádné referendum však neproběhlo. Zítko to právně interpretuje jako vlastizradu:
+
+- Zákon č. 327/1991 Sb. (o referendu) byl ignorován; ani HZDS ani ODS, které vyhrály červnové volby 1992, neměly ve svých programech rozdělení ČSR.
+- Politici tak neměli demokratický mandát k zániku unitárního státu.
+- Zákon č. 11/1918 Sb. o Československé republice dle Zítka stále platí — politici zrušili jen podvodně zavedenou federaci ČSFR, nikoliv původní ČSR.
+- Vlastizrada je nepromlčitelná.
+
+Zítko označuje za tři přímé aktéry vlastizrady Vladimíra Mečiara, Václava Klause a Václava Havla (který prý „křivopřísahal"). Jako motivaci pro zahraniční tlak na rozdělení uvádí, že nástupnické státy ČR a SR nejsou dědici ČSR, a Německo tak nemusí platit válečné reparace.
+
+**Zdroje:** [Zítko — Večerník 29. dubna: referendum, vlastizrada, admiralty law, 2. 5. 2026](_zdroje.md#pavel-zítko--večerník-29-dubna-referendum-vlastizrada-admiralty-law-2-5-2026)

@@ -109,3 +109,17 @@ Jako příklad fungující alternativy cituje Srbsko: prezident Vučić vyjednal
 Vrabel komentuje zprávu o tom, že JP Morgan Chase plánuje investovat 1,5 bilionu USD do strategických projektů v Evropě — v oblastech obrany, energetiky, infrastruktury a umělé inteligence. Tuto investici interpretuje jako důkaz, že velké globalistické korporace záměrně financují zbrojní průmysl a připravují válku v Evropě — přičemž přirovnává situaci k tomu, jak americké firmy (Coca-Cola a další, přes švýcarské fondy) financovaly Hitlera a druhou světovou válku. Současná Evropa přešla na model ekonomiky postavené na výrobě zbraní, protože svůj původní model (levné energie + qualitní výrobky) ztratila.
 
 **Zdroje:** [Vrabel — Večerní zprávy: globalisté, Írán, ekonomická krize, 2026-04-25](_zdroje.md#ladislav-vrabel--večerní-zprávy-globalisté-írán-ekonomická-krize-25-4-2026)
+
+---
+
+## Hormuzský průliv a energetická krize
+
+### Průtok ropy Hormuzem klesl z 20 na 4 miliony barelů denně — Vrabel (2. 5. 2026)
+
+Vrabel ve vysílání z 2. 5. 2026 referuje o dubnové zprávě Mezinárodní energetické agentury (IEA): objem ropy přepravované přes Hormuzský průliv klesl z více než 20 milionů barelů denně na méně než 4 miliony barelů. Kuwait Petroleum Corporation (běžně 1,9 M b/d) prakticky zastavila vývoz — zásoby skladuje nebo přesměrovává do domácích rafinerií. Saúdská Arábie část exportu přesměrovala přes Rudé moře, SAE přes ropovod do Fudžajry.
+
+Írán veřejně prohlásil kontrolu nad průlivem za „přirozené a legitimní právo" pobřežního státu; OSN vyzval k respektování svobody plavby.
+
+Vedle toho iránské drony v březnu 2026 zasáhly datová centra Amazon Web Services v SAE — AWS přiznal, že obnova potrvá měsíce. Vrabel propojuje energetickou krizi s hrozící potravinovou krizí: zavřený průliv → výpadek fosilních paliv → nedostatek amoniaku/močoviny → snížení výnosu hnojiv → zdražení a nedostatek potravin. Doporučuje zásoby potravin a hotovost mimo banky.
+
+**Zdroje:** [Vrabel — Večerní zprávy: NATO, Írán, EU militarizace, 2. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-nato-írán-eu-militarizace-2-5-2026)
